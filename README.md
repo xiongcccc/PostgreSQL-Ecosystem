@@ -31,11 +31,21 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [深度剖析 MultiXactID](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490036&idx=1&sn=13579e1935823ac9f74978f903dd39f0&chksm=fa6631c5cd11b8d31645c8153512cd472ea0015055372eec41ff6bc206c9e81c7451b7f22d35&token=1039605624&lang=zh_CN#rd)
 
+[页剪枝与奇妙的BUG](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489151&idx=1&sn=56737e4e0933440cc8978ca61a3fe59f&chksm=fa663e4ecd11b758aa8dd0f2834c6538040c4a557016c69fbaf33bd71e006876534de6a49147&token=1039605624&lang=zh_CN#rd)
+
+[小案例之鸡生蛋还是蛋生鸡](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488784&idx=1&sn=08e604da53d36875edf438203d3a6742&chksm=fa663d21cd11b43773396bd02f128c74ccea31e493177ff817fbed86c1f78f4fc0097528e810&token=1039605624&lang=zh_CN#rd)
+
+[数据库为什么会丢数据？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247484713&idx=1&sn=8fb8668af0ea8f31b0ed5fb558b9819e&chksm=fa662d18cd11a40ef160ead01833e56dfd1a85bd1ed60b8e0c667ba7b6ae83c20ba61075542b&token=1039605624&lang=zh_CN#rd)
+
 ### 生产案例
 
 [活久见，不同用户不同执行计划](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489813&idx=1&sn=22360e2bfd40fc2d0caed0a9d825b1d4&chksm=fa663124cd11b832953e789127927ffa0d63d6c948ca8934d5317b8eaae6e71374041ec038f7&token=1039605624&lang=zh_CN#rd)
 
+[生产案例 | multiple postmaster](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486209&idx=1&sn=684db9b833a48e319d358903727ec05f&chksm=fa662330cd11aa260498dc8a52fa154cea54fc18adeb93fb871b1be657b25f0e6281fea8d782&token=1039605624&lang=zh_CN#rd)
 
+[再聊聊snapshot too old的利弊](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488641&idx=1&sn=26908da37728fd0091342a2b90f7435d&chksm=fa663cb0cd11b5a67804be55cd4f0277ed3ea7620b00699bf85e2d63f19dc8ccfa31b8742f1b&token=1039605624&lang=zh_CN#rd)
+
+[主键重复的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488461&idx=1&sn=8c7aaf71fd6e6649162ba1ad828f222f&chksm=fa663bfccd11b2eac3453a2e33bdccbff8b459356c6dc96e0fc98859185eff09ef06c5fd4e17&token=1039605624&lang=zh_CN#rd)
 
 ### PostgreSQL活动记录
 
@@ -46,6 +56,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [PostgreSQL 技术沙龙来啦](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488377&idx=1&sn=6225186b646a23b1c1d2450f4b4fc499&chksm=fa663b48cd11b25ebc74e153684908aba34ef123c55824bf484e108fbd18b9d1e0faffeedf71&token=1039605624&lang=zh_CN#rd)
 
 [第十届 PostgreSQL 技术大会有感](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247484624&idx=1&sn=52c635ab58b79e0cec046e52f9fcb373&chksm=fa662ce1cd11a5f76a7191f80aeae7f0371dfba0be251abe93623e900456c45910613a84aea7&token=1039605624&lang=zh_CN#rd)
+
+### 培训认证
+
+[简单科普一下PostgreSQL的培训认证](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486497&idx=1&sn=d98724250b46c6b99a11b8e8c3feb460&chksm=fa662410cd11ad060c4566ec178ace7a7045d056b87daf46f30b15818951f764aa682f474baf&token=1039605624&lang=zh_CN#rd)
 
 ### 精品大图
 
@@ -60,6 +74,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 ### 优化
 
 [SQL优化方法论与实战](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490288&idx=1&sn=99340ac2f127567addd46fe999edfb5c&chksm=fa6632c1cd11bbd79e4ebfa119fc37faa3f5dd26e86b5392eccd8b6cacabe670321d7df95aa6&token=1039605624&lang=zh_CN#rd)
+
+[伪SQL优化大师速成法](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485599&idx=1&sn=d84202d12287d877ded75d36d1378d22&chksm=fa6620aecd11a9b8252aa5867c5d11ca21bcc3e3d3619912f7d29eccde2154d6fbb9a33f13d1&token=1039605624&lang=zh_CN#rd)
+
+[PostgreSQL在TPCC场景下的PK](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247483941&idx=1&sn=44f327d7b8d4b164998c874546f0d21c&chksm=fa662a14cd11a3020f2dcdafdaa93ebf71a9df78c75dbb72e3116fba6c5b23941cc57fe787b2&token=1039605624&lang=zh_CN#rd)
 
 ### 分区表
 
@@ -78,6 +96,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [高效分区转化插件pg_rewrite](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486137&idx=1&sn=1000a8c68e7752cd4e9737df02504461&chksm=fa662288cd11ab9ec09cbd69104e1bb8706a03e9645a43ce64e7106323f68320c30a1d7edd37&token=1039605624&lang=zh_CN#rd)
 
 [PostgreSQL表分区演进](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485488&idx=1&sn=79f81ec415fb913f1ac188f9f6ea8bf7&chksm=fa662001cd11a917d9014e74fc868364c1875f3ba9692fc79416e6e71bc3c4074ce89139ae3f&token=1039605624&lang=zh_CN#rd)
+
+[一起pg_pathman的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488513&idx=1&sn=2cf3090ecff696646f2d5eb47e2cc2c8&chksm=fa663c30cd11b52678c7fd7d43a465aed1b833cefd22f873cffb4348f2248ea2257d981d2e5e&token=1039605624&lang=zh_CN#rd)
 
 ### 表膨胀与实战
 
@@ -105,6 +125,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [聊一聊 vacuum full](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489386&idx=1&sn=f44178ef77f0d09975493364c465da14&chksm=fa663f5bcd11b64d7316f942645bc59a812446c71e428b6de390f8f0c33efaabd3dd2bfb83b4&token=1039605624&lang=zh_CN#rd)
 
+[小心延迟清理的BUG](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489376&idx=1&sn=2159e5651fa59d04e1f752c80411bd5d&chksm=fa663f51cd11b647ef9b9d4712c484f7f41f00c455eed679f7ca00cd094215d5d81b1e427f13&token=1039605624&lang=zh_CN#rd)
+
+[你真的搞懂visibility map了吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489357&idx=1&sn=cdcf2e98986027f969c8a569fa124c18&chksm=fa663f7ccd11b66a059cfa90bac1b50ccc193ca2b2538f1448525d63fc1bc8dec5ddbfc3f110&token=1039605624&lang=zh_CN#rd)
+
 ### 逻辑复制与逻辑解码
 
 [当逻辑解码遇上TOAST会有什么坑？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490137&idx=1&sn=a4bf1f86520b5234c7125bcb89feb09b&chksm=fa663268cd11bb7e0bb81dcc40481feadf49f29633fb8b02d4d158cc01059440610984d399ae&token=1039605624&lang=zh_CN#rd)
@@ -119,6 +143,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [折磨许久的逻辑解码异常](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489069&idx=1&sn=cd0e03f2db2a8eedb1b85a852141e15d&chksm=fa663e1ccd11b70a9c513f55aa30dcbd04f45b556951b2ac2319edfa0720b774bfb0b2ccdbc0&token=1039605624&lang=zh_CN#rd)
 
+[聊一聊Failover Slot](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489492&idx=1&sn=b48b4c9819fba68cdf52434e154a0459&chksm=fa663fe5cd11b6f3d5be582841da42a321015970987c3394daafe182f3657eb9896f9852faab&token=1039605624&lang=zh_CN#rd)
+
+[逻辑复制不为熟知的点](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485906&idx=1&sn=148c400d10cc6c24fe7905afdcdff633&chksm=fa6621e3cd11a8f54609d21091df3026c6f5e1baa5d248728eb0dcd3bc044c8abdbeb30b59ff&token=1039605624&lang=zh_CN#rd)
+
 ### 流复制
 
 [一则不同寻常的复制冲突案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490076&idx=1&sn=486393e38ac2c1d56766ddcc481713ac&chksm=fa66322dcd11bb3b985f09db6b687a4834139d89a7cf05149c844e23b46a88a654aa07d13d23&token=1039605624&lang=zh_CN#rd)
@@ -128,6 +156,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [PostgreSQL流复制的方方面面](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485331&idx=1&sn=a6f6e21cf2e3685f9aab6e03147faf8c&chksm=fa662fa2cd11a6b40c84fa3f74d8933bdfb777f40d398184bf0c02289eca05bb3b266a83ad25&token=1039605624&lang=zh_CN#rd)
 
 [处理PostgreSQL中的流复制冲突](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247484559&idx=1&sn=f488712f2e807c0b136dbb59a19b01be&chksm=fa662cbecd11a5a8bd9f263fe59b0323540b4b491f8de290175be50eba93109e0ccfed9ef2bb&token=1039605624&lang=zh_CN#rd)
+
+[你真的搞懂recovery conflict了吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486702&idx=1&sn=0307fd6bfe724132103604509d173832&chksm=fa6624dfcd11adc9bf1d9f2415e81642f786610101368f250c8ebeeb254831d5231f80e3f536&token=1039605624&lang=zh_CN#rd)
+
+[高可用系列第一章repmgr](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487588&idx=1&sn=6bf3b823142e0e1deebff6e519391854&chksm=fa663855cd11b14313423bb88c61c9eaa9d0b1a2d50893990fff22c47b706a0aeb9ac5412c9a&token=1039605624&lang=zh_CN#rd)
 
 ### 内存
 
@@ -142,6 +174,16 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [PostgreSQL使用的内存去向](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247484899&idx=1&sn=94a859b406edb667b5ef83eff1f49b3e&chksm=fa662dd2cd11a4c46cdafa29fc31721f1f3b37a685772a8f0ce50342fdb2bd31fe4276e71d3d&token=1039605624&lang=zh_CN#rd)
 
 [窥探PostgreSQL中的共享内存](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485135&idx=1&sn=b794fa2caa373042015742caa2a37028&chksm=fa662efecd11a7e8fcb1300f99366554a2f9553f35c279468a5c504f0ff37138196285d6b88c&token=1039605624&lang=zh_CN#rd)
+
+### CPU
+
+[备库cpu定时冲高的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489275&idx=1&sn=f301bdb3bcca8b3fa02ef7d950d9ffa2&chksm=fa663ecacd11b7dca1b54c9d5d5c3610f6943f10e22e60f6c240bccf13aa0aa64c27ef4a44ef&token=1039605624&lang=zh_CN#rd)
+
+[如何分析CPU 100%的情况](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488975&idx=1&sn=0ed98e27421afa8424b29273dfb7f3c7&chksm=fa663dfecd11b4e864ebcbb4b029979de48a7f3aeebbcfba6c05344996257cf5b8f6ebeb22c3&token=1039605624&lang=zh_CN#rd)
+
+[如何分析CPU被打爆——实战篇](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488990&idx=1&sn=dc4bdf060b10287b2504c102067eb602&chksm=fa663defcd11b4f9d1494002056997d7d1f4bb8b83f13a0e60c6b915b68b54c60a5caa4d158f&token=1039605624&lang=zh_CN#rd)
+
+[PostgreSQL之CPU优化大法](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247484339&idx=1&sn=b51953dd00f7824fceb8fc79fa8f0fcd&chksm=fa662b82cd11a294f09ba9b22108b63c6d696c926f2a6a739f72f91bc8aa98dfb8fc18086a04&token=1039605624&lang=zh_CN#rd)
 
 ### TOAST
 
@@ -164,6 +206,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [PostgreSQL从入门到放弃](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486127&idx=1&sn=38e37bbdf34991c98d45c0df3fa33c0c&chksm=fa66229ecd11ab880258941fe0b8ec113134cb6f03f4de5cd6d4892cab46c81e63f2b1d153c5&token=1039605624&lang=zh_CN#rd)
 
 [聊聊PostgreSQL 14 internal这本书](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489503&idx=1&sn=83056b3865e71c984240c26bcb65bc94&chksm=fa663feecd11b6f8632d8d601f19bce1de9a47af46c375f1130b85b75eb95d47d4cff18ed1e0&token=1039605624&lang=zh_CN#rd)
+
+[PostgreSQL好书推荐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488016&idx=1&sn=93c015fbaa3153298860435ee26310de&chksm=fa663a21cd11b3374d1a9a2993273e4b0fabd6013316ab157f11738c29cdb376530c8387efbc&token=1039605624&lang=zh_CN#rd)
 
 ### 子事务
 
@@ -201,6 +245,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [一文搞懂PostgreSQL所有的锁](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485476&idx=1&sn=c0088911ae8bd89729686e423c169f68&chksm=fa662015cd11a9032675aba5745bfa326f772289fa82bbf4df50c55f8684bc8a5c37278fa9f1&token=1039605624&lang=zh_CN#rd)
 
+[不要再吐槽没有online DDL了！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488935&idx=1&sn=1e4bed4fac0b5e6672887e7d4a7d82a8&chksm=fa663d96cd11b4802823f16d16585f844b3e73e95be4efaa0e77e595ff29f2423baf51c777eb&token=1039605624&lang=zh_CN#rd)
+
 ### 权限
 
 [刨根问底 | 如何删除用户最优？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486203&idx=1&sn=1affb7871d4683d37b2f2db92f93d02c&chksm=fa6622cacd11abdc12c0fa23cfd94179320d80d4ab59188628ecf928b75ca57bccf00a1db36d&token=1039605624&lang=zh_CN#rd)
@@ -217,6 +263,26 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PostgreSQL从入门到放弃](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247483879&idx=1&sn=3b4f5cdeeb3ff7c16fac659c61e4ba7d&chksm=fa6629d6cd11a0c07dfa09948f23e0b5801520c567589f2d91442ccedf35c061f22f28c3e6a4&token=1039605624&lang=zh_CN#rd)
 
+[chatGPT能替代我的工作吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489309&idx=1&sn=65fb195c99cd83cecc7928835c95745f&chksm=fa663f2ccd11b63a14ab916134011b426a0b461b7568e3c43c61860b8dae6048b059c1466924&token=1039605624&lang=zh_CN#rd)
+
+[PostgreSQL经验谈](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485938&idx=1&sn=b130975a96d36df6a2409d049f29128a&chksm=fa6621c3cd11a8d5ed7e7af659ab6a77a72db22f5cf41f6326ee9b77faf4dc4e6726618bc08d&token=1039605624&lang=zh_CN#rd)
+
+[PostgreSQL阅书有感](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247484659&idx=1&sn=655533105673b3bb5df67e6b69f32ffa&chksm=fa662cc2cd11a5d4a4a10c6a3f918376a5179af20d1a6dd096c080ed9dabe6327bed975cbec0&token=1039605624&lang=zh_CN#rd)
+
+### 备份恢复
+
+[PITR是幂等的吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487276&idx=1&sn=3f371676c8bc3d6ce8b4af6625b6e2c1&chksm=fa66271dcd11ae0b6cc8e77114c71783aef3d24e975fec51e46603229485d7090c91c33caca7&token=1039605624&lang=zh_CN#rd)
+
+[生产案例 | 费解的备份corrupt](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486648&idx=1&sn=0364f6fc9611fe939f4d1ce879e0bb67&chksm=fa662489cd11ad9f02e9b0149fbf4890a1018103c93d3df4a7db205e2e4f480ec79b3d14adb9&token=1039605624&lang=zh_CN#rd)
+
+[pgbackrest你必须知道的坑](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486562&idx=1&sn=d57bb83bf956df53a1ff1bc3dc340799&chksm=fa662453cd11ad45ac20083ae343183ac10e754c4682f27665af348c20f5b0c9e363d0880e46&token=1039605624&lang=zh_CN#rd)
+
+[一起pg_basebackup的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486107&idx=1&sn=fb24e578dfd2de8fc034a72d002a3ea0&chksm=fa6622aacd11abbc170971f337fbc5727867d1fb61ea0a53849beaec95bb1ababde8d0164e43&token=1039605624&lang=zh_CN#rd)
+
+[关于NAS你必须知道的坑](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485805&idx=1&sn=5bbd403f35c38e049968b42168fb07db&chksm=fa66215ccd11a84aa7ebfbbe6e6e75171b7a39ffbc5b8df347a718d20fb77fcf73a363f1fb00&token=1039605624&lang=zh_CN#rd)
+
+[你真的了解备份吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485800&idx=1&sn=ded85605544fad0fe3ab437604e2a6cf&chksm=fa662159cd11a84fd0a664265718daaead14512b29a6e0cbc79214005e909e435f377e46712e&token=1039605624&lang=zh_CN#rd)
+
 ### FPI
 
 [不为熟知的FPI之hint bits](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489180&idx=1&sn=5c2d5a139b9f350a2d25d2f61905aa5a&chksm=fa663eadcd11b7bb3fcbb41ac930901a7a95d62ad01f019e5adc8d9ef61b67dbcd74fdbee32b&token=1039605624&lang=zh_CN#rd)
@@ -226,3 +292,29 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [聊聊基础备份与FPI](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488917&idx=1&sn=d32e80de35d287ae22ae03606c558fcc&chksm=fa663da4cd11b4b299f656ee1abd92693fc87f604d4ea398811c2e8833e2e7e53da1130cca6c&token=1039605624&lang=zh_CN#rd)
 
 [从DBA的角度聊聊UUID的利与弊](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489659&idx=1&sn=f5cbf3851cd457f1c8093132e97b35e2&chksm=fa66304acd11b95c2a1aad0cde2048e867eaf977e86dcbdea06ab6ffb84c3d04f326bcee90c8&token=1039605624&lang=zh_CN#rd)
+
+### 索引
+
+[聊一聊索引失效](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488762&idx=1&sn=e05ec7ef109d8d23e30409a7ef98c5da&chksm=fa663ccbcd11b5dd6c388d0dd6d9de9d2dff17792a58b6a7dc82bc08e90744a405560e0a40fd&token=1039605624&lang=zh_CN#rd)
+
+[创建索引的各个阶段，你真的搞懂了吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486571&idx=1&sn=77fb54cb3ceae57dda3c76272f28af92&chksm=fa66245acd11ad4c35a725d8607ddb59fa2207f12060d05a022a4be67697d42424305e7d6066&token=1039605624&lang=zh_CN#rd)
+
+[再论CIC | 你真的搞懂HOT了吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486615&idx=1&sn=028f44f35f90ba6c49709b39e663a7b0&chksm=fa6624a6cd11adb00ea8258d987cffe47014a56db3669d4c37d2b60d995beff250d2059021a0&token=1039605624&lang=zh_CN#rd)
+
+[生产案例 | 费解的索引失效](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486460&idx=1&sn=e8f741f27c89175d60791f40f8b997b6&chksm=fa6623cdcd11aadbc9891efaab690ef04fcda53f7336432bed317ed4477ad3359ddffa07a722&token=1039605624&lang=zh_CN#rd)
+
+[深度剖析CIC](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486345&idx=1&sn=840866bc533d860925482cc95789fe10&chksm=fa6623b8cd11aaae11a9d63cae28ea13f5f47c91199f6d71af16024bd9e621fcde4766c12463&token=1039605624&lang=zh_CN#rd)
+
+[罕见的索引失效](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486111&idx=1&sn=cea84a031d47df0aeb84726961bb3e8e&chksm=fa6622aecd11abb87023413d973aeeea205f6b9df2ba463101fc09314dfb827b80167a3ee57a&token=1039605624&lang=zh_CN#rd)
+
+[生产案例记 | 损坏的索引](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486133&idx=1&sn=6b45eb5162225ec7425d7123626793c3&chksm=fa662284cd11ab92e0354af42ced239aeea964a21c343404ccbf838adb4a92aa5fb47392233f&token=1039605624&lang=zh_CN#rd)
+
+[index only scan的误区](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485754&idx=1&sn=a5dfd426d6a54f9d208e78717ed26c62&chksm=fa66210bcd11a81dde1ffdb466c2618bb4c1fe8e175b0c8d57a114985debaff11646eb69d699&token=1039605624&lang=zh_CN#rd)
+
+[index only scan的误区续](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485760&idx=1&sn=b46c4cad57b99ee2afb1e6bcca3451c1&chksm=fa662171cd11a867736fb8bf90507f566195b35de69fc9383220015f641ca6cf55e396a6aac0&token=1039605624&lang=zh_CN#rd)
+
+[站在开发者角度聊聊索引日常](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489167&idx=1&sn=016202ffe3d3df434cbfb873e64b5946&chksm=fa663ebecd11b7a83a116b2a7bf4ee7a014883cc0309a4c937d2ee72c23edcbbf29abe902ed6&token=1039605624&lang=zh_CN#rd)
+
+### 升级
+
+[高效升级PostgreSQL](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485673&idx=1&sn=0343ebb7987a2766a6b5c0d6a9ebaa2a&chksm=fa6620d8cd11a9cea13ba889953572d853798beabda2d85317910d6bd2d66440f64f1c5e11d8&token=1039605624&lang=zh_CN#rd)
