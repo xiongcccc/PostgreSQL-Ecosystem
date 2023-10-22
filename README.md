@@ -7,6 +7,9 @@ Feel free to contact me：
 3. 公众号：PostgreSQL学徒
 4. github：https://github.com/xiongcccc
 
+各位好，我是熊灿灿，大家可以喊我cc，我是PostgreSQL ACE/MVP，杰出新人，CSDN社区之星，PostgreSQL学徒公众号作者，目前正在从事PostgreSQL与Greenplum相关的工作。PostgreSQL是先进的开源数据库，功能强大，一专多长，潜能深、动能足，值得让越来越多的人知道并使用PostgreSQL!
+这也是我目前正在做的事情，坚持布道与分享。以下是PostgreSQL学徒公众号文章的简单分类，记得点个 ⭐️ 再走~
+
 ## 公众号历史文章分类
 
 ### 内核原理
