@@ -9,9 +9,9 @@ Feel free to contact me：
 
 各位好，我是熊灿灿，大家可以喊我cc，我是PostgreSQL ACE/MVP，杰出新人，CSDN社区之星，PostgreSQL学徒公众号作者，目前正在从事PostgreSQL与Greenplum相关的工作。
 
-PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用PostgreSQL！这也是我目前正在做的事情，坚持布道与分享。以下是PostgreSQL学徒公众号文章的简单分类，希望各位都能从小工到专家，从 enthusiast 到 committer！另外我个人维护了三个PostgreSQL学徒交流群，感兴趣的都可以联系我，一起学习PostgreSQL。各位记得点个 ⭐️ 再走 ~
+PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用PostgreSQL！这也是我目前正在做的事情，坚持布道与分享。以下是PostgreSQL学徒公众号文章的简单分类，希望各位都能从小工到专家，从 enthusiast 到 committer！另外我个人维护了三个PostgreSQL学徒交流群，感兴趣的都可以联系我，一起学习PostgreSQL。
 
-<img width="414" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ce1a1ceb-4ed0-4aa7-9a9c-8eeb52efc303">
+各位记得点个 ⭐️ 再走 ~
 
 ## 公众号历史文章分类
 
@@ -216,3 +216,13 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [争做新时代下的DBA：NewDBA](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486546&idx=1&sn=e7f896d20739c9e998fe8ad8fbdb570f&chksm=fa662463cd11ad75e86bb118ed653b49265374a059fa4870cca539f9e1b15fed2aec87da7383&token=1039605624&lang=zh_CN#rd)
 
 [PostgreSQL从入门到放弃](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247483879&idx=1&sn=3b4f5cdeeb3ff7c16fac659c61e4ba7d&chksm=fa6629d6cd11a0c07dfa09948f23e0b5801520c567589f2d91442ccedf35c061f22f28c3e6a4&token=1039605624&lang=zh_CN#rd)
+
+### FPI
+
+[不为熟知的FPI之hint bits](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489180&idx=1&sn=5c2d5a139b9f350a2d25d2f61905aa5a&chksm=fa663eadcd11b7bb3fcbb41ac930901a7a95d62ad01f019e5adc8d9ef61b67dbcd74fdbee32b&token=1039605624&lang=zh_CN#rd)
+
+[从一个案例聊聊FPI的危害](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488814&idx=1&sn=edd2be1b87259a0316f8d4ba233bc2a2&chksm=fa663d1fcd11b40992776be7f78052b8e77aa595d6773796d6e8e916859ecc521737c70c3383&token=1039605624&lang=zh_CN#rd)
+
+[聊聊基础备份与FPI](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488917&idx=1&sn=d32e80de35d287ae22ae03606c558fcc&chksm=fa663da4cd11b4b299f656ee1abd92693fc87f604d4ea398811c2e8833e2e7e53da1130cca6c&token=1039605624&lang=zh_CN#rd)
+
+[从DBA的角度聊聊UUID的利与弊](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489659&idx=1&sn=f5cbf3851cd457f1c8093132e97b35e2&chksm=fa66304acd11b95c2a1aad0cde2048e867eaf977e86dcbdea06ab6ffb84c3d04f326bcee90c8&token=1039605624&lang=zh_CN#rd)
