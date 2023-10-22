@@ -1,6 +1,6 @@
 Hi all, I'm an experienced PostgreSQL enthusiast and currently working on something related to the PostgreSQL ecosystem. I will keep sharing my experience about PostgreSQL. 
 
-contact me：
+Feel free to contact me：
 
 1. wechat：_xiongcc
 2. mail：xiongcc_1994@126.com/xiongcc_1994@outlook.com
