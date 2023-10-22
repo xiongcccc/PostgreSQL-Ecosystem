@@ -11,7 +11,8 @@ Feel free to contact me：
 
 PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用PostgreSQL！这也是我目前正在做的事情，坚持布道与分享。以下是PostgreSQL学徒公众号文章的简单分类，希望各位都能从小工到专家，从 enthusiast 到 committer！另外我个人维护了三个PostgreSQL学徒交流群，感兴趣的都可以联系我，一起学习PostgreSQL。
 
-<img src="/Users/xiongcancan/Library/Application Support/typora-user-images/image-20231022221010358.png" alt="image-20231022221010358" style="zoom:33%;" />
+<img width="214" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ce1a1ceb-4ed0-4aa7-9a9c-8eeb52efc303">
+
 
 各位记得点个 ⭐️ 再走 ~
 
