@@ -11,7 +11,6 @@ Feel free to contact me：
 PostgreSQL是先进的开源数据库，功能强大，一专多长，潜能深、动能足，值得让越来越多的人知道并使用PostgreSQL!
 这也是我目前正在做的事情，坚持布道与分享。以下是PostgreSQL学徒公众号文章的简单分类，希望各位都能从小工到专家，从 enthusiast 到 committer！记得点个 ⭐️ 再走~
 目前我维护了③个学徒交流群，感兴趣的都可以联系我
-![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e49d3f09-5142-4436-ac4f-d6fc7ad7417e)
 
 
 ## 公众号历史文章分类
