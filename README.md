@@ -89,6 +89,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [SQL优化方法论与实战](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490288&idx=1&sn=99340ac2f127567addd46fe999edfb5c&chksm=fa6632c1cd11bbd79e4ebfa119fc37faa3f5dd26e86b5392eccd8b6cacabe670321d7df95aa6&token=1039605624&lang=zh_CN#rd)
 
+[烧死10亿脑细胞的SQL长啥样？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489745&idx=1&sn=b5b10841f3b7928877bae6db674fc460&chksm=fa6630e0cd11b9f65658ca5b8cc99e32d6b0f6decfad2713df9e11eb32f4c7c278b7119568ba#rd)
+
 [伪SQL优化大师速成法](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485599&idx=1&sn=d84202d12287d877ded75d36d1378d22&chksm=fa6620aecd11a9b8252aa5867c5d11ca21bcc3e3d3619912f7d29eccde2154d6fbb9a33f13d1&token=1039605624&lang=zh_CN#rd)
 
 [PostgreSQL在TPCC场景下的PK](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247483941&idx=1&sn=44f327d7b8d4b164998c874546f0d21c&chksm=fa662a14cd11a3020f2dcdafdaa93ebf71a9df78c75dbb72e3116fba6c5b23941cc57fe787b2&token=1039605624&lang=zh_CN#rd)
@@ -231,6 +233,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 子事务
 
+[再唠唠子事务](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489876&idx=1&sn=1f865e12ad0a3c903c340726f4c5434e&chksm=fa663165cd11b873ebe01a92872c44ced15108703f6657a49a90147ac1972129a305dddc8f97&token=1153899980&lang=zh_CN#rd)
+
 [长事务与子事务](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486226&idx=1&sn=270da9c5f542ec7c0c500ed76079af26&chksm=fa662323cd11aa350a2b58bba1901522a2b3d0037102303addf8df418fb05376b3e239e837a4&token=1039605624&lang=zh_CN#rd)
 
 [子事务的危害](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486234&idx=1&sn=3b497bdd1a8d36b5294639fcb7c03f45&chksm=fa66232bcd11aa3de860de94208758c222b16fa0cb9f3839cb24545d7860ae419da2505a24cc&token=1039605624&lang=zh_CN#rd)
@@ -290,6 +294,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [PostgreSQL经验谈](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485938&idx=1&sn=b130975a96d36df6a2409d049f29128a&chksm=fa6621c3cd11a8d5ed7e7af659ab6a77a72db22f5cf41f6326ee9b77faf4dc4e6726618bc08d&token=1039605624&lang=zh_CN#rd)
 
 [PostgreSQL阅书有感](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247484659&idx=1&sn=655533105673b3bb5df67e6b69f32ffa&chksm=fa662cc2cd11a5d4a4a10c6a3f918376a5179af20d1a6dd096c080ed9dabe6327bed975cbec0&token=1039605624&lang=zh_CN#rd)
+
+[写在公众号人数突破4K之际](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489760&idx=1&sn=2df5e1b91864b6e1df84e6879edadf5e&chksm=fa6630d1cd11b9c75ccd91907e6bef99c0235ea116083a730172b3b3e88cadab359aacd422a1#rd)
 
 ### 备份恢复
 
@@ -359,6 +365,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 使用技巧
 
+[从两个小案例说起](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489586&idx=1&sn=bde98f0550c3c16402e6a4cd270bbf2b&chksm=fa663003cd11b915c33dfceb21e8228f98bd0c96efef03a34c526ed294f38d3ebb018fa80a39&token=1153899980&lang=zh_CN#rd)
+
 [PostgreSQL中鲜为人知的特性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486678&idx=1&sn=31bb0f1333e0825289c2d48d19673915&chksm=fa6624e7cd11adf1782d8aa021c7b4c42b20d5bef11b0f9980fa0e13fca591a83c7e4a688270&token=1039605624&lang=zh_CN#rd)
 
 [遇到问题如何快速查阅是否为BUG](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490121&idx=1&sn=0db8b0d4ade6e526e611e1afaf0d2014&chksm=fa663278cd11bb6e09ec6e42ef7b8aad437533fc2a9fc9538c90c0c89d358884657636f6de97&token=1039605624&lang=zh_CN#rd)
@@ -375,6 +383,12 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [性能分析利器monitor](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485495&idx=1&sn=cb5ad1112ca8717ca5a5895021d44f10&chksm=fa662006cd11a9105545f0748759172c584b79a7dce449652f8779cdf5a83fdd10687d14cb11&token=1039605624&lang=zh_CN#rd)
 
+[如何调试分析函数](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489851&idx=1&sn=bd4152b3b7508d837d62227d836ac62b&chksm=fa66310acd11b81cda52fc0f4edfd539e90afae29d7907361633287ed9e61750c02802cf65e1#rd)
+
+[函数安全性的妙用](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488357&idx=1&sn=b983efd2895e8126ac6cc539cff290e9&chksm=fa663b54cd11b242a299b80fdd60ddab4f0eee9cd544cafa62dbb8d8abc3382255763316ddcc#rd)
+
 ### Greenplum
+
+[Greenplum7新特性解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490187&idx=1&sn=eaa2b6fede27ffc47b74e1ba881f9235&chksm=fa6632bacd11bbac86572e564dd08256dd00b877a038942877132176bb9754f6cb90c818b1ed&token=1153899980&lang=zh_CN#rd)
 
 [Greenplum AO表存储分析](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490311&idx=1&sn=9cf81a27cbb862a787b72fd77aeb8389&chksm=fa663336cd11ba204164150b28f98f9eeec1f33529e32e92c2e2912f766a01707b281820d927&token=1153899980&lang=zh_CN#rd)
