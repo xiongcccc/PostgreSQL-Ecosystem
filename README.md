@@ -121,6 +121,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [一起pg_pathman的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488513&idx=1&sn=2cf3090ecff696646f2d5eb47e2cc2c8&chksm=fa663c30cd11b52678c7fd7d43a465aed1b833cefd22f873cffb4348f2248ea2257d981d2e5e&token=1039605624&lang=zh_CN#rd)
 
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/6a209c34-a3b9-4639-942d-ed3547a26f52">
+
 ### 表膨胀与实战
 
 [揭开表膨胀的神秘面纱](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485791&idx=1&sn=24ef88bd19d923d60fdf1a8969577fb0&chksm=fa66216ecd11a8789ee0a9a4b7e850d98086bf3ae542aad814788bd8f262dd675be92fa7c5db&token=1039605624&lang=zh_CN#rd)
@@ -154,6 +156,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [小心延迟清理的BUG](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489376&idx=1&sn=2159e5651fa59d04e1f752c80411bd5d&chksm=fa663f51cd11b647ef9b9d4712c484f7f41f00c455eed679f7ca00cd094215d5d81b1e427f13&token=1039605624&lang=zh_CN#rd)
 
 [你真的搞懂visibility map了吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489357&idx=1&sn=cdcf2e98986027f969c8a569fa124c18&chksm=fa663f7ccd11b66a059cfa90bac1b50ccc193ca2b2538f1448525d63fc1bc8dec5ddbfc3f110&token=1039605624&lang=zh_CN#rd)
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/6b496067-66df-4937-9ea1-7f665c732424">
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/8c95cfd9-29fd-4999-adb3-6239080696b8">
 
@@ -229,8 +233,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b39eef2f-8919-41aa-b695-7f7298582442">
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d07c7e7c-5d85-4646-8ed0-b68105adda02">
-
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/fbc462d8-9ab3-45e0-a4a9-c4721a2e7550">
 
 ### TOAST
@@ -260,8 +262,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [PostgreSQL好书推荐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488016&idx=1&sn=93c015fbaa3153298860435ee26310de&chksm=fa663a21cd11b3374d1a9a2993273e4b0fabd6013316ab157f11738c29cdb376530c8387efbc&token=1039605624&lang=zh_CN#rd)
 
 [行远自迩，PostgreSQL修炼之道](https://github.com/xiongcccc/PostgreSQL-ecosystem/blob/main/%E5%8E%86%E5%B1%8A%E6%B4%BB%E5%8A%A8PPT/%E8%A1%8C%E8%BF%9C%E8%87%AA%E8%BF%A9%EF%BC%8CPostgreSQL%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)
-
-![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/2b502ed9-74f1-4f08-abef-e65fb1cdc9ad)
 
 ### 子事务
 
@@ -318,7 +318,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [再唠唠晕乎的权限体系](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489261&idx=1&sn=2bf28fcfeb7523b5cffea0cbdec3da94&chksm=fa663edccd11b7ca5e89544c9618d334c9e8e6c37d4b40b1fa55f2e5729e17cde8d2b8841327&token=1039605624&lang=zh_CN#rd)
 
 <img width="563" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ab3cb326-19a4-49b7-b5cb-9c5449259837">
-
 
 ### 个人感想
 
@@ -413,6 +412,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [为什么要慎用pg_show_plans?](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485813&idx=1&sn=77006fd36ecdc09d0a0551cac2c94055&chksm=fa662144cd11a852290f629a7a2895ab99ffb0b9ca828ddea38eda85b391636946684c676a36#rd)
 
 [PostgreSQL插件十八摸](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485824&idx=1&sn=8804fb44a639b794349becd3799b7404&chksm=fa6621b1cd11a8a7692f80e3e2e18a7b897d263da98173c63b537c6f4fb44e99ad8515ea6803#rd)
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/9735ed87-df49-4753-8ef9-bbdfc8294374">
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e8719424-9917-4cff-a92e-46de1df92b72">
 
 ### 使用技巧
 
