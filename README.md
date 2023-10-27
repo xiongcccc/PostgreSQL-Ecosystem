@@ -276,6 +276,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [进击的PostgreSQL](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485403&idx=1&sn=ef1c8865a3e2be9262177e8ead38a0f5&chksm=fa662feacd11a6fc0e6546f1298883d0efb3aa4691bfc20a275cdc3b056aaaaa05f2087f468f&token=1039605624&lang=zh_CN#rd)
 
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e8d17e8b-59fe-4d96-85b9-51c066f136a7">
+
 ### 锁
 
 [恼人的自旋锁](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489326&idx=1&sn=5d396a261ca56962808a347ff3185394&chksm=fa663f1fcd11b609e625dbce8c452cd7071798e1cfea355dc8d05d5bc51f8a0e9828629db83f&token=1039605624&lang=zh_CN#rd)
@@ -291,6 +293,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [不要再吐槽没有online DDL了！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488935&idx=1&sn=1e4bed4fac0b5e6672887e7d4a7d82a8&chksm=fa663d96cd11b4802823f16d16585f844b3e73e95be4efaa0e77e595ff29f2423baf51c777eb&token=1039605624&lang=zh_CN#rd)
 
 [使用eBPF提升可观测性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489293&idx=1&sn=9ab72fa4f0e0367d90453486d8c6c457&chksm=fa663f3ccd11b62ad565311513a61734ad123c0f2ef858dea0a6eef3a82ec9ae1d8ca90800bc&token=1039605624&lang=zh_CN#rd)
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e7055c90-036d-4301-bfff-189028c78eca">
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/289d7cd1-b90e-442b-99fe-a1406d491fbd">
 
 ### 权限
 
