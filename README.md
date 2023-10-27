@@ -45,11 +45,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [一文带你搞懂PostgreSQL中的标志位](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485506&idx=1&sn=4775ed35782288c191c99851dea7ca07&chksm=fa662073cd11a965f3987ee3a149224225a7a609f247e3128562bfb633a226cf242d3cc5010a#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/7983c2f2-07a9-4ba2-b384-4191c52b26f9">
-
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e8db2d1a-d7a6-40e2-993f-4263396f9730">
-
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f74539ee-e314-4d25-a97f-bbca4ae3ce89">
 
 ### 生产案例
 
