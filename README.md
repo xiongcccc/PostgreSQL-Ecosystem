@@ -336,9 +336,7 @@ kernel：
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e9529082-c10f-4033-9fc0-c0f7f96dbad2">
 
-<img width="580" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/4dbe863c-92e6-4aa1-9ba9-097db63d5219">
-
-
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/638c87fe-1799-4279-957f-e1a0c4fc4e07">
 
 ### FPI
 
