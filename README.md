@@ -349,6 +349,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [高效升级PostgreSQL](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485673&idx=1&sn=0343ebb7987a2766a6b5c0d6a9ebaa2a&chksm=fa6620d8cd11a9cea13ba889953572d853798beabda2d85317910d6bd2d66440f64f1c5e11d8&token=1039605624&lang=zh_CN#rd)
 
+### 序列
+
+[序列的这些坑，你造吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487128&idx=1&sn=92e80b386876ee4c5e62b4e9585c8ba1&chksm=fa6626a9cd11afbfb978f5095ed28a914e5264c3152a4dcb9411654f824db65b9f74e2d0df8b&token=1153899980&lang=zh_CN#rd)
+
 ### 插件与工具
 
 [pg_stat_statements又出问题了！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487961&idx=1&sn=e160c5fe9352aa29c6d5f70717639ab4&chksm=fa6639e8cd11b0fe2b9249329c48ee44804596af5d6fce315d65de620f1515d8881d87c3a9e9&token=1039605624&lang=zh_CN#rd)
