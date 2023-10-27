@@ -169,6 +169,10 @@ kernel：
 
 [记一次逻辑复制的"奇坑"现象](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485843&idx=1&sn=16a376ae6782a186a431cdd4abcbb2ed&chksm=fa6621a2cd11a8b4fc76c0a64e74c37fc9dcf5634d89bce25fdcf068b14f627c2a8ecb1bf566#rd)
 
+<img width="1028" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/38a5138c-5c11-44f9-b4cb-fdf0a4ee0488">
+<img width="1028" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/3067894e-1ec0-4c40-84b2-3404d1ecc769">
+
+
 ### 流复制
 
 [一则不同寻常的复制冲突案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490076&idx=1&sn=486393e38ac2c1d56766ddcc481713ac&chksm=fa66322dcd11bb3b985f09db6b687a4834139d89a7cf05149c844e23b46a88a654aa07d13d23&token=1039605624&lang=zh_CN#rd)
