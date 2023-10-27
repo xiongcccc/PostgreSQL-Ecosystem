@@ -167,9 +167,9 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [记一次逻辑复制的"奇坑"现象](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485843&idx=1&sn=16a376ae6782a186a431cdd4abcbb2ed&chksm=fa6621a2cd11a8b4fc76c0a64e74c37fc9dcf5634d89bce25fdcf068b14f627c2a8ecb1bf566#rd)
 
-<img width="1028" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/38a5138c-5c11-44f9-b4cb-fdf0a4ee0488">
-<img width="1028" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/3067894e-1ec0-4c40-84b2-3404d1ecc769">
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/1f8a137e-9c9f-40fb-bc22-c49445ca497f">
 
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/636c74a6-80d4-4c98-a517-119f9f0c80f6">
 
 ### 流复制
 
