@@ -145,9 +145,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [你真的搞懂visibility map了吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489357&idx=1&sn=cdcf2e98986027f969c8a569fa124c18&chksm=fa663f7ccd11b66a059cfa90bac1b50ccc193ca2b2538f1448525d63fc1bc8dec5ddbfc3f110&token=1039605624&lang=zh_CN#rd)
 
-kernel：
-<img width="1005" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ea1dde4b-d111-49ac-bca3-cf1db1a404e3">
-
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/8c95cfd9-29fd-4999-adb3-6239080696b8">
 
 ### 逻辑复制与逻辑解码
 
