@@ -350,7 +350,8 @@ kernel：
 
 [从DBA的角度聊聊UUID的利与弊](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489659&idx=1&sn=f5cbf3851cd457f1c8093132e97b35e2&chksm=fa66304acd11b95c2a1aad0cde2048e867eaf977e86dcbdea06ab6ffb84c3d04f326bcee90c8&token=1039605624&lang=zh_CN#rd)
 
-<img width="1157" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/23bd69bc-dc81-483b-8662-aa5a88a6a387">
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/21c29456-49f6-4414-9b87-69f0133b4148">
+
 
 ### 索引
 
