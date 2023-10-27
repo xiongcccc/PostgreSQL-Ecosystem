@@ -219,8 +219,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b39eef2f-8919-41aa-b695-7f7298582442">
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/c06cccc6-b79f-4945-91ba-9ff2d15f7fc9">
-
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d07c7e7c-5d85-4646-8ed0-b68105adda02">
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/fbc462d8-9ab3-45e0-a4a9-c4721a2e7550">
