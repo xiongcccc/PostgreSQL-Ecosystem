@@ -383,6 +383,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [如何处理损坏的系统表索引](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486000&idx=1&sn=dac26b6917ba7b3227711fe8f0161fb6&chksm=fa662201cd11ab1790fdde1e3dbf6e5ff9c928e242f2e31d2529b0274c4c2719a4a4f62e48bd#rd)
 
+![PostgreSQL index](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/351748ff-a765-4e2b-b7cf-ddf03d0e11ca)
+
 ### 升级
 
 [高效升级PostgreSQL](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485673&idx=1&sn=0343ebb7987a2766a6b5c0d6a9ebaa2a&chksm=fa6620d8cd11a9cea13ba889953572d853798beabda2d85317910d6bd2d66440f64f1c5e11d8&token=1039605624&lang=zh_CN#rd)
@@ -436,3 +438,5 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [Greenplum7新特性解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490187&idx=1&sn=eaa2b6fede27ffc47b74e1ba881f9235&chksm=fa6632bacd11bbac86572e564dd08256dd00b877a038942877132176bb9754f6cb90c818b1ed&token=1153899980&lang=zh_CN#rd)
 
 [Greenplum AO表存储分析](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490311&idx=1&sn=9cf81a27cbb862a787b72fd77aeb8389&chksm=fa663336cd11ba204164150b28f98f9eeec1f33529e32e92c2e2912f766a01707b281820d927&token=1153899980&lang=zh_CN#rd)
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d0ef1081-62bf-4bd2-9c69-4cf0b8d89652">
