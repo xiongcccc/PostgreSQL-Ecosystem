@@ -121,7 +121,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [一起pg_pathman的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488513&idx=1&sn=2cf3090ecff696646f2d5eb47e2cc2c8&chksm=fa663c30cd11b52678c7fd7d43a465aed1b833cefd22f873cffb4348f2248ea2257d981d2e5e&token=1039605624&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/6a209c34-a3b9-4639-942d-ed3547a26f52">
+<img width="577" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/52880bda-3076-4d9a-be04-8c8094961973">
 
 ### 表膨胀与实战
 
@@ -137,9 +137,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [pg_repack你需要知道的坑](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485839&idx=1&sn=44d332a3e58f24639bb2fa62925e2fc6&chksm=fa6621becd11a8a8108f6d226f18d3f6b4d20920f26a766b32ce9fba11f3a2dc3e75c4216be6&token=1039605624&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/9aec9838-91cb-419c-9ee3-ac61d733cd9a">
-
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b56e83cd-525c-4bdc-a44e-9a7074421005">
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/c6fc263a-5807-4250-9381-2bb19ee2af3e">
 
 ### vacuum原理剖析
 
@@ -157,9 +155,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [你真的搞懂visibility map了吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489357&idx=1&sn=cdcf2e98986027f969c8a569fa124c18&chksm=fa663f7ccd11b66a059cfa90bac1b50ccc193ca2b2538f1448525d63fc1bc8dec5ddbfc3f110&token=1039605624&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/6b496067-66df-4937-9ea1-7f665c732424">
-
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/8c95cfd9-29fd-4999-adb3-6239080696b8">
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e783801a-44df-4f5b-8ac1-e8069c447cdd">
 
 ### 逻辑复制与逻辑解码
 
@@ -181,9 +177,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [记一次逻辑复制的"奇坑"现象](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485843&idx=1&sn=16a376ae6782a186a431cdd4abcbb2ed&chksm=fa6621a2cd11a8b4fc76c0a64e74c37fc9dcf5634d89bce25fdcf068b14f627c2a8ecb1bf566#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/1f8a137e-9c9f-40fb-bc22-c49445ca497f">
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/636c74a6-80d4-4c98-a517-119f9f0c80f6">
 
 ### 流复制
 
