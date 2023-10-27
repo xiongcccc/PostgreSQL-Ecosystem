@@ -187,6 +187,8 @@ kernel：
 
 [高可用系列第一章repmgr](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487588&idx=1&sn=6bf3b823142e0e1deebff6e519391854&chksm=fa663855cd11b14313423bb88c61c9eaa9d0b1a2d50893990fff22c47b706a0aeb9ac5412c9a&token=1039605624&lang=zh_CN#rd)
 
+<img width="1482" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b9fcd795-79ef-465d-b1ce-46d15579368e">
+
 <img width="1106" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/fc750ee8-c8a5-47d0-8c8b-fd74313f05de">
 
 
