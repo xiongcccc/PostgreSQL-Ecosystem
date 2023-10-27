@@ -255,7 +255,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PostgreSQL好书推荐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488016&idx=1&sn=93c015fbaa3153298860435ee26310de&chksm=fa663a21cd11b3374d1a9a2993273e4b0fabd6013316ab157f11738c29cdb376530c8387efbc&token=1039605624&lang=zh_CN#rd)
 
-https://github.com/xiongcccc/PostgreSQL-ecosystem/blob/main/%E5%8E%86%E5%B1%8A%E6%B4%BB%E5%8A%A8PPT/%E8%A1%8C%E8%BF%9C%E8%87%AA%E8%BF%A9%EF%BC%8CPostgreSQL%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf
+[行远自迩，PostgreSQL修炼之道](https://github.com/xiongcccc/PostgreSQL-ecosystem/blob/main/%E5%8E%86%E5%B1%8A%E6%B4%BB%E5%8A%A8PPT/%E8%A1%8C%E8%BF%9C%E8%87%AA%E8%BF%A9%EF%BC%8CPostgreSQL%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)
 
 ![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/2b502ed9-74f1-4f08-abef-e65fb1cdc9ad)
 
