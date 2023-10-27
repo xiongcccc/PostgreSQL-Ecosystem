@@ -296,8 +296,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e7055c90-036d-4301-bfff-189028c78eca">
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/289d7cd1-b90e-442b-99fe-a1406d491fbd">
-
 ### 权限
 
 [刨根问底 | 如何删除用户最优？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486203&idx=1&sn=1affb7871d4683d37b2f2db92f93d02c&chksm=fa6622cacd11abdc12c0fa23cfd94179320d80d4ab59188628ecf928b75ca57bccf00a1db36d&token=1039605624&lang=zh_CN#rd)
@@ -305,6 +303,9 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [又被权限搞晕了？拿捏！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486018&idx=1&sn=a424b838a9480a532b0d9cbe4388e20d&chksm=fa662273cd11ab65c3bf96504b8c2b33d17c1e8790976393db1c37e4c3e8fbb3aadc6c102ee7&token=1039605624&lang=zh_CN#rd)
 
 [再唠唠晕乎的权限体系](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489261&idx=1&sn=2bf28fcfeb7523b5cffea0cbdec3da94&chksm=fa663edccd11b7ca5e89544c9618d334c9e8e6c37d4b40b1fa55f2e5729e17cde8d2b8841327&token=1039605624&lang=zh_CN#rd)
+
+<img width="563" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ab3cb326-19a4-49b7-b5cb-9c5449259837">
+
 
 ### 个人感想
 
