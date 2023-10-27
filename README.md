@@ -177,7 +177,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [记一次逻辑复制的"奇坑"现象](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485843&idx=1&sn=16a376ae6782a186a431cdd4abcbb2ed&chksm=fa6621a2cd11a8b4fc76c0a64e74c37fc9dcf5634d89bce25fdcf068b14f627c2a8ecb1bf566#rd)
 
-
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b4848b5f-e209-4975-8cc4-2d24935f516e">
 
 ### 流复制
 
@@ -193,7 +193,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [高可用系列第一章repmgr](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487588&idx=1&sn=6bf3b823142e0e1deebff6e519391854&chksm=fa663855cd11b14313423bb88c61c9eaa9d0b1a2d50893990fff22c47b706a0aeb9ac5412c9a&token=1039605624&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/3f7b5acf-e08e-4334-b758-1b651a15c6f9">
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/029a319c-d773-4cae-92dc-8afbc06d5a0c">
 
 ### 内存
 
@@ -209,7 +209,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [窥探PostgreSQL中的共享内存](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485135&idx=1&sn=b794fa2caa373042015742caa2a37028&chksm=fa662efecd11a7e8fcb1300f99366554a2f9553f35c279468a5c504f0ff37138196285d6b88c&token=1039605624&lang=zh_CN#rd)
 
-<img width="588" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b66c73a6-fb82-45ca-9cb9-61361f338302">
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/14e6ca45-e223-4962-8ff1-bfe0ddc344a6">
 
 ### CPU
 
