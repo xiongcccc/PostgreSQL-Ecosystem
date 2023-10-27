@@ -77,6 +77,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [简单科普一下PostgreSQL的培训认证](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486497&idx=1&sn=d98724250b46c6b99a11b8e8c3feb460&chksm=fa662410cd11ad060c4566ec178ace7a7045d056b87daf46f30b15818951f764aa682f474baf&token=1039605624&lang=zh_CN#rd)
 
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d02bf53f-c036-4241-8c96-2613ce157d19">
+
 ### 精品大图
 
 [PostgreSQL应急流程大图](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490041&idx=1&sn=ed74b872d0d7bb579d5da203bc18b2c4&chksm=fa6631c8cd11b8dec90a9dc0f66088b15993a5512cf77f1fc46687808e551427a2c0493c828b&token=1039605624&lang=zh_CN#rd)
