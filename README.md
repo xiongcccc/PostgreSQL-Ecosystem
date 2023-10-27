@@ -185,7 +185,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [高可用系列第一章repmgr](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487588&idx=1&sn=6bf3b823142e0e1deebff6e519391854&chksm=fa663855cd11b14313423bb88c61c9eaa9d0b1a2d50893990fff22c47b706a0aeb9ac5412c9a&token=1039605624&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/db63c204-84e7-43d7-82b0-b731d1fc97de">
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/3f7b5acf-e08e-4334-b758-1b651a15c6f9">
 
 ### 内存
 
