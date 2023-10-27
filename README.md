@@ -89,9 +89,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PostgreSQL DBA Daily](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487297&idx=1&sn=0d8bca223494a4a58bbfce44d2730806&chksm=fa662770cd11ae66e1429fc190030a448c2e1739228a9f300b4cfbc3ef8d1ec42ec75597072b&token=1039605624&lang=zh_CN#rd)
 
-![Daily   Architecture](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/4b805d82-8e8e-4968-bd0e-7023fde55221)
-
-![PostgreSQL应急流程](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/a2f4a8d3-ad45-4e7f-9ca3-1323c5d88336)
+![未命名](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/c429fdd3-9d29-494f-89c3-863ee1accf23)
 
 ### 优化
 
@@ -136,8 +134,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [膨胀真的不简单](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489086&idx=1&sn=c47ff2b595f26d02c06351a5c806dff9&chksm=fa663e0fcd11b719b3821469a29fc1fdd0bb60fb70d338a14b5a1efa876d184781e9d85ad98d&token=1039605624&lang=zh_CN#rd)
 
 [pg_repack你需要知道的坑](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485839&idx=1&sn=44d332a3e58f24639bb2fa62925e2fc6&chksm=fa6621becd11a8a8108f6d226f18d3f6b4d20920f26a766b32ce9fba11f3a2dc3e75c4216be6&token=1039605624&lang=zh_CN#rd)
-
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ce88f205-4b12-48c5-b8da-704e2b8ed205">
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/9aec9838-91cb-419c-9ee3-ac61d733cd9a">
 
