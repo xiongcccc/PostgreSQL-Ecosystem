@@ -187,6 +187,9 @@ kernel：
 
 [高可用系列第一章repmgr](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487588&idx=1&sn=6bf3b823142e0e1deebff6e519391854&chksm=fa663855cd11b14313423bb88c61c9eaa9d0b1a2d50893990fff22c47b706a0aeb9ac5412c9a&token=1039605624&lang=zh_CN#rd)
 
+<img width="1492" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/8cc266f6-8fa6-4eb1-b41b-b1eb13660285">
+
+
 ### 内存
 
 [从DBA的角度系统学习一下内存管理](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489418&idx=1&sn=3817df7b8b91c1e2c76c7c2ea4702471&chksm=fa663fbbcd11b6ada63abad895d9ebc3752b9d36447e4caf57d31aaa4e184ded4c7a42bfe101&token=1039605624&lang=zh_CN#rd)
@@ -223,7 +226,6 @@ kernel：
 
 [从源码出发，深度剖析字节对齐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486054&idx=1&sn=6c13cc44750f3b5b6f35e26fb9b635d1&chksm=fa662257cd11ab415a5bae595197a6a2dd17d6968526cc6e2cd5917e38fa5496ac21fa61e383&token=1039605624&lang=zh_CN#rd)
 
-kernal：
 <img width="1265" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/5f75a591-ad96-4ae8-be55-4432df94738e">
 
 
