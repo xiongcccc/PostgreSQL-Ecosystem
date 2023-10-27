@@ -229,7 +229,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/fbc462d8-9ab3-45e0-a4a9-c4721a2e7550">
 
-
 ### TOAST
 
 [关于烤面包的方方面面](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489618&idx=1&sn=12e906d6dea6414e862c413e95e20391&chksm=fa663063cd11b975d22d5a59696482fab17a4a250a1c4e2ae7a75dc188fd02ee9ec471ddbdc4&token=1039605624&lang=zh_CN#rd)
@@ -255,6 +254,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [聊聊PostgreSQL 14 internal这本书](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489503&idx=1&sn=83056b3865e71c984240c26bcb65bc94&chksm=fa663feecd11b6f8632d8d601f19bce1de9a47af46c375f1130b85b75eb95d47d4cff18ed1e0&token=1039605624&lang=zh_CN#rd)
 
 [PostgreSQL好书推荐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488016&idx=1&sn=93c015fbaa3153298860435ee26310de&chksm=fa663a21cd11b3374d1a9a2993273e4b0fabd6013316ab157f11738c29cdb376530c8387efbc&token=1039605624&lang=zh_CN#rd)
+
+https://github.com/xiongcccc/PostgreSQL-ecosystem/blob/main/%E5%8E%86%E5%B1%8A%E6%B4%BB%E5%8A%A8PPT/%E8%A1%8C%E8%BF%9C%E8%87%AA%E8%BF%A9%EF%BC%8CPostgreSQL%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf
+
+![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/2b502ed9-74f1-4f08-abef-e65fb1cdc9ad)
 
 ### 子事务
 
@@ -360,7 +363,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [从DBA的角度聊聊UUID的利与弊](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489659&idx=1&sn=f5cbf3851cd457f1c8093132e97b35e2&chksm=fa66304acd11b95c2a1aad0cde2048e867eaf977e86dcbdea06ab6ffb84c3d04f326bcee90c8&token=1039605624&lang=zh_CN#rd)
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/21c29456-49f6-4414-9b87-69f0133b4148">
-
 
 ### 索引
 
