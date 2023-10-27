@@ -226,7 +226,6 @@ kernel：
 
 ![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/64e9e409-8a0a-41f7-a8da-02c8cad532c6)
 
-
 ### TOAST
 
 [关于烤面包的方方面面](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489618&idx=1&sn=12e906d6dea6414e862c413e95e20391&chksm=fa663063cd11b975d22d5a59696482fab17a4a250a1c4e2ae7a75dc188fd02ee9ec471ddbdc4&token=1039605624&lang=zh_CN#rd)
@@ -235,8 +234,7 @@ kernel：
 
 [从源码出发，深度剖析字节对齐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486054&idx=1&sn=6c13cc44750f3b5b6f35e26fb9b635d1&chksm=fa662257cd11ab415a5bae595197a6a2dd17d6968526cc6e2cd5917e38fa5496ac21fa61e383&token=1039605624&lang=zh_CN#rd)
 
-<img width="1265" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/5f75a591-ad96-4ae8-be55-4432df94738e">
-
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/5c69cc20-a249-4405-bab7-be0e1bc8cd73">
 
 ### 工具类
 
