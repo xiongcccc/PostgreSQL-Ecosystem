@@ -340,8 +340,6 @@ kernel：
 
 <img width="1364" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/fe3ad6eb-36f8-4b27-b99a-5b07b1e6ae22">
 
-
-
 ### FPI
 
 [不为熟知的FPI之hint bits](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489180&idx=1&sn=5c2d5a139b9f350a2d25d2f61905aa5a&chksm=fa663eadcd11b7bb3fcbb41ac930901a7a95d62ad01f019e5adc8d9ef61b67dbcd74fdbee32b&token=1039605624&lang=zh_CN#rd)
@@ -351,6 +349,8 @@ kernel：
 [聊聊基础备份与FPI](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488917&idx=1&sn=d32e80de35d287ae22ae03606c558fcc&chksm=fa663da4cd11b4b299f656ee1abd92693fc87f604d4ea398811c2e8833e2e7e53da1130cca6c&token=1039605624&lang=zh_CN#rd)
 
 [从DBA的角度聊聊UUID的利与弊](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489659&idx=1&sn=f5cbf3851cd457f1c8093132e97b35e2&chksm=fa66304acd11b95c2a1aad0cde2048e867eaf977e86dcbdea06ab6ffb84c3d04f326bcee90c8&token=1039605624&lang=zh_CN#rd)
+
+<img width="1157" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/23bd69bc-dc81-483b-8662-aa5a88a6a387">
 
 ### 索引
 
