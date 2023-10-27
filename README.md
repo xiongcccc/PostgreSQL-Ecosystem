@@ -336,6 +336,12 @@ kernel：
 
 [一则 PITR 的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489049&idx=1&sn=26d26d55fa3cf53a5bdbf7aec384b686&chksm=fa663e28cd11b73e279445fdb2aa7835c8e9ad58b9fbbaf1d497d1aa00798b6fee58342c6536&token=1153899980&lang=zh_CN#rd)
 
+<img width="1550" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/1c4f0d0d-cb22-400e-98aa-f7ff79d548a5">
+
+<img width="1364" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/fe3ad6eb-36f8-4b27-b99a-5b07b1e6ae22">
+
+
+
 ### FPI
 
 [不为熟知的FPI之hint bits](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489180&idx=1&sn=5c2d5a139b9f350a2d25d2f61905aa5a&chksm=fa663eadcd11b7bb3fcbb41ac930901a7a95d62ad01f019e5adc8d9ef61b67dbcd74fdbee32b&token=1039605624&lang=zh_CN#rd)
