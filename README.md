@@ -129,6 +129,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [pg_repack你需要知道的坑](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485839&idx=1&sn=44d332a3e58f24639bb2fa62925e2fc6&chksm=fa6621becd11a8a8108f6d226f18d3f6b4d20920f26a766b32ce9fba11f3a2dc3e75c4216be6&token=1039605624&lang=zh_CN#rd)
 
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ce88f205-4b12-48c5-b8da-704e2b8ed205">
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/7ddc3ef3-61bb-4505-bbe5-df6089fa1586">
+
 ### vacuum原理剖析
 
 [Visualizing Vacuum](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486445&idx=1&sn=b5fea3fdff0e428f2fd8b0bda3d2b1d5&chksm=fa6623dccd11aaca06797803c4b306739f26b507b00c56bed0827e48b118433d7773dd6b41be&token=1039605624&lang=zh_CN#rd)
