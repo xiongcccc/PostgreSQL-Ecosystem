@@ -311,6 +311,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [你真的了解备份吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485800&idx=1&sn=ded85605544fad0fe3ab437604e2a6cf&chksm=fa662159cd11a84fd0a664265718daaead14512b29a6e0cbc79214005e909e435f377e46712e&token=1039605624&lang=zh_CN#rd)
 
+[一则 PITR 的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489049&idx=1&sn=26d26d55fa3cf53a5bdbf7aec384b686&chksm=fa663e28cd11b73e279445fdb2aa7835c8e9ad58b9fbbaf1d497d1aa00798b6fee58342c6536&token=1153899980&lang=zh_CN#rd)
+
 ### FPI
 
 [不为熟知的FPI之hint bits](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489180&idx=1&sn=5c2d5a139b9f350a2d25d2f61905aa5a&chksm=fa663eadcd11b7bb3fcbb41ac930901a7a95d62ad01f019e5adc8d9ef61b67dbcd74fdbee32b&token=1039605624&lang=zh_CN#rd)
