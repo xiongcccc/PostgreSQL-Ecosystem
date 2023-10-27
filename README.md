@@ -207,8 +207,7 @@ kernel：
 
 [窥探PostgreSQL中的共享内存](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485135&idx=1&sn=b794fa2caa373042015742caa2a37028&chksm=fa662efecd11a7e8fcb1300f99366554a2f9553f35c279468a5c504f0ff37138196285d6b88c&token=1039605624&lang=zh_CN#rd)
 
-<img width="1155" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/9ca1448a-5826-4cea-a267-6bc6e41a1d09">
-
+<img width="588" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b66c73a6-fb82-45ca-9cb9-61361f338302">
 
 ### CPU
 
