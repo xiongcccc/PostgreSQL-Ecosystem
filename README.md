@@ -217,7 +217,14 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [聊一聊被众人误解许久的iowait](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489555&idx=1&sn=f80e9d56cbfc7a3e0f8e22d611dcd41c&chksm=fa663022cd11b93488a12e9f7bbbbf129d4449efd0c3aeabd7dccb2f8826b7d0434add991f7b&token=1039605624&lang=zh_CN#rd)
 
-![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/64e9e409-8a0a-41f7-a8da-02c8cad532c6)
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b39eef2f-8919-41aa-b695-7f7298582442">
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/c06cccc6-b79f-4945-91ba-9ff2d15f7fc9">
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d07c7e7c-5d85-4646-8ed0-b68105adda02">
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/fbc462d8-9ab3-45e0-a4a9-c4721a2e7550">
+
 
 ### TOAST
 
