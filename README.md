@@ -131,7 +131,9 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ce88f205-4b12-48c5-b8da-704e2b8ed205">
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/7ddc3ef3-61bb-4505-bbe5-df6089fa1586">
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/9aec9838-91cb-419c-9ee3-ac61d733cd9a">
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b56e83cd-525c-4bdc-a44e-9a7074421005">
 
 ### vacuum原理剖析
 
