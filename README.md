@@ -99,7 +99,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PostgreSQL DBA Daily](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487297&idx=1&sn=0d8bca223494a4a58bbfce44d2730806&chksm=fa662770cd11ae66e1429fc190030a448c2e1739228a9f300b4cfbc3ef8d1ec42ec75597072b&token=1039605624&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e6cc45c1-8f3f-45e2-895f-453dd57c9308">
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/8d9acc9c-6fb9-468a-8d8a-467141045432">
 
 ### 优化
 
