@@ -177,13 +177,19 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [折磨许久的逻辑解码异常](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489069&idx=1&sn=cd0e03f2db2a8eedb1b85a852141e15d&chksm=fa663e1ccd11b70a9c513f55aa30dcbd04f45b556951b2ac2319edfa0720b774bfb0b2ccdbc0&token=1039605624&lang=zh_CN#rd)
 
-[聊一聊Failover Slot](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489492&idx=1&sn=b48b4c9819fba68cdf52434e154a0459&chksm=fa663fe5cd11b6f3d5be582841da42a321015970987c3394daafe182f3657eb9896f9852faab&token=1039605624&lang=zh_CN#rd)
-
 [逻辑复制不为熟知的点](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485906&idx=1&sn=148c400d10cc6c24fe7905afdcdff633&chksm=fa6621e3cd11a8f54609d21091df3026c6f5e1baa5d248728eb0dcd3bc044c8abdbeb30b59ff&token=1039605624&lang=zh_CN#rd)
 
 [记一次逻辑复制的"奇坑"现象](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485843&idx=1&sn=16a376ae6782a186a431cdd4abcbb2ed&chksm=fa6621a2cd11a8b4fc76c0a64e74c37fc9dcf5634d89bce25fdcf068b14f627c2a8ecb1bf566#rd)
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b4848b5f-e209-4975-8cc4-2d24935f516e">
+
+### 复制槽
+
+[聊一聊Failover Slot](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489492&idx=1&sn=b48b4c9819fba68cdf52434e154a0459&chksm=fa663fe5cd11b6f3d5be582841da42a321015970987c3394daafe182f3657eb9896f9852faab&token=1039605624&lang=zh_CN#rd)
+
+[PostgreSQL复制槽实操](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247483746&idx=1&sn=0dc832d9f3b65877f4605964e4fbc644&chksm=fa662953cd11a045616e38941042cbbd48368a10bb9deb01df68b05dda1e79d35a711a34b52b&token=156973442&lang=zh_CN#rd)
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/dbcdd3fa-91fa-4344-987f-b3627f477afd">
 
 ### 流复制
 
