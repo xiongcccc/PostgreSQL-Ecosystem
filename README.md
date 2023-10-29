@@ -10,6 +10,7 @@ Feel free to contact me：
 各位好，我是熊灿灿，大家可以喊我cc，我是PostgreSQL ACE/MVP，杰出新人，CSDN社区之星，PostgreSQL学徒公众号作者，目前正在从事PostgreSQL与Greenplum相关的工作。
 
 PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用PostgreSQL！这也是我目前正在做的事情，坚持布道与分享。以下是PostgreSQL学徒公众号文章的简单分类，希望各位都能从小工到专家，从 enthusiast 到 committer！
+
 <img width="1731" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/3999b893-03c0-423c-a2da-d2dc1161050e">
 
 另外我个人维护了三个PostgreSQL学徒交流群，感兴趣的都可以联系我，一起学习PostgreSQL。
