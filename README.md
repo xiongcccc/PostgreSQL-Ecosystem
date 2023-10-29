@@ -411,7 +411,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [如何处理损坏的系统表索引](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486000&idx=1&sn=dac26b6917ba7b3227711fe8f0161fb6&chksm=fa662201cd11ab1790fdde1e3dbf6e5ff9c928e242f2e31d2529b0274c4c2719a4a4f62e48bd#rd)
 
-![PostgreSQL index](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/351748ff-a765-4e2b-b7cf-ddf03d0e11ca)
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/c32ddc96-f261-4bde-a44a-0e82624fd007">
 
 ### 升级
 
