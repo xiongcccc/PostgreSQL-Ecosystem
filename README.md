@@ -193,19 +193,23 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 流复制
 
-[一则不同寻常的复制冲突案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490076&idx=1&sn=486393e38ac2c1d56766ddcc481713ac&chksm=fa66322dcd11bb3b985f09db6b687a4834139d89a7cf05149c844e23b46a88a654aa07d13d23&token=1039605624&lang=zh_CN#rd)
-
 [备库会同步主库修改的参数吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489635&idx=1&sn=dfc484dd7a8326ed0dc19298499201b8&chksm=fa663052cd11b944f45a3f074c81a88f93520661908d708d1ca8801378d4ae2e262d2b34dd2d&token=1039605624&lang=zh_CN&poc_token=HCIlNWWjwvIgRzHLI_dRXCnHt5cEfBb44D74DE84)
 
 [PostgreSQL流复制的方方面面](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485331&idx=1&sn=a6f6e21cf2e3685f9aab6e03147faf8c&chksm=fa662fa2cd11a6b40c84fa3f74d8933bdfb777f40d398184bf0c02289eca05bb3b266a83ad25&token=1039605624&lang=zh_CN#rd)
 
-[处理PostgreSQL中的流复制冲突](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247484559&idx=1&sn=f488712f2e807c0b136dbb59a19b01be&chksm=fa662cbecd11a5a8bd9f263fe59b0323540b4b491f8de290175be50eba93109e0ccfed9ef2bb&token=1039605624&lang=zh_CN#rd)
-
-[你真的搞懂recovery conflict了吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486702&idx=1&sn=0307fd6bfe724132103604509d173832&chksm=fa6624dfcd11adc9bf1d9f2415e81642f786610101368f250c8ebeeb254831d5231f80e3f536&token=1039605624&lang=zh_CN#rd)
-
 [高可用系列第一章repmgr](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487588&idx=1&sn=6bf3b823142e0e1deebff6e519391854&chksm=fa663855cd11b14313423bb88c61c9eaa9d0b1a2d50893990fff22c47b706a0aeb9ac5412c9a&token=1039605624&lang=zh_CN#rd)
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/029a319c-d773-4cae-92dc-8afbc06d5a0c">
+
+### 流复制冲突
+
+[一则不同寻常的复制冲突案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490076&idx=1&sn=486393e38ac2c1d56766ddcc481713ac&chksm=fa66322dcd11bb3b985f09db6b687a4834139d89a7cf05149c844e23b46a88a654aa07d13d23&token=1039605624&lang=zh_CN#rd)
+
+[你真的搞懂recovery conflict了吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486702&idx=1&sn=0307fd6bfe724132103604509d173832&chksm=fa6624dfcd11adc9bf1d9f2415e81642f786610101368f250c8ebeeb254831d5231f80e3f536&token=1039605624&lang=zh_CN#rd)
+
+[处理PostgreSQL中的流复制冲突](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247484559&idx=1&sn=f488712f2e807c0b136dbb59a19b01be&chksm=fa662cbecd11a5a8bd9f263fe59b0323540b4b491f8de290175be50eba93109e0ccfed9ef2bb&token=1039605624&lang=zh_CN#rd)
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e14b471d-8ce9-428d-be4c-f1e4873c2c0c">
 
 ### 内存
 
