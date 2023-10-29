@@ -335,8 +335,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 备份恢复
 
-[PITR是幂等的吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487276&idx=1&sn=3f371676c8bc3d6ce8b4af6625b6e2c1&chksm=fa66271dcd11ae0b6cc8e77114c71783aef3d24e975fec51e46603229485d7090c91c33caca7&token=1039605624&lang=zh_CN#rd)
-
 [生产案例 | 费解的备份corrupt](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486648&idx=1&sn=0364f6fc9611fe939f4d1ce879e0bb67&chksm=fa662489cd11ad9f02e9b0149fbf4890a1018103c93d3df4a7db205e2e4f480ec79b3d14adb9&token=1039605624&lang=zh_CN#rd)
 
 [pgbackrest你必须知道的坑](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486562&idx=1&sn=d57bb83bf956df53a1ff1bc3dc340799&chksm=fa662453cd11ad45ac20083ae343183ac10e754c4682f27665af348c20f5b0c9e363d0880e46&token=1039605624&lang=zh_CN#rd)
@@ -347,9 +345,15 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [你真的了解备份吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485800&idx=1&sn=ded85605544fad0fe3ab437604e2a6cf&chksm=fa662159cd11a84fd0a664265718daaead14512b29a6e0cbc79214005e909e435f377e46712e&token=1039605624&lang=zh_CN#rd)
 
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/259c5d7e-f36d-4227-a7e9-a588f8d5aab7">
+
+### PITR
+
 [一则 PITR 的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489049&idx=1&sn=26d26d55fa3cf53a5bdbf7aec384b686&chksm=fa663e28cd11b73e279445fdb2aa7835c8e9ad58b9fbbaf1d497d1aa00798b6fee58342c6536&token=1153899980&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/259c5d7e-f36d-4227-a7e9-a588f8d5aab7">
+[PITR是幂等的吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487276&idx=1&sn=3f371676c8bc3d6ce8b4af6625b6e2c1&chksm=fa66271dcd11ae0b6cc8e77114c71783aef3d24e975fec51e46603229485d7090c91c33caca7&token=1039605624&lang=zh_CN#rd)
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/067e35ab-4b46-4dd3-b567-84e7b10ff7e9">
 
 ### FPI
 
