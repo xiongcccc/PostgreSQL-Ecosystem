@@ -353,6 +353,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PITR是幂等的吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487276&idx=1&sn=3f371676c8bc3d6ce8b4af6625b6e2c1&chksm=fa66271dcd11ae0b6cc8e77114c71783aef3d24e975fec51e46603229485d7090c91c33caca7&token=1039605624&lang=zh_CN#rd)
 
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f29e282c-b428-4649-a15f-6f35df1ad571">
+
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/067e35ab-4b46-4dd3-b567-84e7b10ff7e9">
 
 ### FPI
