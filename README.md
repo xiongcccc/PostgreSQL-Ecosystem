@@ -73,6 +73,14 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [生产案例 | 有趣的表大小](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486653&idx=1&sn=009ed707692613a03a743cc53f99d114&chksm=fa66248ccd11ad9a0034afdcd2ef7527bced29a5a5707f7dc2d4d981aebc944151ce5cbb7b7f&token=1039605624&lang=zh_CN#rd)
 
+### 存储
+
+[空间都去哪里了？(上)]([https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1034954351](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490488&idx=1&sn=4da35f1dc7edb81a4ad7b64139057990&chksm=fa663389cd11ba9fbf948d912a1defbd16fbd53e3bc93f31b8f490f5a6d1a59c37b5c9b62039&token=1034954351&lang=zh_CN#rd))
+
+[如何优雅地计算表大小](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486493&idx=1&sn=2b10bb59a7f562538da4336690791887&chksm=fa66242ccd11ad3a7d10bcaecbf41c4057c36849e6efc89e0290639e39e671167d7a8681658e#rd)
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/50a1ed62-11cb-42a0-8293-8def0aad9443">
+
 ### PostgreSQL活动记录
 
 [第十二届 PostgreSQL 大会有感](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489234&idx=1&sn=bc85d92efdf8aca4186492fb1f6ce18e&chksm=fa663ee3cd11b7f5a57e15b38f410e90a0dd8367d571e24fc4d453673167937303ff86f81bd0&token=1039605624&lang=zh_CN#rd)
@@ -444,8 +452,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [PostgreSQL中鲜为人知的特性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486678&idx=1&sn=31bb0f1333e0825289c2d48d19673915&chksm=fa6624e7cd11adf1782d8aa021c7b4c42b20d5bef11b0f9980fa0e13fca591a83c7e4a688270&token=1039605624&lang=zh_CN#rd)
 
 [遇到问题如何快速查阅是否为BUG](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490121&idx=1&sn=0db8b0d4ade6e526e611e1afaf0d2014&chksm=fa663278cd11bb6e09ec6e42ef7b8aad437533fc2a9fc9538c90c0c89d358884657636f6de97&token=1039605624&lang=zh_CN#rd)
-
-[如何优雅地计算表大小](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486493&idx=1&sn=2b10bb59a7f562538da4336690791887&chksm=fa66242ccd11ad3a7d10bcaecbf41c4057c36849e6efc89e0290639e39e671167d7a8681658e#rd)
 
 [如何优雅地计算年龄](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486514&idx=1&sn=f7844c4f9fa4953d2d8495ff18285888&chksm=fa662403cd11ad15839fd522a1c5fa852f4bf53dc29822abf3d05dbe6619c425af0fe4d12561#rd)
 
