@@ -71,13 +71,13 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [有趣的生产案例两则](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487168&idx=1&sn=528c7bd2b343e209add7cb9cbb7e5738&chksm=fa6626f1cd11afe7ef86908df8eda7026f985b8d2727fe07f96f4e82e39acb7a51da3662adeb&token=1039605624&lang=zh_CN#rd)
 
-[生产案例 | 有趣的表大小](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486653&idx=1&sn=009ed707692613a03a743cc53f99d114&chksm=fa66248ccd11ad9a0034afdcd2ef7527bced29a5a5707f7dc2d4d981aebc944151ce5cbb7b7f&token=1039605624&lang=zh_CN#rd)
-
 ### 存储
 
 [空间都去哪里了？(上)](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490488&idx=1&sn=4da35f1dc7edb81a4ad7b64139057990&chksm=fa663389cd11ba9fbf948d912a1defbd16fbd53e3bc93f31b8f490f5a6d1a59c37b5c9b62039&token=1034954351&lang=zh_CN#rd)
 
 [如何优雅地计算表大小](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486493&idx=1&sn=2b10bb59a7f562538da4336690791887&chksm=fa66242ccd11ad3a7d10bcaecbf41c4057c36849e6efc89e0290639e39e671167d7a8681658e#rd)
+
+[生产案例 | 有趣的表大小](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486653&idx=1&sn=009ed707692613a03a743cc53f99d114&chksm=fa66248ccd11ad9a0034afdcd2ef7527bced29a5a5707f7dc2d4d981aebc944151ce5cbb7b7f&token=1039605624&lang=zh_CN#rd)
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/50a1ed62-11cb-42a0-8293-8def0aad9443">
 
