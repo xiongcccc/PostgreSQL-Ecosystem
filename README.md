@@ -259,6 +259,13 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f148a9f3-8ae4-475e-84c1-7e73e0e83afa">
 
+### 网络
+
+[DBA必备技能之网络丢包分析总结](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490614&idx=1&sn=ac9643a399c79c593fd73d800ffc5953&chksm=fa663407cd11bd11d7b7dd6fac3e50211d1f08d12deac02ad55135e6a7f6d7e6bc4a8c123b65&token=2116038334&lang=zh_CN#rd)
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d38735bc-d201-4373-9752-6cc269a50836">
+
+
 ### TOAST
 
 [关于烤面包的方方面面](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489618&idx=1&sn=12e906d6dea6414e862c413e95e20391&chksm=fa663063cd11b975d22d5a59696482fab17a4a250a1c4e2ae7a75dc188fd02ee9ec471ddbdc4&token=1039605624&lang=zh_CN#rd)
