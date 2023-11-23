@@ -57,7 +57,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [Inside the PostgreSQL Query Optimizer](http://www.neilconway.org/talks/optimizer/optimizer.pdf)
 
-[PostgreSQL查询优化器详解（物理优化篇）](https://blog.csdn.net/shujiezhang/article/details/80457893）
+[PostgreSQL查询优化器详解（物理优化篇）](https://blog.csdn.net/shujiezhang/article/details/80457893)
 
 [PostgreSQL查询优化器详解（逻辑优化篇）](https://blog.csdn.net/shujiezhang/article/details/108729281?spm=1001.2014.3001.5502)
 
