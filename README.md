@@ -27,12 +27,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PostgreSQL优化器解析](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486987&idx=1&sn=58b66693b0fbfd3f378377968be1085b&chksm=fa66263acd11af2c0b06cbddcad06ed18db3a414f02df733793d9d08979687cbd7a1e53b833a&token=1039605624&lang=zh_CN#rd)
 
-[深度剖析PostgreSQL中的统计信息](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487525&idx=1&sn=b2893176bf71f58fa4ef364211f7993f&chksm=fa663814cd11b10249221c0f39b2791d2e13a54b22af7cdf6e44d332a4fb3210736519c4e564&token=1039605624&lang=zh_CN#rd)
-
-[备库是否有自己的统计信息？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489020&idx=1&sn=83f3d019a73d4a46306636d6747d873a&chksm=fa663dcdcd11b4dbfa5311e01e4328a7dc65c110dd9bd3eeb5964c03081658476fc3a83dafc1&token=1039605624&lang=zh_CN#rd)
-
-[从实际案例分析PostgreSQL中的统计信息](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488833&idx=1&sn=23a1beefc05888d3415464d7022c67bc&chksm=fa663d70cd11b466c4a479ca0b06c9765b0725973fd9b0ec8304533e53c02fee3bc1feb2de60&token=1039605624&lang=zh_CN#rd)
-
 [深度剖析PostgreSQL中的执行计划](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487733&idx=1&sn=1db0eaa8519ed4849a52f63a9515b03a&chksm=fa6638c4cd11b1d2847a1b01424e6892e59c3f539347ade916fc0f5acba7ac9024a75b0bdce0&token=1039605624&lang=zh_CN#rd)
 
 [PG先写脏页还是先写WAL？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490124&idx=1&sn=a19cc6f21059df420452b26d4f3e45a6&chksm=fa66327dcd11bb6bd6b2d239bf409c3f9e0327c9bd4e7504fa444a0a9a8646a600f76482acd8&token=1039605624&lang=zh_CN#rd)
@@ -40,8 +34,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [深度剖析 MultiXactID](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490036&idx=1&sn=13579e1935823ac9f74978f903dd39f0&chksm=fa6631c5cd11b8d31645c8153512cd472ea0015055372eec41ff6bc206c9e81c7451b7f22d35&token=1039605624&lang=zh_CN#rd)
 
 [页剪枝与奇妙的BUG](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489151&idx=1&sn=56737e4e0933440cc8978ca61a3fe59f&chksm=fa663e4ecd11b758aa8dd0f2834c6538040c4a557016c69fbaf33bd71e006876534de6a49147&token=1039605624&lang=zh_CN#rd)
-
-[小案例之鸡生蛋还是蛋生鸡](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488784&idx=1&sn=08e604da53d36875edf438203d3a6742&chksm=fa663d21cd11b43773396bd02f128c74ccea31e493177ff817fbed86c1f78f4fc0097528e810&token=1039605624&lang=zh_CN#rd)
 
 [数据库为什么会丢数据？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247484713&idx=1&sn=8fb8668af0ea8f31b0ed5fb558b9819e&chksm=fa662d18cd11a40ef160ead01833e56dfd1a85bd1ed60b8e0c667ba7b6ae83c20ba61075542b&token=1039605624&lang=zh_CN#rd)
 
@@ -56,6 +48,24 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/67287ef0-23e0-4b49-85e7-7a0ab9af76cc">
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/59e36a7f-0502-4973-8c43-796e62eeef77">
+
+#### 推荐阅读
+
+[Exploring a Postgres query plan](https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html)
+
+### 统计信息
+
+[深度剖析PostgreSQL中的统计信息](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487525&idx=1&sn=b2893176bf71f58fa4ef364211f7993f&chksm=fa663814cd11b10249221c0f39b2791d2e13a54b22af7cdf6e44d332a4fb3210736519c4e564&token=1039605624&lang=zh_CN#rd)
+
+[备库是否有自己的统计信息？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489020&idx=1&sn=83f3d019a73d4a46306636d6747d873a&chksm=fa663dcdcd11b4dbfa5311e01e4328a7dc65c110dd9bd3eeb5964c03081658476fc3a83dafc1&token=1039605624&lang=zh_CN#rd)
+
+[备库是否有自己的统计信息？(续)](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490633&idx=1&sn=97391f3f55d8b96383d770afdaee8cae&chksm=fa663478cd11bd6e20c57ddb8fbb211d45b3bbb5b0288c2ffa895a2da13e23e0d37832d1b7c1&token=1691692939&lang=zh_CN#rd)
+
+[从实际案例分析PostgreSQL中的统计信息](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488833&idx=1&sn=23a1beefc05888d3415464d7022c67bc&chksm=fa663d70cd11b466c4a479ca0b06c9765b0725973fd9b0ec8304533e53c02fee3bc1feb2de60&token=1039605624&lang=zh_CN#rd)
+
+[小案例之鸡生蛋还是蛋生鸡](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488784&idx=1&sn=08e604da53d36875edf438203d3a6742&chksm=fa663d21cd11b43773396bd02f128c74ccea31e493177ff817fbed86c1f78f4fc0097528e810&token=1039605624&lang=zh_CN#rd)
+
+![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/19c42b89-4ca1-4b48-b5a0-b7be3e8611ed)
 
 ### 生产案例
 
