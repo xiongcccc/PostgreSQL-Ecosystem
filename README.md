@@ -53,6 +53,14 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [Exploring a Postgres query plan](https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html)
 
+[Queries in PostgreSQL: 1. Query execution stages](https://postgrespro.com/blog/pgsql/5969262)
+
+[Inside the PostgreSQL Query Optimizer](http://www.neilconway.org/talks/optimizer/optimizer.pdf)
+
+[PostgreSQL查询优化器详解（物理优化篇）](https://blog.csdn.net/shujiezhang/article/details/80457893）
+
+[PostgreSQL查询优化器详解（逻辑优化篇）](https://blog.csdn.net/shujiezhang/article/details/108729281?spm=1001.2014.3001.5502)
+
 ### 统计信息
 
 [深度剖析PostgreSQL中的统计信息](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487525&idx=1&sn=b2893176bf71f58fa4ef364211f7993f&chksm=fa663814cd11b10249221c0f39b2791d2e13a54b22af7cdf6e44d332a4fb3210736519c4e564&token=1039605624&lang=zh_CN#rd)
