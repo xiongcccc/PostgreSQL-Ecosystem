@@ -49,7 +49,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/59e36a7f-0502-4973-8c43-796e62eeef77">
 
-#### 推荐阅读
+#### 好文分享
 
 [Exploring a Postgres query plan](https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html)
 
@@ -75,9 +75,15 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/19c42b89-4ca1-4b48-b5a0-b7be3e8611ed)
 
-#### 推荐阅读
+#### 好文分享
 
 [The two kinds of stats in PostgreSQL](https://web.archive.org/web/20200615204931/http://blog.pgaddict.com/posts/the-two-kinds-of-stats-in-postgresql)
+
+[Histograms in MariaDB, MySQL and PostgreSQL](https://www.slideshare.net/SergeyPetrunya/histograms-in-mariadb-mysql-and-postgresql)
+
+[PostgreSQL 内核 ANALYZE 背后的事](https://zhuanlan.zhihu.com/p/538049580)
+
+[PostgreSQL · 特性分析 · 统计信息计算方法 ](http://mysql.taobao.org/monthly/2016/05/09/)
 
 ### 生产案例
 
@@ -104,6 +110,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [生产案例 | 有趣的表大小](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486653&idx=1&sn=009ed707692613a03a743cc53f99d114&chksm=fa66248ccd11ad9a0034afdcd2ef7527bced29a5a5707f7dc2d4d981aebc944151ce5cbb7b7f&token=1039605624&lang=zh_CN#rd)
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/50a1ed62-11cb-42a0-8293-8def0aad9443">
+
+#### 好文分享
+
+[Can there be orphaned data files in PostgreSQL?](https://www.dbi-services.com/blog/can-there-be-orphaned-data-files-in-postgresql/)
 
 ### PostgreSQL活动记录
 
@@ -287,7 +297,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d38735bc-d201-4373-9752-6cc269a50836">
 
-
 ### TOAST
 
 [关于烤面包的方方面面](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489618&idx=1&sn=12e906d6dea6414e862c413e95e20391&chksm=fa663063cd11b975d22d5a59696482fab17a4a250a1c4e2ae7a75dc188fd02ee9ec471ddbdc4&token=1039605624&lang=zh_CN#rd)
@@ -428,6 +437,12 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/486528dc-0cca-43ca-a2cb-6eca242435e6">
 
+#### 好文分享
+
+[On the impact of full-page writes](https://www.2ndquadrant.com/en/blog/on-the-impact-of-full-page-writes/)
+
+[Tuning PostgreSQL for High Write Throughput](https://www.slideshare.net/GrantMcAlister/tuning-postgresql-for-high-write-throughput)
+
 ### 索引
 
 [聊一聊索引失效](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488762&idx=1&sn=e05ec7ef109d8d23e30409a7ef98c5da&chksm=fa663ccbcd11b5dd6c388d0dd6d9de9d2dff17792a58b6a7dc82bc08e90744a405560e0a40fd&token=1039605624&lang=zh_CN#rd)
@@ -458,6 +473,14 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [高效升级PostgreSQL](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485673&idx=1&sn=0343ebb7987a2766a6b5c0d6a9ebaa2a&chksm=fa6620d8cd11a9cea13ba889953572d853798beabda2d85317910d6bd2d66440f64f1c5e11d8&token=1039605624&lang=zh_CN#rd)
 
+#### 好文分享
+
+[Why upgrade PostgreSQL?](https://why-upgrade.depesz.com/show?from=13.1&to=13.3&keywords==-pooo0)
+
+[UPGRADE TO A NEW POSTGRESQL MAJOR VERSION](https://www.cybertec-postgresql.com/en/a-primer-on-postgresql-upgrade-methods/)
+
+[PostgreSQL upgrade best practices](https://www.pgday.ch/common/slides/2017_T-DBI-20170630-001-PGDAY-Upgrade-BestPractices.pdf)
+
 ### 序列
 
 [序列的这些坑，你造吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487128&idx=1&sn=92e80b386876ee4c5e62b4e9585c8ba1&chksm=fa6626a9cd11afbfb978f5095ed28a914e5264c3152a4dcb9411654f824db65b9f74e2d0df8b&token=1153899980&lang=zh_CN#rd)
@@ -477,6 +500,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [PostgreSQL插件十八摸](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485824&idx=1&sn=8804fb44a639b794349becd3799b7404&chksm=fa6621b1cd11a8a7692f80e3e2e18a7b897d263da98173c63b537c6f4fb44e99ad8515ea6803#rd)
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e55800bd-e013-4491-8911-9ad30e2a4d95">
+
+#### 好文分享
+
+[Extentions list](https://github.com/Vonng/pigsty/discussions/333)
 
 ### 使用技巧
 
