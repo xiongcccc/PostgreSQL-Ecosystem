@@ -175,6 +175,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [一起pg_pathman的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488513&idx=1&sn=2cf3090ecff696646f2d5eb47e2cc2c8&chksm=fa663c30cd11b52678c7fd7d43a465aed1b833cefd22f873cffb4348f2248ea2257d981d2e5e&token=1039605624&lang=zh_CN#rd)
 
+<img width="577" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/75da988a-d2d8-4b36-bb6b-883a397db8f6">
+
 <img width="577" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/52880bda-3076-4d9a-be04-8c8094961973">
 
 ### 表膨胀与实战
