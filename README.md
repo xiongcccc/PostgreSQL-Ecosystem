@@ -109,6 +109,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [生产案例 | 有趣的表大小](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486653&idx=1&sn=009ed707692613a03a743cc53f99d114&chksm=fa66248ccd11ad9a0034afdcd2ef7527bced29a5a5707f7dc2d4d981aebc944151ce5cbb7b7f&token=1039605624&lang=zh_CN#rd)
 
+[从操作系统角度看表空间计算方式](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490662&idx=1&sn=1db963d424c6246dc8c6e990d8fb9fea&chksm=fa663457cd11bd41aa24504598cdcfd3d39a1dac95ca019aa87551453a3bb341834dfc768875&token=1691692939&lang=zh_CN#rd)
+
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/50a1ed62-11cb-42a0-8293-8def0aad9443">
 
 #### 好文分享
