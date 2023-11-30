@@ -525,8 +525,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [如何优雅地计算年龄](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486514&idx=1&sn=f7844c4f9fa4953d2d8495ff18285888&chksm=fa662403cd11ad15839fd522a1c5fa852f4bf53dc29822abf3d05dbe6619c425af0fe4d12561#rd)
 
-[如何高效处理/索引 JSON](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486086&idx=1&sn=2edebd443df914ff5d290820a407a33f&chksm=fa6622b7cd11aba170d850f0b19c6f143a327851438d7813400d76510159882b6c7467478761#rd)
-
 [使用GDB分析PostgreSQL](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486023&idx=1&sn=5bcfe5f05f03adbd5e7763a99907d19b&chksm=fa662276cd11ab60f01cf89da36a36da00c7835530a46e51495b15e06a64fbc1282156d425b3#rd)
 
 [定制你自己的psql](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485995&idx=1&sn=68d6351b56eb7b5f1c52b125ef72f20e&chksm=fa66221acd11ab0c34c7623ace9575360d8893ad07848467eaa851651f57e24a0a51bed6fc34&token=1039605624&lang=zh_CN#rd)
@@ -536,6 +534,12 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [如何调试分析函数](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489851&idx=1&sn=bd4152b3b7508d837d62227d836ac62b&chksm=fa66310acd11b81cda52fc0f4edfd539e90afae29d7907361633287ed9e61750c02802cf65e1#rd)
 
 [函数安全性的妙用](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488357&idx=1&sn=b983efd2895e8126ac6cc539cff290e9&chksm=fa663b54cd11b242a299b80fdd60ddab4f0eee9cd544cafa62dbb8d8abc3382255763316ddcc#rd)
+
+### JSON
+
+[如何高效处理/索引 JSON](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486086&idx=1&sn=2edebd443df914ff5d290820a407a33f&chksm=fa6622b7cd11aba170d850f0b19c6f143a327851438d7813400d76510159882b6c7467478761#rd)
+
+<img width="1984" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f67dae3d-faa2-4b56-aab0-00aa92d473c6">
 
 ### Greenplum
 
