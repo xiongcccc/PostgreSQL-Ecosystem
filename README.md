@@ -27,6 +27,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PostgreSQL优化器解析](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486987&idx=1&sn=58b66693b0fbfd3f378377968be1085b&chksm=fa66263acd11af2c0b06cbddcad06ed18db3a414f02df733793d9d08979687cbd7a1e53b833a&token=1039605624&lang=zh_CN#rd)
 
+[深入剖析PostgreSQL优化器](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490679&idx=1&sn=9d224e3ad1e85ebef02704e364350f93&chksm=fa663446cd11bd50594b3675371b28c24f13a2eade1c84bd01ddd8f5625fc9bbab31a023522c&token=923061450&lang=zh_CN#rd)
+
 [PG先写脏页还是先写WAL？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490124&idx=1&sn=a19cc6f21059df420452b26d4f3e45a6&chksm=fa66327dcd11bb6bd6b2d239bf409c3f9e0327c9bd4e7504fa444a0a9a8646a600f76482acd8&token=1039605624&lang=zh_CN#rd)
 
 [深度剖析 MultiXactID](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490036&idx=1&sn=13579e1935823ac9f74978f903dd39f0&chksm=fa6631c5cd11b8d31645c8153512cd472ea0015055372eec41ff6bc206c9e81c7451b7f22d35&token=1039605624&lang=zh_CN#rd)
@@ -43,7 +45,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [一文带你搞懂PostgreSQL中的标志位](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485506&idx=1&sn=4775ed35782288c191c99851dea7ca07&chksm=fa662073cd11a965f3987ee3a149224225a7a609f247e3128562bfb633a226cf242d3cc5010a#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/67287ef0-23e0-4b49-85e7-7a0ab9af76cc">
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/1f8f5710-3f6a-4f63-8454-5ce73b500f41">
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/59e36a7f-0502-4973-8c43-796e62eeef77">
 
