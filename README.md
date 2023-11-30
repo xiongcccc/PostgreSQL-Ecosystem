@@ -27,8 +27,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PostgreSQL优化器解析](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486987&idx=1&sn=58b66693b0fbfd3f378377968be1085b&chksm=fa66263acd11af2c0b06cbddcad06ed18db3a414f02df733793d9d08979687cbd7a1e53b833a&token=1039605624&lang=zh_CN#rd)
 
-[深度剖析PostgreSQL中的执行计划](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487733&idx=1&sn=1db0eaa8519ed4849a52f63a9515b03a&chksm=fa6638c4cd11b1d2847a1b01424e6892e59c3f539347ade916fc0f5acba7ac9024a75b0bdce0&token=1039605624&lang=zh_CN#rd)
-
 [PG先写脏页还是先写WAL？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490124&idx=1&sn=a19cc6f21059df420452b26d4f3e45a6&chksm=fa66327dcd11bb6bd6b2d239bf409c3f9e0327c9bd4e7504fa444a0a9a8646a600f76482acd8&token=1039605624&lang=zh_CN#rd)
 
 [深度剖析 MultiXactID](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490036&idx=1&sn=13579e1935823ac9f74978f903dd39f0&chksm=fa6631c5cd11b8d31645c8153512cd472ea0015055372eec41ff6bc206c9e81c7451b7f22d35&token=1039605624&lang=zh_CN#rd)
@@ -60,6 +58,14 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [PostgreSQL查询优化器详解（物理优化篇）](https://blog.csdn.net/shujiezhang/article/details/80457893)
 
 [PostgreSQL查询优化器详解（逻辑优化篇）](https://blog.csdn.net/shujiezhang/article/details/108729281?spm=1001.2014.3001.5502)
+
+### 执行计划
+
+[深度剖析PostgreSQL中的执行计划](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487733&idx=1&sn=1db0eaa8519ed4849a52f63a9515b03a&chksm=fa6638c4cd11b1d2847a1b01424e6892e59c3f539347ade916fc0f5acba7ac9024a75b0bdce0&token=1039605624&lang=zh_CN#rd)
+
+[一文搞懂Postgres中的计划节点](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485256&idx=1&sn=2dcde5485daacda0fe45e7b505b13383&chksm=fa662f79cd11a66f3f0bcd33ac64c0cb1a8877806c1f783b254ee6093bb3f4a5ad48ab7f7deb&token=923061450&lang=zh_CN#rd)
+
+![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/72586f81-8ade-4148-8018-a8e2ac1da976)
 
 ### 统计信息
 
