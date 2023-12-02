@@ -23,6 +23,12 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ## 公众号历史文章分类
 
+### 请尊重知识版权
+
+[强盗逻辑，白嫖成性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490712&idx=1&sn=0cde6cfb4f72b39c5d93d9cb5af6bf28&chksm=fa6634a9cd11bdbf395ac565f8a1441f0ef41a3092dd9695558b4daa44d13f6e397285b0bf1e&token=923061450&lang=zh_CN#rd)
+
+![DALL·E 2023-12-02 15 46 09 - A cartoon-style character representing a person with unethical behaviors related to plagiarism and disrespect for copyright  The character has an exag](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/fec3f842-05c0-422b-8ab3-2784693392e3)
+
 ### 内核原理
 
 [PostgreSQL优化器解析](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486987&idx=1&sn=58b66693b0fbfd3f378377968be1085b&chksm=fa66263acd11af2c0b06cbddcad06ed18db3a414f02df733793d9d08979687cbd7a1e53b833a&token=1039605624&lang=zh_CN#rd)
