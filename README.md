@@ -27,7 +27,9 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [强盗逻辑，白嫖成性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490712&idx=1&sn=0cde6cfb4f72b39c5d93d9cb5af6bf28&chksm=fa6634a9cd11bdbf395ac565f8a1441f0ef41a3092dd9695558b4daa44d13f6e397285b0bf1e&token=923061450&lang=zh_CN#rd)
 
-![DALL·E 2023-12-02 15 46 09 - A cartoon-style character representing a person with unethical behaviors related to plagiarism and disrespect for copyright  The character has an exag](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/fec3f842-05c0-422b-8ab3-2784693392e3)
+[事实证明：不要和流氓讲道理](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490730&idx=1&sn=f51ec109bdb4a94771ab932f107e579f&chksm=fa66349bcd11bd8d4f95dc67c715df786fcb3a978163c4ef04c902481d1379f3713f13ec237d&token=1374281663&lang=zh_CN#rd)
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/7d8c701f-000b-4517-8ca6-67e0973fd64f">
 
 ### 内核原理
 
