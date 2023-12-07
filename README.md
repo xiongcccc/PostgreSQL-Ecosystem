@@ -179,6 +179,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PostgreSQL在TPCC场景下的PK](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247483941&idx=1&sn=44f327d7b8d4b164998c874546f0d21c&chksm=fa662a14cd11a3020f2dcdafdaa93ebf71a9df78c75dbb72e3116fba6c5b23941cc57fe787b2&token=1039605624&lang=zh_CN#rd)
 
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/a23a5925-a825-40b0-bbf2-2c5057df58d9">
+
 ### 分区表
 
 [分区表的利与弊](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489828&idx=1&sn=0ec63218e12cf67cb6f32fa4ace41f05&chksm=fa663115cd11b803efeb28ba5503c00c974af1b5fa768482d2580ae3d3389698978ff105a423&token=1039605624&lang=zh_CN#rd)
