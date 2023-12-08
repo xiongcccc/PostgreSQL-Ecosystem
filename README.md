@@ -269,7 +269,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 流复制
 
-[从一个群友问题看流复制复制实现原理](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490798&idx=1&sn=2f48ca995b1555ac063bae29602435db&chksm=fa6634dfcd11bdc920dac740c90b2730f7c10d965e400b0269e215c879f0faadcae6f65386ce&token=551746120&lang=zh_CN#rd)
+[从一个群友问题看流复制实现原理](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490798&idx=1&sn=2f48ca995b1555ac063bae29602435db&chksm=fa6634dfcd11bdc920dac740c90b2730f7c10d965e400b0269e215c879f0faadcae6f65386ce&token=551746120&lang=zh_CN#rd)
 
 [备库会同步主库修改的参数吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489635&idx=1&sn=dfc484dd7a8326ed0dc19298499201b8&chksm=fa663052cd11b944f45a3f074c81a88f93520661908d708d1ca8801378d4ae2e262d2b34dd2d&token=1039605624&lang=zh_CN&poc_token=HCIlNWWjwvIgRzHLI_dRXCnHt5cEfBb44D74DE84)
 
