@@ -39,6 +39,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [改变数据页大小能带来多少收益？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490838&idx=1&sn=0f1d2ba1ca842a1244771d73b1005ac8&chksm=fa663527cd11bc3156fff19d86a648faa31a5d7463d43ff586923f5ade8e5be99871fceca49a&token=551746120&lang=zh_CN#rd)
 
+[PostgreSQL优化器内幕剖析](https://github.com/xiongcccc/PostgreSQL-ecosystem/blob/main/%E5%8E%86%E5%B1%8A%E6%B4%BB%E5%8A%A8PPT/PostgreSQL%E4%BC%98%E5%8C%96%E5%99%A8%E5%86%85%E5%B9%95%E5%89%96%E6%9E%90.pdf)
+
 [PostgreSQL优化器解析](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486987&idx=1&sn=58b66693b0fbfd3f378377968be1085b&chksm=fa66263acd11af2c0b06cbddcad06ed18db3a414f02df733793d9d08979687cbd7a1e53b833a&token=1039605624&lang=zh_CN#rd)
 
 [深入剖析PostgreSQL优化器](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490679&idx=1&sn=9d224e3ad1e85ebef02704e364350f93&chksm=fa663446cd11bd50594b3675371b28c24f13a2eade1c84bd01ddd8f5625fc9bbab31a023522c&token=923061450&lang=zh_CN#rd)
