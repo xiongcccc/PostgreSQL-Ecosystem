@@ -233,6 +233,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [深入浅出VACUUM内核原理(中): index by pass](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490218&idx=1&sn=8dc47ded004c552da3088d0bc5258a2f&chksm=fa66329bcd11bb8d1a97808c8f91d4d17213f741fd9c84aa75606c0d71a904b56f55139fb06e&token=1039605624&lang=zh_CN#rd)
 
+[深入浅出VACUUM内核原理(下)](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490873&idx=1&sn=3f6ff6fcf98710b4088f6ceeca018f9b&chksm=fa663508cd11bc1e36d6e7d1062790abb7a2704569cabbb72fb526bbd3e7c1c6dee69efc33dc&token=1334596559&lang=zh_CN#rd)
+
 [聊一聊 vacuum 的页内收缩机制](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489524&idx=1&sn=aafd69c48bf25a980f7e5e1fec450e68&chksm=fa663fc5cd11b6d32ff1e4e786e2d966b2dd96b897a34da29af9cde2800452db10ec8e337b3b&token=1039605624&lang=zh_CN#rd)
 
 [聊一聊 vacuum full](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489386&idx=1&sn=f44178ef77f0d09975493364c465da14&chksm=fa663f5bcd11b64d7316f942645bc59a812446c71e428b6de390f8f0c33efaabd3dd2bfb83b4&token=1039605624&lang=zh_CN#rd)
