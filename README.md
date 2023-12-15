@@ -523,6 +523,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 插件与工具
 
+[聊一聊时序数据库与TimescaleDB](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490889&idx=1&sn=901fda034fd5a14223dbfb742e36d049&chksm=fa663578cd11bc6ecc91ff6c031e076d64c6568f90989b7772f012d81ba2ccf81baebf101fd6&token=1227409527&lang=zh_CN#rd)
+
 [pg_stat_statements又出问题了！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487961&idx=1&sn=e160c5fe9352aa29c6d5f70717639ab4&chksm=fa6639e8cd11b0fe2b9249329c48ee44804596af5d6fce315d65de620f1515d8881d87c3a9e9&token=1039605624&lang=zh_CN#rd)
 
 [pg_stat_statements的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487784&idx=1&sn=ff6ea5f229c00a29b15bfb66a50cb29a&chksm=fa663919cd11b00fcf22ff0789921fd5ed0c226487144fb77f3b85b15d3d75a0d869e376ef8f&token=1039605624&lang=zh_CN#rd)
