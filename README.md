@@ -339,9 +339,11 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [聊聊PostgreSQL中的"烤面包"TOAST](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488278&idx=1&sn=673b883bee4ed7db812949cfb2ae9618&chksm=fa663b27cd11b2316570e6f5e7c293fc2f383ac91db2fc4b7a915d6e5a32fad778cadb368d50&token=1039605624&lang=zh_CN#rd)
 
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d786aa56-c075-4e19-b82a-6ed3d3b12e38">
+
 [从源码出发，深度剖析字节对齐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486054&idx=1&sn=6c13cc44750f3b5b6f35e26fb9b635d1&chksm=fa662257cd11ab415a5bae595197a6a2dd17d6968526cc6e2cd5917e38fa5496ac21fa61e383&token=1039605624&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d786aa56-c075-4e19-b82a-6ed3d3b12e38">
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/77a79cf5-2f4b-4893-b52a-5760c5f5e701">
 
 ### 工具类
 
