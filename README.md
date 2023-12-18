@@ -87,6 +87,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 统计信息
 
+[深入浅出统计信息内核原理(上)：Compressed Histogram](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490917&idx=1&sn=7fa85d4a3f703e63e80efbe99f49405a&chksm=fa663554cd11bc422e701a053160d1639564a3640f380a6118835611d11cfa9855a3eda53b36&token=20602392&lang=zh_CN#rd)
+
 [深度剖析PostgreSQL中的统计信息](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487525&idx=1&sn=b2893176bf71f58fa4ef364211f7993f&chksm=fa663814cd11b10249221c0f39b2791d2e13a54b22af7cdf6e44d332a4fb3210736519c4e564&token=1039605624&lang=zh_CN#rd)
 
 [备库是否有自己的统计信息？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489020&idx=1&sn=83f3d019a73d4a46306636d6747d873a&chksm=fa663dcdcd11b4dbfa5311e01e4328a7dc65c110dd9bd3eeb5964c03081658476fc3a83dafc1&token=1039605624&lang=zh_CN#rd)
