@@ -369,6 +369,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 子事务
 
+[诊断子事务的瑞士军刀](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490927&idx=1&sn=eeaf667551c8ef40e1739303bf1aaae0&chksm=fa66355ecd11bc48b1cf6a85a4ba3c180fd3afbbcaa4c14c5d224b2695db56f01b89098a5767&token=20602392&lang=zh_CN#rd)
+
 [再唠唠子事务](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489876&idx=1&sn=1f865e12ad0a3c903c340726f4c5434e&chksm=fa663165cd11b873ebe01a92872c44ced15108703f6657a49a90147ac1972129a305dddc8f97&token=1153899980&lang=zh_CN#rd)
 
 [长事务与子事务](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486226&idx=1&sn=270da9c5f542ec7c0c500ed76079af26&chksm=fa662323cd11aa350a2b58bba1901522a2b3d0037102303addf8df418fb05376b3e239e837a4&token=1039605624&lang=zh_CN#rd)
@@ -378,6 +380,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [子事务及其性能](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486254&idx=1&sn=4113b1eaaa8fd6763e9bf46f1c6ca344&chksm=fa66231fcd11aa090ed6a80b4a402c2ff0b07c6a4ba6a0c16173d9190feaffc7608a18eca346&token=1039605624&lang=zh_CN#rd)
 
 [子事务滥用的危害](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486115&idx=1&sn=efe636ed1717e467a3f88a3c031f3452&chksm=fa662292cd11ab84da5d7afba2d93048f40a9d9759ad1fc3f0622b3bd18ebd1b4841f867c9f2&token=1039605624&lang=zh_CN#rd)
+
+<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/0b6493f8-e8bd-41f2-a427-2328c1250f13">
 
 ### 日常答疑
 
