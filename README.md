@@ -551,6 +551,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [Extentions list](https://github.com/Vonng/pigsty/discussions/333)
 
+[1000+ PostgreSQL EXTENSIONs](https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47)
+
 ### 使用技巧
 
 [从两个小案例说起](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489586&idx=1&sn=bde98f0550c3c16402e6a4cd270bbf2b&chksm=fa663003cd11b915c33dfceb21e8228f98bd0c96efef03a34c526ed294f38d3ebb018fa80a39&token=1153899980&lang=zh_CN#rd)
