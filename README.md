@@ -299,6 +299,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 内存
 
+[从pmap内核实现原理聊聊如何分析内存](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490950&idx=1&sn=7af60fed924cf64892599d8be7be9f45&chksm=fa6635b7cd11bca1502f4eba3f5029f9859247e46182bdc2aaf3ddeecc1803432f3462d20ade&token=1263052848&lang=zh_CN#rd)
+
 [从DBA的角度系统学习一下内存管理](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489418&idx=1&sn=3817df7b8b91c1e2c76c7c2ea4702471&chksm=fa663fbbcd11b6ada63abad895d9ebc3752b9d36447e4caf57d31aaa4e184ded4c7a42bfe101&token=1039605624&lang=zh_CN#rd)
 
 [又是一起抓狂的内存案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488391&idx=1&sn=15cb64374bfbcdad1b118a881b338cf6&chksm=fa663bb6cd11b2a0c42c16cfdf7723c22ce490d23dabe99e4fbe5c28f5a77a43f8febc90650f&token=1039605624&lang=zh_CN#rd)
