@@ -433,7 +433,9 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 个人感想
 
-[2022年终总结](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488855&idx=1&sn=109c449184c6e8979d8748054fec72b8&chksm=fa663d66cd11b470fd00729e1d7c07aefab034f1e47b4e83f71dc0244088345525b08466fd78&token=1039605624&lang=zh_CN#rd)
+[2023 年终总结](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490976&idx=1&sn=83f842553fbb06e28cf890d908a078da&chksm=fa663591cd11bc874d1fe5d55f97d8052f40787bc3cc93b184eda99bb27f986a3f0b27fa95ef&token=1263052848&lang=zh_CN#rd)
+
+[2022 年终总结](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488855&idx=1&sn=109c449184c6e8979d8748054fec72b8&chksm=fa663d66cd11b470fd00729e1d7c07aefab034f1e47b4e83f71dc0244088345525b08466fd78&token=1039605624&lang=zh_CN#rd)
 
 [争做新时代下的DBA：NewDBA](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486546&idx=1&sn=e7f896d20739c9e998fe8ad8fbdb570f&chksm=fa662463cd11ad75e86bb118ed653b49265374a059fa4870cca539f9e1b15fed2aec87da7383&token=1039605624&lang=zh_CN#rd)
 
