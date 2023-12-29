@@ -37,6 +37,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 内核原理
 
+[从一个罕见案例聊聊我对社区的看法](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491065&idx=1&sn=b830b5831fee5728cde1e0534df1cbab&chksm=fa6635c8cd11bcdee541a2beec82bc79684fd545769e73f04c62e2a3969090450c6ef1831273&token=187238583&lang=zh_CN#rd)
+
 [PostgreSQL术语简明指南](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491007&idx=1&sn=31ea71e438f8abef619d2050650d8946&chksm=fa66358ecd11bc98acef49f6c331145f102b98439272848e33e4e0a26ad0b59951c9904ccd4b&token=1172258355&lang=zh_CN#rd)
 
 [改变数据页大小能带来多少收益？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490838&idx=1&sn=0f1d2ba1ca842a1244771d73b1005ac8&chksm=fa663527cd11bc3156fff19d86a648faa31a5d7463d43ff586923f5ade8e5be99871fceca49a&token=551746120&lang=zh_CN#rd)
