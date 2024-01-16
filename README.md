@@ -377,9 +377,11 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PostgreSQL好书推荐第二弹](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491122&idx=1&sn=79de5dccdb2e3470778a82055e3cb10d&chksm=fa663603cd11bf15ebe1b9bcd445cd3d15b85d982bf12188865a0e1971f1d9f2f87a58494310&token=259716318&lang=zh_CN#rd)
 
-[行远自迩，PostgreSQL修炼之道](https://github.com/xiongcccc/PostgreSQL-ecosystem/blob/main/%E5%8E%86%E5%B1%8A%E6%B4%BB%E5%8A%A8PPT/%E8%A1%8C%E8%BF%9C%E8%87%AA%E8%BF%A9%EF%BC%8CPostgreSQL%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)
+[行远自迩，PostgreSQL修炼之道](https://github.com/xiongcccc/PostgreSQL-ecosystem/blob/main/%E5%8E%86%E5%B1%8A%E6%B4%BB%E5%8A%A8PPT/%E8%A1%8C%E8%BF%9C%E8%87%AA%E8%BF%A9%EF%BC%8CPostgreSQL%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)、
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ad4f5df3-2211-4290-979f-11800d39d496">
+[快速掌握PostgreSQL版本新特性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491169&idx=1&sn=46e6b225aba432e063f2d9f4c5c2fb78&chksm=fa663650cd11bf46b89703d06d16d8ecde9dcfc6ed0b0b33821b6ca12a26f4268c56efbbc569&token=746338585&lang=zh_CN#rd)
+
+![PostgreSQL书籍阅读](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/30d9d48a-c3de-4f93-a1d7-702c196b1316)
 
 ### 子事务
 
