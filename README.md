@@ -297,7 +297,9 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/029a319c-d773-4cae-92dc-8afbc06d5a0c">
 
-### 流复制冲突
+### 流复制冲突和延迟
+
+[一则罕见的流复制延迟案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491198&idx=1&sn=cc57c76fcc236cda507c943bb656c823&chksm=fa66364fcd11bf5975d3135f2d2205acfb23475f2d4c1a2932e552565a35bc223a8f61df0719&token=746338585&lang=zh_CN#rd)
 
 [一则不同寻常的复制冲突案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490076&idx=1&sn=486393e38ac2c1d56766ddcc481713ac&chksm=fa66322dcd11bb3b985f09db6b687a4834139d89a7cf05149c844e23b46a88a654aa07d13d23&token=1039605624&lang=zh_CN#rd)
 
