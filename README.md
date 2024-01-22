@@ -575,6 +575,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 使用技巧
 
+[实用编译项：OPTIMIZER_DEBUG](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491213&idx=1&sn=b83b298f2af6f40a40cd7df097fab0e8&chksm=fa6636bccd11bfaa2f321546e2840cad2b94ab2ae1f8047a4726e57f6458fb77ad64cf00941f&token=1912159924&lang=zh_CN#rd)
+
 [从两个小案例说起](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489586&idx=1&sn=bde98f0550c3c16402e6a4cd270bbf2b&chksm=fa663003cd11b915c33dfceb21e8228f98bd0c96efef03a34c526ed294f38d3ebb018fa80a39&token=1153899980&lang=zh_CN#rd)
 
 [PostgreSQL中鲜为人知的特性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486678&idx=1&sn=31bb0f1333e0825289c2d48d19673915&chksm=fa6624e7cd11adf1782d8aa021c7b4c42b20d5bef11b0f9980fa0e13fca591a83c7e4a688270&token=1039605624&lang=zh_CN#rd)
