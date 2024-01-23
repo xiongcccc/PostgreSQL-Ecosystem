@@ -509,6 +509,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 索引
 
+[从索引可见性聊起](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491225&idx=1&sn=737b08202372846b6e894e49bcfc402a&chksm=fa6636a8cd11bfbe938aa645e0ee1bdc42a4ad78c3e67a091cad262054d63733aa45f6138be7&token=1912159924&lang=zh_CN#rd)
+
 [聊一聊索引失效](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488762&idx=1&sn=e05ec7ef109d8d23e30409a7ef98c5da&chksm=fa663ccbcd11b5dd6c388d0dd6d9de9d2dff17792a58b6a7dc82bc08e90744a405560e0a40fd&token=1039605624&lang=zh_CN#rd)
 
 [创建索引的各个阶段，你真的搞懂了吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486571&idx=1&sn=77fb54cb3ceae57dda3c76272f28af92&chksm=fa66245acd11ad4c35a725d8607ddb59fa2207f12060d05a022a4be67697d42424305e7d6066&token=1039605624&lang=zh_CN#rd)
