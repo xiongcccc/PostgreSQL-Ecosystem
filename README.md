@@ -369,6 +369,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 面试与资料汇总
 
+[快速掌握PostgreSQL版本新特性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491169&idx=1&sn=46e6b225aba432e063f2d9f4c5c2fb78&chksm=fa663650cd11bf46b89703d06d16d8ecde9dcfc6ed0b0b33821b6ca12a26f4268c56efbbc569&token=887173411&lang=zh_CN#rd)
+
 [PostgreSQL面试题集锦](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488369&idx=1&sn=1066b9da73826fed91725bd3d4eb9e25&chksm=fa663b40cd11b25636388587e1d0a511c8f2c73c3bae4e4bdc48f7e93b77aae00ed6bdc03f28&token=1039605624&lang=zh_CN#rd)
 
 [PostgreSQL从入门到放弃](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486127&idx=1&sn=38e37bbdf34991c98d45c0df3fa33c0c&chksm=fa66229ecd11ab880258941fe0b8ec113134cb6f03f4de5cd6d4892cab46c81e63f2b1d153c5&token=1039605624&lang=zh_CN#rd)
@@ -604,6 +606,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 <img width="1984" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f67dae3d-faa2-4b56-aab0-00aa92d473c6">
 
 ### Greenplum
+
+[​Greenplum7有哪些变化](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491228&idx=1&sn=8d6d37e87d8e69dedbf7be8218347604&chksm=fa6636adcd11bfbb35a3e5ea8b3a405437384f6010d818d1b2feacbd15eb01a3fc6a1e0b8d45&token=887173411&lang=zh_CN#rd)
 
 [Greenplum7新特性解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490187&idx=1&sn=eaa2b6fede27ffc47b74e1ba881f9235&chksm=fa6632bacd11bbac86572e564dd08256dd00b877a038942877132176bb9754f6cb90c818b1ed&token=1153899980&lang=zh_CN#rd)
 
