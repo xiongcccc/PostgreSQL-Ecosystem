@@ -411,6 +411,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 新特性解读
 
+[士别三日，当刮目相看——pg_stat_io剖析](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491250&idx=1&sn=44d10963597e4346fd80b72ffff872ab&chksm=fa663683cd11bf9576569c9f48408eaf3939593b264fb6924bbce126d1b703d3678fd8e6eb82&token=49230727&lang=zh_CN#rd)
+
 [Greenplum7新特性解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490187&idx=1&sn=eaa2b6fede27ffc47b74e1ba881f9235&chksm=fa6632bacd11bbac86572e564dd08256dd00b877a038942877132176bb9754f6cb90c818b1ed&token=1039605624&lang=zh_CN#rd)
 
 [PostgreSQL16新特性解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490154&idx=1&sn=e4c2c5cc7c315882425ce7e479a6279e&chksm=fa66325bcd11bb4dd4889e250319fe7400102c302d7899044e57b82df1879f4232a9a6bca727&token=1039605624&lang=zh_CN#rd)
