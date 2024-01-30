@@ -485,9 +485,13 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### PITR
 
-[一则 PITR 的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489049&idx=1&sn=26d26d55fa3cf53a5bdbf7aec384b686&chksm=fa663e28cd11b73e279445fdb2aa7835c8e9ad58b9fbbaf1d497d1aa00798b6fee58342c6536&token=1153899980&lang=zh_CN#rd)
+[小心！孤儿归档也可能将数据库整死！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491268&idx=1&sn=42b664022d00efbce72b5ff6718f3b73&chksm=fa6636f5cd11bfe32bb0a88ed6547f8b68a0e82d13a2c1a722b6bee4fab979b84cbe3cb3a612&token=49230727&lang=zh_CN#rd)
+
+[一则PITR的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489049&idx=1&sn=26d26d55fa3cf53a5bdbf7aec384b686&chksm=fa663e28cd11b73e279445fdb2aa7835c8e9ad58b9fbbaf1d497d1aa00798b6fee58342c6536&token=1153899980&lang=zh_CN#rd)
 
 [PITR是幂等的吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487276&idx=1&sn=3f371676c8bc3d6ce8b4af6625b6e2c1&chksm=fa66271dcd11ae0b6cc8e77114c71783aef3d24e975fec51e46603229485d7090c91c33caca7&token=1039605624&lang=zh_CN#rd)
+
+[为什么WAL日志归档这么慢？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485950&idx=1&sn=7774190a709ced7a916f5a2319dc6baa&chksm=fa6621cfcd11a8d97d2ceda3fdcc63a52e7860ccc3cc27c383b9df11e640387f9ca9323e554f&token=49230727&lang=zh_CN#rd)
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f29e282c-b428-4649-a15f-6f35df1ad571">
 
