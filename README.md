@@ -383,8 +383,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [行远自迩，PostgreSQL修炼之道](https://github.com/xiongcccc/PostgreSQL-ecosystem/blob/main/%E5%8E%86%E5%B1%8A%E6%B4%BB%E5%8A%A8PPT/%E8%A1%8C%E8%BF%9C%E8%87%AA%E8%BF%A9%EF%BC%8CPostgreSQL%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)、
 
-[快速掌握PostgreSQL版本新特性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491169&idx=1&sn=46e6b225aba432e063f2d9f4c5c2fb78&chksm=fa663650cd11bf46b89703d06d16d8ecde9dcfc6ed0b0b33821b6ca12a26f4268c56efbbc569&token=746338585&lang=zh_CN#rd)
-
 ![PostgreSQL书籍阅读](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/30d9d48a-c3de-4f93-a1d7-702c196b1316)
 
 ### 子事务
@@ -410,6 +408,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [日常答疑第二期](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490199&idx=1&sn=00949c58ba6959d13cfa8d3fae94dc27&chksm=fa6632a6cd11bbb016f57c8dc99742c31cfc3f0ef45d877771796552bf8b58eba1e928fd1eb4&token=1039605624&lang=zh_CN#rd)
 
 ### 新特性解读
+
+[PostgreSQL17新特性前瞻](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491283&idx=1&sn=f4771ed4ab6e39fa162d21bd4810dccb&chksm=fa6636e2cd11bff48ac9e828b103f676e0743e4e73725272ea92c4c2b795fc61b46f82a56cc5&token=49230727&lang=zh_CN#rd)
 
 [士别三日，当刮目相看——pg_stat_io剖析](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491250&idx=1&sn=44d10963597e4346fd80b72ffff872ab&chksm=fa663683cd11bf9576569c9f48408eaf3939593b264fb6924bbce126d1b703d3678fd8e6eb82&token=49230727&lang=zh_CN#rd)
 
