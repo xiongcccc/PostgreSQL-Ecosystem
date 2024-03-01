@@ -37,6 +37,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 内核原理
 
+[为何函数又让优化器犯了难？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491365&idx=1&sn=b47560c35b47a93d14f17f51e279b893&chksm=fa663714cd11be0293a377998aa93847df20d564b9b9af8f7f92a98ef2c06dc00aeac6ef94dd&token=580649785&lang=zh_CN#rd)
+
 [深入浅出 effective_cache_size](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491306&idx=1&sn=18311000100524d2195c1d541e638983&chksm=fa6636dbcd11bfcd340bb0f257043103fa86e0b0ff50c604c62353eec9fc1275b99ff33e69af&token=1669310503&lang=zh_CN#rd)
 
 [再聊聊晦涩的join_collapse_limit参数](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491167&idx=1&sn=628a665162f4c9ed18e49c85647c0baf&chksm=fa66366ecd11bf78c5f3b91c8c9d3c81040e4eb3ba63dc0f48d956b3c59c9583f07cc21f8951&token=533272345&lang=zh_CN#rd)
