@@ -241,7 +241,7 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 日志
 
-还不知道如何配置日志？拿捏！(https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491387&idx=1&sn=1cb8ba09c7b986da0a02edf931a378ef&chksm=fa66370acd11be1c3461ad21ecf8e75dbefa7041ce1fe307f6c22bad9c99f16a01ca65407054&token=580649785&lang=zh_CN#rd)
+[还不知道如何配置日志？拿捏！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491387&idx=1&sn=1cb8ba09c7b986da0a02edf931a378ef&chksm=fa66370acd11be1c3461ad21ecf8e75dbefa7041ce1fe307f6c22bad9c99f16a01ca65407054&token=580649785&lang=zh_CN#rd)
 
 ### vacuum原理剖析
 
