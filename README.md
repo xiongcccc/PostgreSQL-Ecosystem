@@ -621,6 +621,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### Greenplum
 
+[从Greenplum扩容谈起](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491396&idx=1&sn=5912131e1765323a89c5af9b00799ec4&chksm=fa663775cd11be63460946ddfb4472b2d599c199896b3eb2f0628288072d6e429f92ca3a57a2&token=1126127171&lang=zh_CN#rd)
+
 [​Greenplum7有哪些变化](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491228&idx=1&sn=8d6d37e87d8e69dedbf7be8218347604&chksm=fa6636adcd11bfbb35a3e5ea8b3a405437384f6010d818d1b2feacbd15eb01a3fc6a1e0b8d45&token=887173411&lang=zh_CN#rd)
 
 [Greenplum7新特性解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490187&idx=1&sn=eaa2b6fede27ffc47b74e1ba881f9235&chksm=fa6632bacd11bbac86572e564dd08256dd00b877a038942877132176bb9754f6cb90c818b1ed&token=1153899980&lang=zh_CN#rd)
