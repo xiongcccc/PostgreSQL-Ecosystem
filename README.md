@@ -623,6 +623,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### Greenplum
 
+[临时表使用不规范，DBA哭死在厕所](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491452&idx=1&sn=8258e8c23da8ebabb88e26dbee1727a9&chksm=fa66374dcd11be5b565f1170e1386454bcead6d50dea7ce8b8744a98f762c481709d90a314a2&token=2042733858&lang=zh_CN#rd)
+
 [从Greenplum中独特的临时表实现说起](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491440&idx=1&sn=73b3f1b32d4953faf962c419b34aa7d6&chksm=fa663741cd11be57e4d2c5983bfae8131bc768d76f91f97cadf99c731c13afbdaacc1ce29ff1&token=366623218&lang=zh_CN#rd)
 
 [从Greenplum扩容谈起](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491396&idx=1&sn=5912131e1765323a89c5af9b00799ec4&chksm=fa663775cd11be63460946ddfb4472b2d599c199896b3eb2f0628288072d6e429f92ca3a57a2&token=1126127171&lang=zh_CN#rd)
