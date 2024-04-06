@@ -267,6 +267,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 逻辑复制与逻辑解码
 
+[复制标识FULL模式是否真的一无是处？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491477&idx=1&sn=05b64a8fed1aeccb58d2a8b203bc651c&chksm=fa6637a4cd11beb223ce9ae6ad350b3f2954915a6e3ad3881d3135f432c292ddbe498b05c623&token=923333127&lang=zh_CN#rd)
+
 [当逻辑解码遇上TOAST会有什么坑？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490137&idx=1&sn=a4bf1f86520b5234c7125bcb89feb09b&chksm=fa663268cd11bb7e0bb81dcc40481feadf49f29633fb8b02d4d158cc01059440610984d399ae&token=1039605624&lang=zh_CN#rd)
 
 [逻辑复制大事务处理演进](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489715&idx=1&sn=56998f6f62f9828647bd7391517af2f5&chksm=fa663082cd11b994622a6b1e002901ff12fa808d973d3d7422f9a5686aa227ba5223b748eb99&token=1039605624&lang=zh_CN#rd)
