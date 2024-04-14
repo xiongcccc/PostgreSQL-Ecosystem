@@ -379,6 +379,12 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [祖传SQL脚本来啦](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489446&idx=1&sn=5d31b87eac49366f76db3a9b0b07dc2d&chksm=fa663f97cd11b681abcb6e8ed04903f737b4e4d5622475b8a4a26b2246cbf3732d4fd8fc5b9e&token=1039605624&lang=zh_CN#rd)
 
+[一款好用的巡检工具](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485987&idx=1&sn=1e56245d9c809af02c2618f398f11515&chksm=fa662212cd11ab04179de4338b2341d50a298b8adbeec258d42c9b9e0d643b5761099333de7b&token=1243425897&lang=zh_CN#rd)
+
+[5秒上手，小而美的巡检工具](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491504&idx=1&sn=b6f7710223e710e8853234fb7ea07355&chksm=fa663781cd11be97ae88eb48449aeeca76de14644e2285ae7e086e27e173404b7716b3df1d86&token=1243425897&lang=zh_CN#rd)
+
+[PostgreSQL中的简易巡检工具](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485061&idx=1&sn=d80d9e7f8e67d2ed0ac35c8351220b59&chksm=fa662eb4cd11a7a21c3909a1dd2e195bd5b36c9244df66b99b6a4951f5293d8721a009042504&token=1243425897&lang=zh_CN#rd)
+
 ### 面试与资料汇总
 
 [快速掌握PostgreSQL版本新特性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491169&idx=1&sn=46e6b225aba432e063f2d9f4c5c2fb78&chksm=fa663650cd11bf46b89703d06d16d8ecde9dcfc6ed0b0b33821b6ca12a26f4268c56efbbc569&token=887173411&lang=zh_CN#rd)
