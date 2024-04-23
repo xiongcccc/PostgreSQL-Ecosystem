@@ -67,6 +67,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [恼人的双缓存](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485743&idx=1&sn=36cbb956201ff458bfb64d9dc946ec29&chksm=fa66211ecd11a808c4d836334704d05421f86d3974195a6f70d3bd8e10044194f7094de315ff#rd)
 
+[从一次提交聊聊饱受诟病的双缓存架构](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491532&idx=1&sn=330c078daa0e397826b30e7c9867f6a2&chksm=fa6637fdcd11beeb48544d6b29c85d3f50a5ab2adf53f57c53eb10c2bf42a3cca91a0969c752&token=1301593874&lang=zh_CN#rd)
+
 [为什么备库某些参数必须比主库大？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486910&idx=1&sn=6aa042435f9a23f2fd0ae3c60e0dcc93&chksm=fa66258fcd11ac991a29d830fa488850c9abb88dc25b1af352bc6dadc5c411dc92cdf28f721d&token=1039605624&lang=zh_CN#rd)
 
 [如何抢救被删的数据](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485689&idx=1&sn=7110a67a2b233cc8c5b26ea092d60ea4&chksm=fa6620c8cd11a9dea2cd1865d43c09f670a6dc91a62f14c59297190560c2e0e6579aef96164f#rd)
@@ -158,6 +160,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [Can there be orphaned data files in PostgreSQL?](https://www.dbi-services.com/blog/can-there-be-orphaned-data-files-in-postgresql/)
 
 ### PostgreSQL活动记录
+
+[以一个"外行人"视角，聊聊OB开发者大会](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491576&idx=1&sn=a6e4a5e7a6a2cf8263bb539f630c6af9&chksm=fa6637c9cd11bedf7014f0dffe200a4053250b0c10f1d14891b90a638d23fbe0ce90fdf00000&token=1301593874&lang=zh_CN#rd)
 
 [第十二届 PostgreSQL 大会有感](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489234&idx=1&sn=bc85d92efdf8aca4186492fb1f6ce18e&chksm=fa663ee3cd11b7f5a57e15b38f410e90a0dd8367d571e24fc4d453673167937303ff86f81bd0&token=1039605624&lang=zh_CN#rd)
 
@@ -470,6 +474,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ab3cb326-19a4-49b7-b5cb-9c5449259837">
 
 ### 个人感想
+
+[亦师亦友，一见如故](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491559&idx=1&sn=10ad171706b5c2e3de7cf0b2dc870579&chksm=fa6637d6cd11bec05f489fd2a50327a5c55eb606ca5834097c144562f05af8c5195a13d93c51&token=1301593874&lang=zh_CN#rd)
 
 [2023 年终总结](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490976&idx=1&sn=83f842553fbb06e28cf890d908a078da&chksm=fa663591cd11bc874d1fe5d55f97d8052f40787bc3cc93b184eda99bb27f986a3f0b27fa95ef&token=1263052848&lang=zh_CN#rd)
 
