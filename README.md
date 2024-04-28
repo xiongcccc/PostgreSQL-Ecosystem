@@ -193,6 +193,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 优化
 
+[收获，不止SQL优化——PG篇(上)](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491592&idx=1&sn=297530e0ab858d50ab340ef0c79a2d92&chksm=fa65c839cd12412fd39e2c7d5416f07c82a2511c4d48ba49e501bbe44e78755a46a7765a501e&token=1392227128&lang=zh_CN#rd)
+
 [优化器刺客之limit 1](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491088&idx=1&sn=90c9b1cff0038b664145e4753fc52e3d&chksm=fa663621cd11bf37e9bf50eb3e30baa3c3bf68a1d45cc66f1fbb9d519d70f73d2beeff67f00b&token=733025056&lang=zh_CN#rd)
 
 [SQL优化方法论与实战](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490288&idx=1&sn=99340ac2f127567addd46fe999edfb5c&chksm=fa6632c1cd11bbd79e4ebfa119fc37faa3f5dd26e86b5392eccd8b6cacabe670321d7df95aa6&token=1039605624&lang=zh_CN#rd)
