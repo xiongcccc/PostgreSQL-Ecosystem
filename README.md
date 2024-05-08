@@ -193,6 +193,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 优化
 
+[SQL优化太难？Explain Plus，你值得拥有!](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491623&idx=1&sn=54c1a71d5ca1052232b649063dbfcca0&chksm=fa65c816cd1241007da8cf95e95fb23960aadf6056c6c3c6a1d5592479aa564f72f3a139242c&token=480709151&lang=zh_CN#rd)
+
+[收获，不止SQL优化——PG篇(中)](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491623&idx=1&sn=54c1a71d5ca1052232b649063dbfcca0&chksm=fa65c816cd1241007da8cf95e95fb23960aadf6056c6c3c6a1d5592479aa564f72f3a139242c&token=480709151&lang=zh_CN#rd)
+
 [收获，不止SQL优化——PG篇(上)](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491592&idx=1&sn=297530e0ab858d50ab340ef0c79a2d92&chksm=fa65c839cd12412fd39e2c7d5416f07c82a2511c4d48ba49e501bbe44e78755a46a7765a501e&token=1392227128&lang=zh_CN#rd)
 
 [优化器刺客之limit 1](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491088&idx=1&sn=90c9b1cff0038b664145e4753fc52e3d&chksm=fa663621cd11bf37e9bf50eb3e30baa3c3bf68a1d45cc66f1fbb9d519d70f73d2beeff67f00b&token=733025056&lang=zh_CN#rd)
