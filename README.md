@@ -471,6 +471,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 权限
 
+[权限管控，还可以再简单点](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491653&idx=1&sn=ca48591c85342e07e7d84b836003a38d&chksm=fa65c874cd1241623743597a599cf69969102359e8856a196fc27b03521fd6f92a99442eda76&token=1478079183&lang=zh_CN#rd)
+
 [刨根问底 | 如何删除用户最优？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486203&idx=1&sn=1affb7871d4683d37b2f2db92f93d02c&chksm=fa6622cacd11abdc12c0fa23cfd94179320d80d4ab59188628ecf928b75ca57bccf00a1db36d&token=1039605624&lang=zh_CN#rd)
 
 [又被权限搞晕了？拿捏！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486018&idx=1&sn=a424b838a9480a532b0d9cbe4388e20d&chksm=fa662273cd11ab65c3bf96504b8c2b33d17c1e8790976393db1c37e4c3e8fbb3aadc6c102ee7&token=1039605624&lang=zh_CN#rd)
@@ -548,6 +550,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [Tuning PostgreSQL for High Write Throughput](https://www.slideshare.net/GrantMcAlister/tuning-postgresql-for-high-write-throughput)
 
 ### 索引
+
+[idx_tup_fetch和idx_tup_read，傻傻分不清楚](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491638&idx=1&sn=32736fa8d3d408a14af1aff4dc0f7365&chksm=fa65c807cd1241114526a07b2fb9cb85c237fa366d8ed0d388bde483fd2eb3db1ab81729465d&token=1478079183&lang=zh_CN#rd)
 
 [从索引可见性聊起](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491225&idx=1&sn=737b08202372846b6e894e49bcfc402a&chksm=fa6636a8cd11bfbe938aa645e0ee1bdc42a4ad78c3e67a091cad262054d63733aa45f6138be7&token=1912159924&lang=zh_CN#rd)
 
