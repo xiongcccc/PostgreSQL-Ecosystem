@@ -503,6 +503,10 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 备份恢复
 
+[新突破，令人惊艳的walminer4.0](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491694&idx=1&sn=66669f5a01b98d3bc5bb94a14072d271&chksm=fa65c85fcd12414975a3a745b2c1bb846a6f804b734f14fde427b5f725c7b43f93e23b73d09b&token=333797974&lang=zh_CN#rd)
+
+[原来PG的闪回实现这么多门道](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491677&idx=1&sn=6a3702a21b3d988924b75574ebfedb28&chksm=fa65c86ccd12417a9fce434b86ffc0ca223ae8b1211cafb310d3706794ab3a23fc700b6932de&token=333797974&lang=zh_CN#rd)
+
 [pg_dump的原理与技巧，你学废了吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491493&idx=1&sn=46447e3abcff59e718f1db56a6dfa317&chksm=fa663794cd11be82aa3eae529b0b4708101c004c58bc8c81cdd7deb167491dfb1fa240adc388&token=562640037&lang=zh_CN#rd)
 
 [生产案例 | 费解的备份corrupt](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486648&idx=1&sn=0364f6fc9611fe939f4d1ce879e0bb67&chksm=fa662489cd11ad9f02e9b0149fbf4890a1018103c93d3df4a7db205e2e4f480ec79b3d14adb9&token=1039605624&lang=zh_CN#rd)
