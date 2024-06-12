@@ -397,6 +397,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 面试与资料汇总
 
+[《PostgreSQL 14 internals》中文版，快来了](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491709&idx=1&sn=9b986c1b42965c128edba951ea18b378&chksm=fa65c84ccd12415a368e3a5ff50bc7d323f43c25e6378bc34d2738858268a097fd387424a80a&token=1498293144&lang=zh_CN#rd)
+
 [快速掌握PostgreSQL版本新特性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491169&idx=1&sn=46e6b225aba432e063f2d9f4c5c2fb78&chksm=fa663650cd11bf46b89703d06d16d8ecde9dcfc6ed0b0b33821b6ca12a26f4268c56efbbc569&token=887173411&lang=zh_CN#rd)
 
 [PostgreSQL面试题集锦](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488369&idx=1&sn=1066b9da73826fed91725bd3d4eb9e25&chksm=fa663b40cd11b25636388587e1d0a511c8f2c73c3bae4e4bdc48f7e93b77aae00ed6bdc03f28&token=1039605624&lang=zh_CN#rd)
@@ -482,6 +484,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ab3cb326-19a4-49b7-b5cb-9c5449259837">
 
 ### 个人感想
+
+[死气沉沉的年轻人，半死不活的中年人](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491719&idx=1&sn=87dd0daa66fdf3c1d7e65cbebce750f1&chksm=fa65c8b6cd1241a0eba5dbffd2698e671da2b25316b8031b26c492e66187e2beacd5cd36138e&token=1498293144&lang=zh_CN#rd)
 
 [亦师亦友，一见如故](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491559&idx=1&sn=10ad171706b5c2e3de7cf0b2dc870579&chksm=fa6637d6cd11bec05f489fd2a50327a5c55eb606ca5834097c144562f05af8c5195a13d93c51&token=1301593874&lang=zh_CN#rd)
 
