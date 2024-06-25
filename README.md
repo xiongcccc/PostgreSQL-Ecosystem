@@ -61,8 +61,6 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [深度剖析 MultiXactID](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490036&idx=1&sn=13579e1935823ac9f74978f903dd39f0&chksm=fa6631c5cd11b8d31645c8153512cd472ea0015055372eec41ff6bc206c9e81c7451b7f22d35&token=1039605624&lang=zh_CN#rd)
 
-[页剪枝与奇妙的BUG](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489151&idx=1&sn=56737e4e0933440cc8978ca61a3fe59f&chksm=fa663e4ecd11b758aa8dd0f2834c6538040c4a557016c69fbaf33bd71e006876534de6a49147&token=1039605624&lang=zh_CN#rd)
-
 [数据库为什么会丢数据？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247484713&idx=1&sn=8fb8668af0ea8f31b0ed5fb558b9819e&chksm=fa662d18cd11a40ef160ead01833e56dfd1a85bd1ed60b8e0c667ba7b6ae83c20ba61075542b&token=1039605624&lang=zh_CN#rd)
 
 [恼人的双缓存](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485743&idx=1&sn=36cbb956201ff458bfb64d9dc946ec29&chksm=fa66211ecd11a808c4d836334704d05421f86d3974195a6f70d3bd8e10044194f7094de315ff#rd)
@@ -124,6 +122,12 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [PostgreSQL 内核 ANALYZE 背后的事](https://zhuanlan.zhihu.com/p/538049580)
 
 [PostgreSQL · 特性分析 · 统计信息计算方法 ](http://mysql.taobao.org/monthly/2016/05/09/)
+
+### 页剪枝
+
+[页剪枝与奇妙的BUG](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489151&idx=1&sn=56737e4e0933440cc8978ca61a3fe59f&chksm=fa663e4ecd11b758aa8dd0f2834c6538040c4a557016c69fbaf33bd71e006876534de6a49147&token=1039605624&lang=zh_CN#rd)
+
+[死元组数量居然不一样？莫非是BUG？非也](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491745&idx=1&sn=fdc246740bd0f1165ea4c9aebb4ccbfa&chksm=fa65c890cd124186a0b8569308a27c0dd87f395c8fbe3dd8925eee7f72d2829e7ef0e3666ed7&token=1134241729&lang=zh_CN#rd)
 
 ### 生产案例
 
@@ -192,6 +196,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/8d9acc9c-6fb9-468a-8d8a-467141045432">
 
 ### 优化
+
+[Oracle中执行1毫秒的查询，在PostgreSQL中需要6秒？看我如何优化！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491760&idx=1&sn=9f7390ff764fb9e2da44c897f9df1170&chksm=fa65c881cd12419759d6beab6247cbfe919f3dfeac29f4a5d9660f95c53f30f279c961c40d75&token=1134241729&lang=zh_CN#rd)
 
 [SQL优化太难？Explain Plus，你值得拥有!](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491623&idx=1&sn=54c1a71d5ca1052232b649063dbfcca0&chksm=fa65c816cd1241007da8cf95e95fb23960aadf6056c6c3c6a1d5592479aa564f72f3a139242c&token=480709151&lang=zh_CN#rd)
 
