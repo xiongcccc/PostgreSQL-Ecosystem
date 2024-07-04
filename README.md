@@ -25,6 +25,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 请尊重知识版权
 
+[没想到吧，剌了双眼皮，换壳重生！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491792&idx=1&sn=6e9b2aa3a7b38767c72225ad5bcfb997&chksm=fa65c8e1cd1241f7c98561b4ec0746e8311eaa091e66301c9ff8bc25256d489c9158d0646fdc&token=1499429464&lang=zh_CN#rd)
+
 [向协作迈进：共创良好开源社区](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490758&idx=1&sn=6b5aaaf2a44ffd81cb8268ade71900c2&chksm=fa6634f7cd11bde1654f308a875117ead2590bf0ecf2baccadaa45eea887b7f42f5b6675df76&token=1374281663&lang=zh_CN#rd)
 
 [强盗逻辑，白嫖成性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490712&idx=1&sn=0cde6cfb4f72b39c5d93d9cb5af6bf28&chksm=fa6634a9cd11bdbf395ac565f8a1441f0ef41a3092dd9695558b4daa44d13f6e397285b0bf1e&token=923061450&lang=zh_CN#rd)
@@ -198,6 +200,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/8d9acc9c-6fb9-468a-8d8a-467141045432">
 
 ### 优化
+
+[DB Killer？原来是标量子查询！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491780&idx=1&sn=d6da301d8c15faa76c8a31824a2027f0&chksm=fa65c8f5cd1241e3cc896a35f945ce0f0ffc2716b25e64703aa7eacea7a37f639593062489de&token=1499429464&lang=zh_CN#rd)
 
 [Oracle中执行1毫秒的查询，在PostgreSQL中需要6秒？看我如何优化！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491760&idx=1&sn=9f7390ff764fb9e2da44c897f9df1170&chksm=fa65c881cd12419759d6beab6247cbfe919f3dfeac29f4a5d9660f95c53f30f279c961c40d75&token=1134241729&lang=zh_CN#rd)
 
