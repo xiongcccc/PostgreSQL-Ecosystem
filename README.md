@@ -99,6 +99,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 统计信息
 
+[统计信息中几个鲜为人知的原理](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491801&idx=1&sn=b11f8d8ac0b81c917fe73cf16b3ca757&chksm=fa65c8e8cd1241fe0e6ce1d9bab7c326a2834ca5248d90bf1a1f71ab7b61e22d4260e293d67e&token=1499429464&lang=zh_CN#rd)
+
 [深入浅出统计信息内核原理(上)：Compressed Histogram](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490917&idx=1&sn=7fa85d4a3f703e63e80efbe99f49405a&chksm=fa663554cd11bc422e701a053160d1639564a3640f380a6118835611d11cfa9855a3eda53b36&token=20602392&lang=zh_CN#rd)
 
 [深度剖析PostgreSQL中的统计信息](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487525&idx=1&sn=b2893176bf71f58fa4ef364211f7993f&chksm=fa663814cd11b10249221c0f39b2791d2e13a54b22af7cdf6e44d332a4fb3210736519c4e564&token=1039605624&lang=zh_CN#rd)
@@ -248,6 +250,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [自动化处理索引膨胀](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490088&idx=1&sn=cdb60a1449645df6cec94c8cf9f84fe6&chksm=fa663219cd11bb0f239cb42a8cd347eefdac5c51372e667c86fbad767bbdbce7af8d8012d5a8&token=1039605624&lang=zh_CN#rd)
 
 [物化视图会膨胀吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490013&idx=1&sn=a66ea5c1b22bd244692d72b186b4e9df&chksm=fa6631eccd11b8fa9bccadbdd16210cbc84b96aa231660bc017c4f345d8bc3272abc3cfbeaf8&token=1039605624&lang=zh_CN#rd)
+
+[糟糕，物化视图刷新之后，数据不再有序？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491820&idx=1&sn=600142c2355651cc937444f6b87f3beb&chksm=fa65c8ddcd1241cbb2f8884fc7c11a20ad5269c648091bb7e5e34da89df6f863d8bc95f655d3&token=1499429464&lang=zh_CN#rd)
 
 [膨胀真的不简单](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489086&idx=1&sn=c47ff2b595f26d02c06351a5c806dff9&chksm=fa663e0fcd11b719b3821469a29fc1fdd0bb60fb70d338a14b5a1efa876d184781e9d85ad98d&token=1039605624&lang=zh_CN#rd)
 
