@@ -39,6 +39,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 内核原理
 
+[Oracle迁移PostgreSQL？千万注意BLOB的坑！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491850&idx=1&sn=5b5c648ba1e25861f3efa6548bf9e31e&chksm=fa65c93bcd12402d7966c74005cdad4c1eb7f8cf5e315d966dc8c8a8d9444934674ce44f9e3c&token=1151403351&lang=zh_CN#rd)
+
 [为何函数又让优化器犯了难？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491365&idx=1&sn=b47560c35b47a93d14f17f51e279b893&chksm=fa663714cd11be0293a377998aa93847df20d564b9b9af8f7f92a98ef2c06dc00aeac6ef94dd&token=580649785&lang=zh_CN#rd)
 
 [深入浅出 effective_cache_size](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491306&idx=1&sn=18311000100524d2195c1d541e638983&chksm=fa6636dbcd11bfcd340bb0f257043103fa86e0b0ff50c604c62353eec9fc1275b99ff33e69af&token=1669310503&lang=zh_CN#rd)
@@ -200,6 +202,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/8d9acc9c-6fb9-468a-8d8a-467141045432">
 
 ### 优化
+
+[为什么需要向量化执行引擎](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491830&idx=1&sn=22e20cf5a7dd086b191d060109b53cf2&chksm=fa65c8c7cd1241d1ea17519d56b4fe9c5f1c7bf754cfc94bc9f18eac539afa45106cf4e70a5e&token=1151403351&lang=zh_CN#rd)
 
 [DB Killer？原来是标量子查询！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491780&idx=1&sn=d6da301d8c15faa76c8a31824a2027f0&chksm=fa65c8f5cd1241e3cc896a35f945ce0f0ffc2716b25e64703aa7eacea7a37f639593062489de&token=1499429464&lang=zh_CN#rd)
 
