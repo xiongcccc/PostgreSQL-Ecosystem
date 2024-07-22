@@ -385,6 +385,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 网络
 
+[从一个案例聊聊DBA掌握网络的重要性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491869&idx=1&sn=5820f7d44c90392eff77caa21fc50e3c&chksm=fa65c92ccd12403a30da1c27e633427e141a9523044d79621b54715fe0b528ca5cf9f6cbd4d5&token=1225634768&lang=zh_CN#rd)
+
 [DBA必备技能之网络丢包分析总结](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490614&idx=1&sn=ac9643a399c79c593fd73d800ffc5953&chksm=fa663407cd11bd11d7b7dd6fac3e50211d1f08d12deac02ad55135e6a7f6d7e6bc4a8c123b65&token=2116038334&lang=zh_CN#rd)
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d38735bc-d201-4373-9752-6cc269a50836">
