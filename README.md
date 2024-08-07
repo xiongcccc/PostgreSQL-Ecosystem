@@ -269,6 +269,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 日志
 
+[PostgreSQL 日志最佳实践 (合订本)](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491927&idx=1&sn=890e24abd549a6008e05564a4e506bcf&chksm=fa65c966cd12407033c653f196035518adda359c4a721e9756aacd963e964f395903de708bd0&token=215916164&lang=zh_CN#rd)
+
 [还不知道如何配置日志？拿捏！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491387&idx=1&sn=1cb8ba09c7b986da0a02edf931a378ef&chksm=fa66370acd11be1c3461ad21ecf8e75dbefa7041ce1fe307f6c22bad9c99f16a01ca65407054&token=580649785&lang=zh_CN#rd)
 
 ### vacuum原理剖析
@@ -405,6 +407,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 工具类
 
+[5秒上手，小而精悍的PostgreSQL安全评估工具](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491959&idx=1&sn=179753ae200b5d89b6e4ddbe2ee80ffb&chksm=fa65c946cd12405039aab521aabf0d00c8d78f90aee4ef8cfda168f6b404b359a97364f83f37&token=215916164&lang=zh_CN#rd)
+
 [pgcheck工具发布啦](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489451&idx=1&sn=9035cf0eb0a283aa99b9c48206ebcaa5&chksm=fa663f9acd11b68c66d77dd9ee81253cb9300699374eb970598427b27858e343776a0a4f4558&token=1039605624&lang=zh_CN#rd)
 
 [祖传SQL脚本来啦](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489446&idx=1&sn=5d31b87eac49366f76db3a9b0b07dc2d&chksm=fa663f97cd11b681abcb6e8ed04903f737b4e4d5622475b8a4a26b2246cbf3732d4fd8fc5b9e&token=1039605624&lang=zh_CN#rd)
@@ -458,6 +462,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [日常答疑第二期](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490199&idx=1&sn=00949c58ba6959d13cfa8d3fae94dc27&chksm=fa6632a6cd11bbb016f57c8dc99742c31cfc3f0ef45d877771796552bf8b58eba1e928fd1eb4&token=1039605624&lang=zh_CN#rd)
 
 ### 新特性解读
+
+[从一个小案例，看PostgreSQL日臻完善的可观测性能力](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491946&idx=1&sn=a57c4eac01fcf0b290f1c4ba6b30ddb4&chksm=fa65c95bcd12404dcbe021f33fc65efab2d6fb4e4518a6461c3f7326b9cddbcdd0ed8e614c30&token=215916164&lang=zh_CN#rd)
 
 [PostgreSQL17新特性前瞻](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491283&idx=1&sn=f4771ed4ab6e39fa162d21bd4810dccb&chksm=fa6636e2cd11bff48ac9e828b103f676e0743e4e73725272ea92c4c2b795fc61b46f82a56cc5&token=49230727&lang=zh_CN#rd)
 
