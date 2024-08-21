@@ -407,6 +407,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 工具类
 
+[羡慕隔壁家的ASH？别急，咱也整一个！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492003&idx=1&sn=3c23ee8e09c1269802190b402d666fc4&chksm=fa65c992cd124084b110ae5fd768c502be61c7b0d280641bc6617bb497e6ca0240040be38069&token=1815130601&lang=zh_CN#rd)
+
 [5秒上手，小而精悍的PostgreSQL安全评估工具](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491959&idx=1&sn=179753ae200b5d89b6e4ddbe2ee80ffb&chksm=fa65c946cd12405039aab521aabf0d00c8d78f90aee4ef8cfda168f6b404b359a97364f83f37&token=215916164&lang=zh_CN#rd)
 
 [pgcheck工具发布啦](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489451&idx=1&sn=9035cf0eb0a283aa99b9c48206ebcaa5&chksm=fa663f9acd11b68c66d77dd9ee81253cb9300699374eb970598427b27858e343776a0a4f4558&token=1039605624&lang=zh_CN#rd)
