@@ -327,6 +327,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 流复制
 
+[DBA表示惊呆了，流复制也不会同步序列?](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492076&idx=1&sn=5490fd6ff13e520421941d479eb790d3&chksm=fa65c9ddcd1240cb2496b9aac206ad22d5f00875b52436890b7e771d42ae06c08365a9850c74&token=155232216&lang=zh_CN#rd)
+
 [从一个群友问题看流复制实现原理](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490798&idx=1&sn=2f48ca995b1555ac063bae29602435db&chksm=fa6634dfcd11bdc920dac740c90b2730f7c10d965e400b0269e215c879f0faadcae6f65386ce&token=551746120&lang=zh_CN#rd)
 
 [备库会同步主库修改的参数吗](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489635&idx=1&sn=dfc484dd7a8326ed0dc19298499201b8&chksm=fa663052cd11b944f45a3f074c81a88f93520661908d708d1ca8801378d4ae2e262d2b34dd2d&token=1039605624&lang=zh_CN&poc_token=HCIlNWWjwvIgRzHLI_dRXCnHt5cEfBb44D74DE84)
@@ -486,6 +488,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b957f397-3a67-43f7-b6e0-d3519059ba1d">
 
 ### 锁
+
+[还以为死锁只在单机模式下才有？那你OUT了！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492057&idx=1&sn=5d529c0503246ad552522ffc7a88ad70&chksm=fa65c9e8cd1240fef8f4ab82361194049e9c3d811efdceba9bef7c51a0010e7778699dd72f92&token=155232216&lang=zh_CN#rd)
 
 [恼人的自旋锁](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489326&idx=1&sn=5d396a261ca56962808a347ff3185394&chksm=fa663f1fcd11b609e625dbce8c452cd7071798e1cfea355dc8d05d5bc51f8a0e9828629db83f&token=1039605624&lang=zh_CN#rd)
 
