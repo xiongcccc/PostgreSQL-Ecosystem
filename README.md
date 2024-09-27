@@ -405,6 +405,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [从源码出发，深度剖析字节对齐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486054&idx=1&sn=6c13cc44750f3b5b6f35e26fb9b635d1&chksm=fa662257cd11ab415a5bae595197a6a2dd17d6968526cc6e2cd5917e38fa5496ac21fa61e383&token=1039605624&lang=zh_CN#rd)
 
+[深入浅出 PostgreSQL 列对齐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492151&idx=1&sn=069b408865f6e15d09fb8e02a9d2f03d&chksm=fa65ca06cd1243109d1ab73352fa0d333b68b8e95f6f9b6c02d5c427f3a60c633e451adb05c9&token=1712543260&lang=zh_CN#rd)
+
 ![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/cc5b1e73-5bc5-4e40-936b-289ba0ee2969)
 
 ### 工具类
@@ -601,6 +603,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 索引
 
+[慢工出细活，久久方为功](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492180&idx=1&sn=a9385efacbcf77564fbb59924ba3a1fe&chksm=fa65ca65cd1243733ce53b24026780cca8bca70ba5b1025a046c423df26bfacd978b3baef2e0&token=1712543260&lang=zh_CN#rd)
+
 [idx_tup_fetch和idx_tup_read，傻傻分不清楚](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491638&idx=1&sn=32736fa8d3d408a14af1aff4dc0f7365&chksm=fa65c807cd1241114526a07b2fb9cb85c237fa366d8ed0d388bde483fd2eb3db1ab81729465d&token=1478079183&lang=zh_CN#rd)
 
 [从索引可见性聊起](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491225&idx=1&sn=737b08202372846b6e894e49bcfc402a&chksm=fa6636a8cd11bfbe938aa645e0ee1bdc42a4ad78c3e67a091cad262054d63733aa45f6138be7&token=1912159924&lang=zh_CN#rd)
@@ -646,6 +650,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [序列的这些坑，你造吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487128&idx=1&sn=92e80b386876ee4c5e62b4e9585c8ba1&chksm=fa6626a9cd11afbfb978f5095ed28a914e5264c3152a4dcb9411654f824db65b9f74e2d0df8b&token=1153899980&lang=zh_CN#rd)
 
 ### 插件与工具
+
+[auto_explain的开销有多大？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492170&idx=1&sn=b64fa142d6468003439d440731ed833d&chksm=fa65ca7bcd12436d3d43d5e48eacdd5c8f0b45b4b9bc3205248fa1d3e5e94973aa1d773279d7&token=1712543260&lang=zh_CN#rd)
 
 [聊一聊时序数据库与TimescaleDB](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490889&idx=1&sn=901fda034fd5a14223dbfb742e36d049&chksm=fa663578cd11bc6ecc91ff6c031e076d64c6568f90989b7772f012d81ba2ccf81baebf101fd6&token=1227409527&lang=zh_CN#rd)
 
