@@ -39,6 +39,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 内核原理
 
+[惹眼新特性之transaction_timeout原理解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492267&idx=1&sn=feaeddc38c81a305ab8327433b72943d&chksm=fa65ca9acd12438cfed1fee37ba2d0112d90225e40772ab5663d36e2ec8e1d9f459d928afac7&token=1022057800&lang=zh_CN#rd)
+
 [Oracle迁移PostgreSQL？千万注意BLOB的坑！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491850&idx=1&sn=5b5c648ba1e25861f3efa6548bf9e31e&chksm=fa65c93bcd12402d7966c74005cdad4c1eb7f8cf5e315d966dc8c8a8d9444934674ce44f9e3c&token=1151403351&lang=zh_CN#rd)
 
 [为何函数又让优化器犯了难？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491365&idx=1&sn=b47560c35b47a93d14f17f51e279b893&chksm=fa663714cd11be0293a377998aa93847df20d564b9b9af8f7f92a98ef2c06dc00aeac6ef94dd&token=580649785&lang=zh_CN#rd)
@@ -274,6 +276,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [还不知道如何配置日志？拿捏！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491387&idx=1&sn=1cb8ba09c7b986da0a02edf931a378ef&chksm=fa66370acd11be1c3461ad21ecf8e75dbefa7041ce1fe307f6c22bad9c99f16a01ca65407054&token=580649785&lang=zh_CN#rd)
 
 ### vacuum原理剖析
+
+[小案例，大智慧 —— 深入浅出堆截断](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492300&idx=1&sn=e7cd8311a8c7e557fbc391f0be1966cb&chksm=fa65cafdcd1243ebdbe6af5af51f7c463e40bc9366f7c544d8a5318d29e3ebc751a30d8ad019&token=1022057800&lang=zh_CN#rd)
 
 [Visualizing Vacuum](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486445&idx=1&sn=b5fea3fdff0e428f2fd8b0bda3d2b1d5&chksm=fa6623dccd11aaca06797803c4b306739f26b507b00c56bed0827e48b118433d7773dd6b41be&token=1039605624&lang=zh_CN#rd)
 
@@ -549,6 +553,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 备份恢复
 
+[PostgreSQL howto 系列之 How to use pg_restore](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492191&idx=1&sn=20fd7515107cc963ad36f2f5ee24fe0b&chksm=fa65ca6ecd124378d5ee564035ae51ded042eb6789bbe3aff49ccd8145ef675146f32b9a6642&token=1022057800&lang=zh_CN#rd)
+
 [真实数据误删抢救案例，所见所感所想](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492029&idx=1&sn=40bf94e636f00e4c9effee2f31f2f735&chksm=fa65c98ccd12409ae73da6cf5fb082e6ff121f637849d4594d6c14c3b81e76cf61b85692969f&token=802679277&lang=zh_CN#rd)
 
 [新突破，令人惊艳的walminer4.0](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491694&idx=1&sn=66669f5a01b98d3bc5bb94a14072d271&chksm=fa65c85fcd12414975a3a745b2c1bb846a6f804b734f14fde427b5f725c7b43f93e23b73d09b&token=333797974&lang=zh_CN#rd)
@@ -650,6 +656,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 [序列的这些坑，你造吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487128&idx=1&sn=92e80b386876ee4c5e62b4e9585c8ba1&chksm=fa6626a9cd11afbfb978f5095ed28a914e5264c3152a4dcb9411654f824db65b9f74e2d0df8b&token=1153899980&lang=zh_CN#rd)
 
 ### 插件与工具
+
+[如何在 Postgres 中实现语义搜索以及与 GPT 聊天](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492208&idx=1&sn=b47e1cd5aa9103a3be426f833f98c0fe&chksm=fa65ca41cd124357b4360ece198cac55316927e4cdd48afc946c50cf2439f6b1fe2c7a882708&token=1022057800&lang=zh_CN#rd)
 
 [auto_explain的开销有多大？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492170&idx=1&sn=b64fa142d6468003439d440731ed833d&chksm=fa65ca7bcd12436d3d43d5e48eacdd5c8f0b45b4b9bc3205248fa1d3e5e94973aa1d773279d7&token=1712543260&lang=zh_CN#rd)
 
