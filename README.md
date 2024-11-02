@@ -431,7 +431,13 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PostgreSQL中的简易巡检工具](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485061&idx=1&sn=d80d9e7f8e67d2ed0ac35c8351220b59&chksm=fa662eb4cd11a7a21c3909a1dd2e195bd5b36c9244df66b99b6a4951f5293d8721a009042504&token=1243425897&lang=zh_CN#rd)
 
+[又一款开源巡检工具，不愧为postgres.ai出品，给力~](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492317&idx=1&sn=b2a418db4f22d0c0236cd04ed4615968&chksm=fa65caeccd1243fa66f9893a2564d31cee875df9073e49126f839ca1646b018a9bc680fecc0a&token=618823458&lang=zh_CN#rd)
+
 ### 面试与资料汇总
+
+[postgres-howto支持评论啦~这就码字开喷](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492348&idx=1&sn=36ba82f68698594bf172771ad74d4298&chksm=fa65cacdcd1243dbbb4676d3bc55df66ff3d48ee017b302a7fd9ebc9f4e07f2828db447869c3&token=618823458&lang=zh_CN#rd)
+
+[PostgreSQL学徒小破站上新啦](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492339&idx=1&sn=dd54dd91f237259dfaed2357f1f60ba5&chksm=fa65cac2cd1243d4acb60f8f64c5b58bb390a21311911535201e433c6051ee78f992fbd60eeb&token=618823458&lang=zh_CN#rd)
 
 [说件正事：postgres-howtos 中文系列](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492089&idx=1&sn=c6faf9dad2dc01c652b009eaab863cd7&chksm=fa65c9c8cd1240deb21234068c0e8e04d4bdb9c7a42c4db7c3882ed4a9a1a246d0a7f37b5003&token=492160454&lang=zh_CN#rd)
 
@@ -451,9 +457,12 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 [PostgreSQL好书推荐第二弹](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491122&idx=1&sn=79de5dccdb2e3470778a82055e3cb10d&chksm=fa663603cd11bf15ebe1b9bcd445cd3d15b85d982bf12188865a0e1971f1d9f2f87a58494310&token=259716318&lang=zh_CN#rd)
 
-[行远自迩，PostgreSQL修炼之道](https://github.com/xiongcccc/PostgreSQL-ecosystem/blob/main/%E5%8E%86%E5%B1%8A%E6%B4%BB%E5%8A%A8PPT/%E8%A1%8C%E8%BF%9C%E8%87%AA%E8%BF%A9%EF%BC%8CPostgreSQL%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)、
+[行远自迩，PostgreSQL修炼之道](https://github.com/xiongcccc/PostgreSQL-ecosystem/blob/main/%E5%8E%86%E5%B1%8A%E6%B4%BB%E5%8A%A8PPT/%E8%A1%8C%E8%BF%9C%E8%87%AA%E8%BF%A9%EF%BC%8CPostgreSQL%E4%BF%AE%E7%82%BC%E4%B9%8B%E9%81%93.pdf)
+
+[How to help others？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492322&idx=1&sn=7f8beeb0c09b0d434ec179e3d87aa205&chksm=fa65cad3cd1243c5817614250a09017de10212794d00f592b235f3c4f694201f5d0957b2a4f0&token=618823458&lang=zh_CN#rd)
 
 ![PostgreSQL书籍阅读](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/30d9d48a-c3de-4f93-a1d7-702c196b1316)
+
 
 ### 子事务
 
