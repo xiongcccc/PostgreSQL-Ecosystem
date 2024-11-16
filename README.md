@@ -435,6 +435,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 面试与资料汇总
 
+[关于《PostgreSQL 14 Internals》中文版](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492418&idx=1&sn=934f6fead7fa9c2d9273bd671f7f4512&chksm=fa65cb73cd1242658eb151ed14ba76ddcec1994c02dea60bdf05ac618c09f1da5110192ff2ea&token=1542668282&lang=zh_CN#rd)
+
 [postgres-howto支持评论啦~这就码字开喷](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492348&idx=1&sn=36ba82f68698594bf172771ad74d4298&chksm=fa65cacdcd1243dbbb4676d3bc55df66ff3d48ee017b302a7fd9ebc9f4e07f2828db447869c3&token=618823458&lang=zh_CN#rd)
 
 [PostgreSQL学徒小破站上新啦](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492339&idx=1&sn=dd54dd91f237259dfaed2357f1f60ba5&chksm=fa65cac2cd1243d4acb60f8f64c5b58bb390a21311911535201e433c6051ee78f992fbd60eeb&token=618823458&lang=zh_CN#rd)
@@ -488,6 +490,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 
 ### 新特性解读
 
+[惹眼新特性之COPY容错处理解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492403&idx=1&sn=57b44e412372ba6e8cf1b5d7a6a66efc&chksm=fa65cb02cd1242146dd0734d1e1787c5c497d42310f13fc3dc157b6cf81d7c41cb4a1a63c74b&token=1542668282&lang=zh_CN#rd)
+
 [从一个小案例，看PostgreSQL日臻完善的可观测性能力](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491946&idx=1&sn=a57c4eac01fcf0b290f1c4ba6b30ddb4&chksm=fa65c95bcd12404dcbe021f33fc65efab2d6fb4e4518a6461c3f7326b9cddbcdd0ed8e614c30&token=215916164&lang=zh_CN#rd)
 
 [PostgreSQL17新特性前瞻](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491283&idx=1&sn=f4771ed4ab6e39fa162d21bd4810dccb&chksm=fa6636e2cd11bff48ac9e828b103f676e0743e4e73725272ea92c4c2b795fc61b46f82a56cc5&token=49230727&lang=zh_CN#rd)
@@ -537,6 +541,8 @@ PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能�
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ab3cb326-19a4-49b7-b5cb-9c5449259837">
 
 ### 个人感想
+
+[究竟是谁在卡脖子？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492364&idx=1&sn=b0b43907772d6208b77ad1dec8aacc1e&chksm=fa65cb3dcd12422b23e03f7d4b3dafe2716e84301eb051b27beb714e5c4d5625970aeb17085f&token=1542668282&lang=zh_CN#rd)
 
 [《说话的艺术》读后感（上篇）](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491969&idx=1&sn=f4fa08f1ad691cd5e4c11d24771df409&chksm=fa65c9b0cd1240a638ac0b744f753c9a10abd90acb5b7db9c702b26c988f72093e097759cf29&token=1418014050&lang=zh_CN#rd)
 
