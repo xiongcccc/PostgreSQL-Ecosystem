@@ -249,8 +249,6 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [一起pg_pathman的有趣案例](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488513&idx=1&sn=2cf3090ecff696646f2d5eb47e2cc2c8&chksm=fa663c30cd11b52678c7fd7d43a465aed1b833cefd22f873cffb4348f2248ea2257d981d2e5e&token=1039605624&lang=zh_CN#rd)
 
-<img width="577" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/52880bda-3076-4d9a-be04-8c8094961973">
-
 ### 表膨胀与实战
 
 [揭开表膨胀的神秘面纱](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485791&idx=1&sn=24ef88bd19d923d60fdf1a8969577fb0&chksm=fa66216ecd11a8789ee0a9a4b7e850d98086bf3ae542aad814788bd8f262dd675be92fa7c5db&token=1039605624&lang=zh_CN#rd)
@@ -411,8 +409,6 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [深入浅出 PostgreSQL 列对齐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492151&idx=1&sn=069b408865f6e15d09fb8e02a9d2f03d&chksm=fa65ca06cd1243109d1ab73352fa0d333b68b8e95f6f9b6c02d5c427f3a60c633e451adb05c9&token=1712543260&lang=zh_CN#rd)
 
-![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/cc5b1e73-5bc5-4e40-936b-289ba0ee2969)
-
 ### 工具类
 
 [数据库又有风吹草动？莫慌，我有利器](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492014&idx=1&sn=054c06d03c1153ca41a60137ca3af9c7&chksm=fa65c99fcd1240896de5fd69baf7cd68d3f111a0d97a6a5bddfc6c783c093d75d652128cfb10&token=802679277&lang=zh_CN#rd)
@@ -479,8 +475,6 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [子事务及其性能](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486254&idx=1&sn=4113b1eaaa8fd6763e9bf46f1c6ca344&chksm=fa66231fcd11aa090ed6a80b4a402c2ff0b07c6a4ba6a0c16173d9190feaffc7608a18eca346&token=1039605624&lang=zh_CN#rd)
 
 [子事务滥用的危害](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486115&idx=1&sn=efe636ed1717e467a3f88a3c031f3452&chksm=fa662292cd11ab84da5d7afba2d93048f40a9d9759ad1fc3f0622b3bd18ebd1b4841f867c9f2&token=1039605624&lang=zh_CN#rd)
-
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/0b6493f8-e8bd-41f2-a427-2328c1250f13">
 
 ### 日常答疑
 
