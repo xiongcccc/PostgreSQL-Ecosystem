@@ -2,18 +2,18 @@ Hi all, I'm an experienced PostgreSQL enthusiast and currently working on someth
 
 Feel free to contact me：
 
-1. wechat：_xiongcc
-2. mail：xiongcc_1994@126.com/xiongcc_1994@outlook.com
+1. 微信：_xiongcc
+2. 邮箱：xiongcc_1994&#8203;@126.com / xiongcc_1994&#8203;@outlook.com
 3. 公众号：PostgreSQL学徒
-4. github：https://github.com/xiongcccc
+4. Github：https\://github\.com\/xiongcccc
 
-各位好，我是熊灿灿，大家可以喊我cc，我是PostgreSQL ACE/MVP，杰出新人，CSDN社区之星，PostgreSQL学徒公众号作者，亲身保障过第七次人口普查等重大项目，精通PostgreSQL体系架构与运行原理，实战经验丰富。目前正在从事PostgreSQL与Greenplum相关的工作。
+各位好，各位可以喊我 CC，我是PostgreSQL ACE/MVP，杰出新人，CSDN 社区之星，PostgreSQL 学徒公众号主理人，亲身保障过第七次人口普查等重大项目，精通 PostgreSQL 体系架构与运行原理，实战经验丰富。目前正在从事 PostgreSQL 与 Greenplum 相关工作。
 
-PostgreSQL是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用PostgreSQL！这也是我目前正在做的事情，坚持布道与分享。以下是PostgreSQL学徒公众号文章的简单分类，希望各位都能从小工到专家，从enthusiast到committer！
+PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用 PostgreSQL！这也是我目前正在做的事情，坚持布道与分享。以下是 PostgreSQL 学徒公众号文章的简单分类，希望各位都能从小工到专家，从 enthusiast 到 committer！
 
 <img width="1731" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/3999b893-03c0-423c-a2da-d2dc1161050e">
 
-另外我个人维护了四个PostgreSQL学徒交流群，感兴趣的都可以联系我，一起学习PostgreSQL。
+另外我个人维护了四个 PostgreSQL 学徒交流群，感兴趣的都可以联系我，一起学习 PostgreSQL。
 
 觉得项目不错，不妨点个 ⭐️ 再走 ~
 
