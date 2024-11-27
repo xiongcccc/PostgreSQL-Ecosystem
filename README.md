@@ -231,6 +231,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ### 分区表
 
+[默认分区整不明白？捡了芝麻，丢了西瓜](https://mp.weixin.qq.com/s/F-mgFkgcv2QicCsm3XvUqw?token=94364390&lang=zh_CN)
+
 [分区表的利与弊](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489828&idx=1&sn=0ec63218e12cf67cb6f32fa4ace41f05&chksm=fa663115cd11b803efeb28ba5503c00c974af1b5fa768482d2580ae3d3389698978ff105a423&token=1039605624&lang=zh_CN#rd)
 
 [聊一聊分区表的几个参数](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489569&idx=1&sn=d243ba5d55e93015803ac3f60c7b9795&chksm=fa663010cd11b9062c5a62a401406a9521dbb901b0b7b1b2cabd0c155f7295cde70e54b1c3cb&token=1039605624&lang=zh_CN#rd)
@@ -274,6 +276,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [还不知道如何配置日志？拿捏！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491387&idx=1&sn=1cb8ba09c7b986da0a02edf931a378ef&chksm=fa66370acd11be1c3461ad21ecf8e75dbefa7041ce1fe307f6c22bad9c99f16a01ca65407054&token=580649785&lang=zh_CN#rd)
 
 ### vacuum原理剖析
+
+[修改源代码，优化 Autovacuum 触发条件](https://mp.weixin.qq.com/s/GFh3UBr30vDZbPSsl1jPlw?token=94364390&lang=zh_CN)
 
 [小案例，大智慧 —— 深入浅出堆截断](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492300&idx=1&sn=e7cd8311a8c7e557fbc391f0be1966cb&chksm=fa65cafdcd1243ebdbe6af5af51f7c463e40bc9366f7c544d8a5318d29e3ebc751a30d8ad019&token=1022057800&lang=zh_CN#rd)
 
