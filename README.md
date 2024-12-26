@@ -42,6 +42,10 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ### 内核原理
 
+[唯一键冲突导致的种种危害，你都知道吗？](https://mp.weixin.qq.com/s/9wgv9bWiMXHGYxO5t5RXGg?token=884047593&lang=zh_CN)
+
+[庖丁解牛，深入浅出无日志表](https://mp.weixin.qq.com/s/wEYdNRmLrHRzY2Y87HIkmw?token=884047593&lang=zh_CN)
+
 [惹眼新特性之transaction_timeout原理解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492267&idx=1&sn=feaeddc38c81a305ab8327433b72943d&chksm=fa65ca9acd12438cfed1fee37ba2d0112d90225e40772ab5663d36e2ec8e1d9f459d928afac7&token=1022057800&lang=zh_CN#rd)
 
 [Oracle迁移PostgreSQL？千万注意BLOB的坑！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491850&idx=1&sn=5b5c648ba1e25861f3efa6548bf9e31e&chksm=fa65c93bcd12402d7966c74005cdad4c1eb7f8cf5e315d966dc8c8a8d9444934674ce44f9e3c&token=1151403351&lang=zh_CN#rd)
@@ -438,6 +442,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ### 面试与资料汇总
 
+[笃行致远，《PostgreSQL 14 Internals》三载始成](https://mp.weixin.qq.com/s/zQLMlhpGAIH7r_OqcMWpvA?token=884047593&lang=zh_CN)
+
 [关于《PostgreSQL 14 Internals》中文版](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492418&idx=1&sn=934f6fead7fa9c2d9273bd671f7f4512&chksm=fa65cb73cd1242658eb151ed14ba76ddcec1994c02dea60bdf05ac618c09f1da5110192ff2ea&token=1542668282&lang=zh_CN#rd)
 
 [postgres-howto支持评论啦~这就码字开喷](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492348&idx=1&sn=36ba82f68698594bf172771ad74d4298&chksm=fa65cacdcd1243dbbb4676d3bc55df66ff3d48ee017b302a7fd9ebc9f4e07f2828db447869c3&token=618823458&lang=zh_CN#rd)
@@ -542,6 +548,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ab3cb326-19a4-49b7-b5cb-9c5449259837">
 
 ### 个人感想
+
+[ACDU 故事会｜选定一条路，坚定走下去](https://mp.weixin.qq.com/s/xfXTS8n0qM9Zn-D1qzovUw?token=884047593&lang=zh_CN)
 
 [究竟是谁在卡脖子？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492364&idx=1&sn=b0b43907772d6208b77ad1dec8aacc1e&chksm=fa65cb3dcd12422b23e03f7d4b3dafe2716e84301eb051b27beb714e5c4d5625970aeb17085f&token=1542668282&lang=zh_CN#rd)
 
@@ -728,6 +736,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 <img width="1984" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f67dae3d-faa2-4b56-aab0-00aa92d473c6">
 
 ### Greenplum
+
+[《深入浅出 Greenplum 分布式数据库》读后感](https://mp.weixin.qq.com/s/8R0r74n0Wr--AaWbqvWuKw?token=884047593&lang=zh_CN)
 
 [临时表使用不规范，DBA哭死在厕所](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491452&idx=1&sn=8258e8c23da8ebabb88e26dbee1727a9&chksm=fa66374dcd11be5b565f1170e1386454bcead6d50dea7ce8b8744a98f762c481709d90a314a2&token=2042733858&lang=zh_CN#rd)
 
