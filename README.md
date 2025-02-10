@@ -50,6 +50,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [Oracle迁移PostgreSQL？千万注意BLOB的坑！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491850&idx=1&sn=5b5c648ba1e25861f3efa6548bf9e31e&chksm=fa65c93bcd12402d7966c74005cdad4c1eb7f8cf5e315d966dc8c8a8d9444934674ce44f9e3c&token=1151403351&lang=zh_CN#rd)
 
+[函数的"延迟解析"是什么鬼？](https://mp.weixin.qq.com/s/1pTQS8YGIc69alS7EfDvkA?token=484293758&lang=zh_CN)
+
 [为何函数又让优化器犯了难？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491365&idx=1&sn=b47560c35b47a93d14f17f51e279b893&chksm=fa663714cd11be0293a377998aa93847df20d564b9b9af8f7f92a98ef2c06dc00aeac6ef94dd&token=580649785&lang=zh_CN#rd)
 
 [深入浅出 effective_cache_size](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491306&idx=1&sn=18311000100524d2195c1d541e638983&chksm=fa6636dbcd11bfcd340bb0f257043103fa86e0b0ff50c604c62353eec9fc1275b99ff33e69af&token=1669310503&lang=zh_CN#rd)
@@ -442,6 +444,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ### 面试与资料汇总
 
+[起猛了，PG又成了年度数据库了？五冠王诞生](https://mp.weixin.qq.com/s/3PeiHR7d7N-AoUxJZH_92g?token=484293758&lang=zh_CN)
+
 [笃行致远，《PostgreSQL 14 Internals》三载始成](https://mp.weixin.qq.com/s/zQLMlhpGAIH7r_OqcMWpvA?token=884047593&lang=zh_CN)
 
 [关于《PostgreSQL 14 Internals》中文版](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492418&idx=1&sn=934f6fead7fa9c2d9273bd671f7f4512&chksm=fa65cb73cd1242658eb151ed14ba76ddcec1994c02dea60bdf05ac618c09f1da5110192ff2ea&token=1542668282&lang=zh_CN#rd)
@@ -579,6 +583,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ### 备份恢复
 
+[这种数据恢复方式，我敢打赌，99%的人没有见过！](https://mp.weixin.qq.com/s/-BLDMeH5ocb40I0uJ3dSCg?token=484293758&lang=zh_CN)
+
 [PostgreSQL howto 系列之 How to use pg_restore](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492191&idx=1&sn=20fd7515107cc963ad36f2f5ee24fe0b&chksm=fa65ca6ecd124378d5ee564035ae51ded042eb6789bbe3aff49ccd8145ef675146f32b9a6642&token=1022057800&lang=zh_CN#rd)
 
 [真实数据误删抢救案例，所见所感所想](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492029&idx=1&sn=40bf94e636f00e4c9effee2f31f2f735&chksm=fa65c98ccd12409ae73da6cf5fb082e6ff121f637849d4594d6c14c3b81e76cf61b85692969f&token=802679277&lang=zh_CN#rd)
@@ -634,6 +640,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [Tuning PostgreSQL for High Write Throughput](https://www.slideshare.net/GrantMcAlister/tuning-postgresql-for-high-write-throughput)
 
 ### 索引
+
+[当 DeepSeek 遇上 ChatGPT，从一个专业的技术领域问题聊起](https://mp.weixin.qq.com/s/3RFlxPmJkwsPTBzVJuD7Og?token=484293758&lang=zh_CN)
 
 [慢工出细活，久久方为功](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492180&idx=1&sn=a9385efacbcf77564fbb59924ba3a1fe&chksm=fa65ca65cd1243733ce53b24026780cca8bca70ba5b1025a046c423df26bfacd978b3baef2e0&token=1712543260&lang=zh_CN#rd)
 
