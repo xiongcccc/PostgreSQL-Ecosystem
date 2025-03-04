@@ -501,6 +501,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ### 新特性解读
 
+[PostgreSQL18新特性前瞻](https://mp.weixin.qq.com/s/ownmQ4jWugwCfFphXn6jJA)
+
 [惹眼新特性之COPY容错处理解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492403&idx=1&sn=57b44e412372ba6e8cf1b5d7a6a66efc&chksm=fa65cb02cd1242146dd0734d1e1787c5c497d42310f13fc3dc157b6cf81d7c41cb4a1a63c74b&token=1542668282&lang=zh_CN#rd)
 
 [从一个小案例，看PostgreSQL日臻完善的可观测性能力](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491946&idx=1&sn=a57c4eac01fcf0b290f1c4ba6b30ddb4&chksm=fa65c95bcd12404dcbe021f33fc65efab2d6fb4e4518a6461c3f7326b9cddbcdd0ed8e614c30&token=215916164&lang=zh_CN#rd)
@@ -552,6 +554,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ab3cb326-19a4-49b7-b5cb-9c5449259837">
 
 ### 个人感想
+
+[懂得正确地提出问题，也是一项重要的本领](https://mp.weixin.qq.com/s/lp-TUcMkWXxVZoubCfH-KQ)
 
 [ACDU 故事会｜选定一条路，坚定走下去](https://mp.weixin.qq.com/s/xfXTS8n0qM9Zn-D1qzovUw?token=884047593&lang=zh_CN)
 
