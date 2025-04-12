@@ -216,6 +216,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ### 优化
 
+[宝藏PEV，助力你成为SQL优化高手](https://mp.weixin.qq.com/s/_kzXB52EeyK7FrXGWO-FsQ)
+
 [为什么需要向量化执行引擎](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491830&idx=1&sn=22e20cf5a7dd086b191d060109b53cf2&chksm=fa65c8c7cd1241d1ea17519d56b4fe9c5f1c7bf754cfc94bc9f18eac539afa45106cf4e70a5e&token=1151403351&lang=zh_CN#rd)
 
 [DB Killer？原来是标量子查询！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491780&idx=1&sn=d6da301d8c15faa76c8a31824a2027f0&chksm=fa65c8f5cd1241e3cc896a35f945ce0f0ffc2716b25e64703aa7eacea7a37f639593062489de&token=1499429464&lang=zh_CN#rd)
@@ -587,6 +589,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [写在公众号人数突破4K之际](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489760&idx=1&sn=2df5e1b91864b6e1df84e6879edadf5e&chksm=fa6630d1cd11b9c75ccd91907e6bef99c0235ea116083a730172b3b3e88cadab359aacd422a1#rd)
 
 ### 备份恢复
+
+[数据被删了干着急？继walminer之后另一款国货之光！](https://mp.weixin.qq.com/s/8bP3YamkqPNCXXjZjnllWQ)
 
 [这种数据恢复方式，我敢打赌，99%的人没有见过！](https://mp.weixin.qq.com/s/-BLDMeH5ocb40I0uJ3dSCg?token=484293758&lang=zh_CN)
 
