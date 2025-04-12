@@ -42,6 +42,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ### 内核原理
 
+[nextgres项目夭折，国产新势力openHalo接棒再出发！](https://mp.weixin.qq.com/s/p-tbupDsu8BVRZA_4d3YhQ)
+
 [唯一键冲突导致的种种危害，你都知道吗？](https://mp.weixin.qq.com/s/9wgv9bWiMXHGYxO5t5RXGg?token=884047593&lang=zh_CN)
 
 [庖丁解牛，深入浅出无日志表](https://mp.weixin.qq.com/s/wEYdNRmLrHRzY2Y87HIkmw?token=884047593&lang=zh_CN)
@@ -478,7 +480,6 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ![PostgreSQL书籍阅读](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/30d9d48a-c3de-4f93-a1d7-702c196b1316)
 
-
 ### 子事务
 
 [诊断子事务的瑞士军刀](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490927&idx=1&sn=eeaf667551c8ef40e1739303bf1aaae0&chksm=fa66355ecd11bc48b1cf6a85a4ba3c180fd3afbbcaa4c14c5d224b2695db56f01b89098a5767&token=20602392&lang=zh_CN#rd)
@@ -750,6 +751,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 <img width="1984" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f67dae3d-faa2-4b56-aab0-00aa92d473c6">
 
 ### Greenplum
+
+[APCC，从入门到放弃！](https://mp.weixin.qq.com/s/zBvAiHwI_NHrNHYVlbQFvg)
 
 [《深入浅出 Greenplum 分布式数据库》读后感](https://mp.weixin.qq.com/s/8R0r74n0Wr--AaWbqvWuKw?token=884047593&lang=zh_CN)
 
