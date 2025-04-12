@@ -558,7 +558,7 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ### 个人感想
 
-[懂得正确地提出问题，也是一项重要的本领](https://mp.weixin.qq.com/s/lp-TUcMkWXxVZoubCfH-KQ)
+[《技术人修炼之道》读后感](https://mp.weixin.qq.com/s/EmNDSp2QkVTK7xt6rBL5rw)
 
 [ACDU 故事会｜选定一条路，坚定走下去](https://mp.weixin.qq.com/s/xfXTS8n0qM9Zn-D1qzovUw?token=884047593&lang=zh_CN)
 
@@ -683,6 +683,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/c32ddc96-f261-4bde-a44a-0e82624fd007">
 
 ### 升级
+
+[懂得正确地提出问题，也是一项重要的本领](https://mp.weixin.qq.com/s/lp-TUcMkWXxVZoubCfH-KQ)
 
 [高效升级PostgreSQL](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485673&idx=1&sn=0343ebb7987a2766a6b5c0d6a9ebaa2a&chksm=fa6620d8cd11a9cea13ba889953572d853798beabda2d85317910d6bd2d66440f64f1c5e11d8&token=1039605624&lang=zh_CN#rd)
 
