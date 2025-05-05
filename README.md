@@ -26,6 +26,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ## 公众号历史文章分类
 
+历史文章正在逐步往 https://xiongcc.cn 网站上迁移中，阅读体验更加。
+
 ### 请尊重知识版权
 
 [没想到吧，剌了双眼皮，换壳重生！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491792&idx=1&sn=6e9b2aa3a7b38767c72225ad5bcfb997&chksm=fa65c8e1cd1241f7c98561b4ec0746e8311eaa091e66301c9ff8bc25256d489c9158d0646fdc&token=1499429464&lang=zh_CN#rd)
