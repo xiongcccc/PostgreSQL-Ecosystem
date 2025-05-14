@@ -30,8 +30,6 @@ Feel free to Connect with Me：
 
 [人不要脸，天下无敌](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490750&idx=1&sn=ab7363a68a4df9f6618a5ddf6e2d3b29&chksm=fa66348fcd11bd990aea316297629120511b0ecf2cf494a74171316e5f9245e7993af355a7a1&token=1374281663&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/75f8d39a-0ade-4bab-9ab1-f4fce20aa0f5">
-
 ### 内核原理
 
 [命名不规范，事后泪两行](https://mp.weixin.qq.com/s/f2qxaWHEgXuy69Dq4UiQSQ)
