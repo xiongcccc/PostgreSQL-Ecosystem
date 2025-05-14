@@ -448,9 +448,7 @@ Feel free to Connect with Me：
 
 [How to help others？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492322&idx=1&sn=7f8beeb0c09b0d434ec179e3d87aa205&chksm=fa65cad3cd1243c5817614250a09017de10212794d00f592b235f3c4f694201f5d0957b2a4f0&token=618823458&lang=zh_CN#rd)
 
-![PostgreSQL书籍阅读](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/30d9d48a-c3de-4f93-a1d7-702c196b1316)
-
-### 子事务
+# 子事务
 
 [诊断子事务的瑞士军刀](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490927&idx=1&sn=eeaf667551c8ef40e1739303bf1aaae0&chksm=fa66355ecd11bc48b1cf6a85a4ba3c180fd3afbbcaa4c14c5d224b2695db56f01b89098a5767&token=20602392&lang=zh_CN#rd)
 
@@ -464,13 +462,13 @@ Feel free to Connect with Me：
 
 [子事务滥用的危害](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486115&idx=1&sn=efe636ed1717e467a3f88a3c031f3452&chksm=fa662292cd11ab84da5d7afba2d93048f40a9d9759ad1fc3f0622b3bd18ebd1b4841f867c9f2&token=1039605624&lang=zh_CN#rd)
 
-### 日常答疑
+# 日常答疑
 
 [日常答疑第一期](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489199&idx=1&sn=8f88185f019a1e5487945bef5f6a0335&chksm=fa663e9ecd11b7885e27feb9e3a7344e8386966010874eeb83241ffce285bbabcdc35359a852&token=1039605624&lang=zh_CN#rd)
 
 [日常答疑第二期](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490199&idx=1&sn=00949c58ba6959d13cfa8d3fae94dc27&chksm=fa6632a6cd11bbb016f57c8dc99742c31cfc3f0ef45d877771796552bf8b58eba1e928fd1eb4&token=1039605624&lang=zh_CN#rd)
 
-### 新特性解读
+# 新特性解读
 
 [PostgreSQL18新特性前瞻](https://mp.weixin.qq.com/s/ownmQ4jWugwCfFphXn6jJA)
 
@@ -492,7 +490,7 @@ Feel free to Connect with Me：
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b957f397-3a67-43f7-b6e0-d3519059ba1d">
 
-### 锁
+# 锁
 
 [还以为死锁只在单机模式下才有？那你OUT了！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492057&idx=1&sn=5d529c0503246ad552522ffc7a88ad70&chksm=fa65c9e8cd1240fef8f4ab82361194049e9c3d811efdceba9bef7c51a0010e7778699dd72f92&token=155232216&lang=zh_CN#rd)
 
@@ -510,9 +508,7 @@ Feel free to Connect with Me：
 
 [使用eBPF提升可观测性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489293&idx=1&sn=9ab72fa4f0e0367d90453486d8c6c457&chksm=fa663f3ccd11b62ad565311513a61734ad123c0f2ef858dea0a6eef3a82ec9ae1d8ca90800bc&token=1039605624&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/c46ab32e-8437-4ea6-97cd-20e66e2ab524">
-
-### 权限
+# 权限
 
 [权限管控，还可以再简单点](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491653&idx=1&sn=ca48591c85342e07e7d84b836003a38d&chksm=fa65c874cd1241623743597a599cf69969102359e8856a196fc27b03521fd6f92a99442eda76&token=1478079183&lang=zh_CN#rd)
 
@@ -522,9 +518,7 @@ Feel free to Connect with Me：
 
 [再唠唠晕乎的权限体系](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489261&idx=1&sn=2bf28fcfeb7523b5cffea0cbdec3da94&chksm=fa663edccd11b7ca5e89544c9618d334c9e8e6c37d4b40b1fa55f2e5729e17cde8d2b8841327&token=1039605624&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ab3cb326-19a4-49b7-b5cb-9c5449259837">
-
-### 个人感想
+# 个人感想
 
 [数据库证书有用吗？](https://mp.weixin.qq.com/s/kFC8eP5hS2ul41sQArT91w)
 
@@ -558,7 +552,7 @@ Feel free to Connect with Me：
 
 [写在公众号人数突破4K之际](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489760&idx=1&sn=2df5e1b91864b6e1df84e6879edadf5e&chksm=fa6630d1cd11b9c75ccd91907e6bef99c0235ea116083a730172b3b3e88cadab359aacd422a1#rd)
 
-### 备份恢复
+# 备份恢复
 
 [数据被删了干着急？继walminer之后另一款国货之光！](https://mp.weixin.qq.com/s/8bP3YamkqPNCXXjZjnllWQ)
 
@@ -586,7 +580,7 @@ Feel free to Connect with Me：
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/259c5d7e-f36d-4227-a7e9-a588f8d5aab7">
 
-### PITR
+# PITR
 
 [小心！孤儿归档也可能将数据库整死！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491268&idx=1&sn=42b664022d00efbce72b5ff6718f3b73&chksm=fa6636f5cd11bfe32bb0a88ed6547f8b68a0e82d13a2c1a722b6bee4fab979b84cbe3cb3a612&token=49230727&lang=zh_CN#rd)
 
@@ -598,9 +592,7 @@ Feel free to Connect with Me：
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f29e282c-b428-4649-a15f-6f35df1ad571">
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/067e35ab-4b46-4dd3-b567-84e7b10ff7e9">
-
-### FPI
+# FPI
 
 [不为熟知的FPI之hint bits](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489180&idx=1&sn=5c2d5a139b9f350a2d25d2f61905aa5a&chksm=fa663eadcd11b7bb3fcbb41ac930901a7a95d62ad01f019e5adc8d9ef61b67dbcd74fdbee32b&token=1039605624&lang=zh_CN#rd)
 
@@ -612,13 +604,13 @@ Feel free to Connect with Me：
 
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/486528dc-0cca-43ca-a2cb-6eca242435e6">
 
-#### 好文分享
+## 好文分享
 
 [On the impact of full-page writes](https://www.2ndquadrant.com/en/blog/on-the-impact-of-full-page-writes/)
 
 [Tuning PostgreSQL for High Write Throughput](https://www.slideshare.net/GrantMcAlister/tuning-postgresql-for-high-write-throughput)
 
-### 索引
+# 索引
 
 [当 DeepSeek 遇上 ChatGPT，从一个专业的技术领域问题聊起](https://mp.weixin.qq.com/s/3RFlxPmJkwsPTBzVJuD7Og?token=484293758&lang=zh_CN)
 
@@ -650,13 +642,13 @@ Feel free to Connect with Me：
 
 [如何处理损坏的系统表索引](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486000&idx=1&sn=dac26b6917ba7b3227711fe8f0161fb6&chksm=fa662201cd11ab1790fdde1e3dbf6e5ff9c928e242f2e31d2529b0274c4c2719a4a4f62e48bd#rd)
 
-### 升级
+# 升级
 
 [懂得正确地提出问题，也是一项重要的本领](https://mp.weixin.qq.com/s/lp-TUcMkWXxVZoubCfH-KQ)
 
 [高效升级PostgreSQL](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485673&idx=1&sn=0343ebb7987a2766a6b5c0d6a9ebaa2a&chksm=fa6620d8cd11a9cea13ba889953572d853798beabda2d85317910d6bd2d66440f64f1c5e11d8&token=1039605624&lang=zh_CN#rd)
 
-#### 好文分享
+## 好文分享
 
 [Why upgrade PostgreSQL?](https://why-upgrade.depesz.com/show?from=13.1&to=13.3&keywords==-pooo0)
 
@@ -664,11 +656,11 @@ Feel free to Connect with Me：
 
 [PostgreSQL upgrade best practices](https://www.pgday.ch/common/slides/2017_T-DBI-20170630-001-PGDAY-Upgrade-BestPractices.pdf)
 
-### 序列
+# 序列
 
 [序列的这些坑，你造吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487128&idx=1&sn=92e80b386876ee4c5e62b4e9585c8ba1&chksm=fa6626a9cd11afbfb978f5095ed28a914e5264c3152a4dcb9411654f824db65b9f74e2d0df8b&token=1153899980&lang=zh_CN#rd)
 
-### 插件与工具
+# 插件与工具
 
 [如何在 Postgres 中实现语义搜索以及与 GPT 聊天](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492208&idx=1&sn=b47e1cd5aa9103a3be426f833f98c0fe&chksm=fa65ca41cd124357b4360ece198cac55316927e4cdd48afc946c50cf2439f6b1fe2c7a882708&token=1022057800&lang=zh_CN#rd)
 
@@ -688,15 +680,13 @@ Feel free to Connect with Me：
 
 [PostgreSQL插件十八摸](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485824&idx=1&sn=8804fb44a639b794349becd3799b7404&chksm=fa6621b1cd11a8a7692f80e3e2e18a7b897d263da98173c63b537c6f4fb44e99ad8515ea6803#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/e55800bd-e013-4491-8911-9ad30e2a4d95">
-
-#### 好文分享
+## 好文分享
 
 [Extentions list](https://github.com/Vonng/pigsty/discussions/333)
 
 [1000+ PostgreSQL EXTENSIONs](https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47)
 
-### 使用技巧
+# 使用技巧
 
 [实用编译项：OPTIMIZER_DEBUG](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491213&idx=1&sn=b83b298f2af6f40a40cd7df097fab0e8&chksm=fa6636bccd11bfaa2f321546e2840cad2b94ab2ae1f8047a4726e57f6458fb77ad64cf00941f&token=1912159924&lang=zh_CN#rd)
 
@@ -718,13 +708,11 @@ Feel free to Connect with Me：
 
 [函数安全性的妙用](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488357&idx=1&sn=b983efd2895e8126ac6cc539cff290e9&chksm=fa663b54cd11b242a299b80fdd60ddab4f0eee9cd544cafa62dbb8d8abc3382255763316ddcc#rd)
 
-### JSON
+# JSON
 
 [如何高效处理/索引 JSON](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486086&idx=1&sn=2edebd443df914ff5d290820a407a33f&chksm=fa6622b7cd11aba170d850f0b19c6f143a327851438d7813400d76510159882b6c7467478761#rd)
 
-<img width="1984" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f67dae3d-faa2-4b56-aab0-00aa92d473c6">
-
-### Greenplum
+# Greenplum
 
 [APCC，从入门到放弃！](https://mp.weixin.qq.com/s/zBvAiHwI_NHrNHYVlbQFvg)
 
@@ -743,5 +731,3 @@ Feel free to Connect with Me：
 [Greenplum AO表存储分析](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490311&idx=1&sn=9cf81a27cbb862a787b72fd77aeb8389&chksm=fa663336cd11ba204164150b28f98f9eeec1f33529e32e92c2e2912f766a01707b281820d927&token=1153899980&lang=zh_CN#rd)
 
 [聊一聊Greenplum与PostgreSQL](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490550&idx=1&sn=b9bd7f4940e92d01066b620bd6e777e7&chksm=fa6633c7cd11bad1a1451632a246a33905ad20258a2ba9349852efad20a1fc547c7f6d737a97&token=565096304&lang=zh_CN#rd)
-
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d0ef1081-62bf-4bd2-9c69-4cf0b8d89652">
