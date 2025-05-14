@@ -15,10 +15,6 @@ Feel free to Connect with Me：
 
 PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用 PostgreSQL。觉得项目不错，不妨点个 ⭐️ 再走 ~
 
-# Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=xiongcccc/PostgreSQL-ecosystem&type=Date)](https://star-history.com/#xiongcccc/PostgreSQL-ecosystem&Date)
-
 # 请尊重知识版权
 
 [没想到吧，剌了双眼皮，换壳重生！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491792&idx=1&sn=6e9b2aa3a7b38767c72225ad5bcfb997&chksm=fa65c8e1cd1241f7c98561b4ec0746e8311eaa091e66301c9ff8bc25256d489c9158d0646fdc&token=1499429464&lang=zh_CN#rd)
