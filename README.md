@@ -403,6 +403,10 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 面试与资料汇总
 
+[个人主页悄悄上新了](https://mp.weixin.qq.com/s/J5P7tYHh-LSb54kgCZLOhw)
+
+[说个秘密，新网站它来了，阅读体验直线飙升](https://mp.weixin.qq.com/s/Kgqc8wK6gPdrEy71d81thw)
+
 [起猛了，PG又成了年度数据库了？五冠王诞生](https://mp.weixin.qq.com/s/3PeiHR7d7N-AoUxJZH_92g?token=484293758&lang=zh_CN)
 
 [笃行致远，《PostgreSQL 14 Internals》三载始成](https://mp.weixin.qq.com/s/zQLMlhpGAIH7r_OqcMWpvA?token=884047593&lang=zh_CN)
@@ -474,6 +478,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [进击的PostgreSQL](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485403&idx=1&sn=ef1c8865a3e2be9262177e8ead38a0f5&chksm=fa662feacd11a6fc0e6546f1298883d0efb3aa4691bfc20a275cdc3b056aaaaa05f2087f468f&token=1039605624&lang=zh_CN#rd)
 
 # 锁
+
+[pt-online-change工具这么多，哪一个是你的菜？](https://mp.weixin.qq.com/s/7wyiiBk4rLk8Fo5x5lm0Kg)
 
 [还以为死锁只在单机模式下才有？那你OUT了！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492057&idx=1&sn=5d529c0503246ad552522ffc7a88ad70&chksm=fa65c9e8cd1240fef8f4ab82361194049e9c3d811efdceba9bef7c51a0010e7778699dd72f92&token=155232216&lang=zh_CN#rd)
 
