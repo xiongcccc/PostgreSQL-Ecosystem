@@ -10,9 +10,7 @@ Feel free to Connect with Me：
 - [GitHub](https://github.com/xiongcccc) | 微信公众号：PostgreSQL学徒
 - 📨 xiongcc\_1994@126.com / xiongcc\_1994@outlook.com
 
-大家好，各位可以喊我 CC，我是 PostgreSQL ACE/MVP，杰出新人，CSDN 社区之星，PostgreSQL 学徒公众号主理人，平时喜欢捣鼓开源，亲身保障过第七次人口普查等重大项目，精通 PostgreSQL 与 Greenplum 体系架构与运行原理，实战经验丰富。
-
-PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用 PostgreSQL！这也是我目前正在做的事情，坚持布道与分享，希望各位都能从小工到专家，从 enthusiast 到 committer！
+大家好，各位可以喊我 CC，我是 PostgreSQL ACE/MVP，杰出新人，CSDN 社区之星，PostgreSQL 学徒公众号主理人，平时喜欢捣鼓开源，亲身保障过第七次人口普查等重大项目，精通 PostgreSQL 与 Greenplum 体系架构与运行原理，实战经验丰富。PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用 PostgreSQL！这也是我目前正在做的事情，坚持布道与分享，希望各位都能从小工到专家，从 enthusiast 到 committer。
 
 觉得项目不错，不妨点个 ⭐️ 再走 ~
 
