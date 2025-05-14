@@ -1,5 +1,5 @@
 # 🧑‍💻 About Me
-PostgreSQL expert, open-source enthusiast, and software engineer. 🎉 https://xiongcc.cn
+PostgreSQL expert, open-source enthusiast, and software engineer. Personal Homepage：https://xiongcc.cn
 
 - 🛠 Founder of [PostgreSQL-howto in chinese](https://postgres-howto.cn/#/) project
 - 📚 Translator of [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals)
@@ -99,8 +99,6 @@ Feel free to Connect with Me：
 [深度剖析PostgreSQL中的执行计划](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487733&idx=1&sn=1db0eaa8519ed4849a52f63a9515b03a&chksm=fa6638c4cd11b1d2847a1b01424e6892e59c3f539347ade916fc0f5acba7ac9024a75b0bdce0&token=1039605624&lang=zh_CN#rd)
 
 [一文搞懂Postgres中的计划节点](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485256&idx=1&sn=2dcde5485daacda0fe45e7b505b13383&chksm=fa662f79cd11a66f3f0bcd33ac64c0cb1a8877806c1f783b254ee6093bb3f4a5ad48ab7f7deb&token=923061450&lang=zh_CN#rd)
-
-![image](https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/72586f81-8ade-4148-8018-a8e2ac1da976)
 
 # 统计信息
 
@@ -372,23 +370,17 @@ Feel free to Connect with Me：
 
 [聊一聊被众人误解许久的iowait](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489555&idx=1&sn=f80e9d56cbfc7a3e0f8e22d611dcd41c&chksm=fa663022cd11b93488a12e9f7bbbbf129d4449efd0c3aeabd7dccb2f8826b7d0434add991f7b&token=1039605624&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f148a9f3-8ae4-475e-84c1-7e73e0e83afa">
-
 # 网络
 
 [从一个案例聊聊DBA掌握网络的重要性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491869&idx=1&sn=5820f7d44c90392eff77caa21fc50e3c&chksm=fa65c92ccd12403a30da1c27e633427e141a9523044d79621b54715fe0b528ca5cf9f6cbd4d5&token=1225634768&lang=zh_CN#rd)
 
 [DBA必备技能之网络丢包分析总结](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490614&idx=1&sn=ac9643a399c79c593fd73d800ffc5953&chksm=fa663407cd11bd11d7b7dd6fac3e50211d1f08d12deac02ad55135e6a7f6d7e6bc4a8c123b65&token=2116038334&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d38735bc-d201-4373-9752-6cc269a50836">
-
 # TOAST
 
 [关于烤面包的方方面面](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489618&idx=1&sn=12e906d6dea6414e862c413e95e20391&chksm=fa663063cd11b975d22d5a59696482fab17a4a250a1c4e2ae7a75dc188fd02ee9ec471ddbdc4&token=1039605624&lang=zh_CN#rd)
 
 [聊聊PostgreSQL中的"烤面包"TOAST](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488278&idx=1&sn=673b883bee4ed7db812949cfb2ae9618&chksm=fa663b27cd11b2316570e6f5e7c293fc2f383ac91db2fc4b7a915d6e5a32fad778cadb368d50&token=1039605624&lang=zh_CN#rd)
-
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/d786aa56-c075-4e19-b82a-6ed3d3b12e38">
 
 [从源码出发，深度剖析字节对齐](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486054&idx=1&sn=6c13cc44750f3b5b6f35e26fb9b635d1&chksm=fa662257cd11ab415a5bae595197a6a2dd17d6968526cc6e2cd5917e38fa5496ac21fa61e383&token=1039605624&lang=zh_CN#rd)
 
