@@ -1,18 +1,19 @@
-# 🧑‍💻 About Me
-PostgreSQL expert, open-source enthusiast, and software engineer. Personal Homepage：https://xiongcc.cn
+# About Me
+PostgreSQL expert, open-source enthusiast, and software engineer. 
 
 - 🛠 Founder of [PostgreSQL-howto in chinese](https://postgres-howto.cn/#/) project
 - 📚 Translator of [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals)
 - 📝 PostgreSQL 14 Internals in chinese：[https://postgres-internals.cn/](https://postgres-internals.cn/)
+- 🧑‍💻 Personal Homepage：https://xiongcc.cn
 
 Feel free to Connect with Me：
 
 - [GitHub](https://github.com/xiongcccc) | 微信公众号：PostgreSQL学徒
 - 📨 xiongcc\_1994@126.com / xiongcc\_1994@outlook.com
 
-大家好，各位可以喊我 CC，我是 PostgreSQL ACE/MVP，杰出新人，CSDN 社区之星，PostgreSQL 学徒公众号主理人，平时喜欢捣鼓开源，亲身保障过第七次人口普查等重大项目，精通 PostgreSQL 与 Greenplum 体系架构与运行原理，实战经验丰富。PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用 PostgreSQL！这也是我目前正在做的事情，坚持布道与分享，希望各位都能从小工到专家，从 enthusiast 到 committer。
+大家好，各位可以喊我 CC，我是 PostgreSQL ACE/MVP，杰出新人，CSDN 社区之星，PostgreSQL 学徒公众号主理人，平时喜欢捣鼓开源，亲身保障过第七次人口普查等重大项目，精通 PostgreSQL 与 Greenplum 体系架构与运行原理，实战经验丰富。
 
-觉得项目不错，不妨点个 ⭐️ 再走 ~
+PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用 PostgreSQL。觉得项目不错，不妨点个 ⭐️ 再走 ~
 
 # Star History
 
@@ -593,8 +594,6 @@ Feel free to Connect with Me：
 [聊聊基础备份与FPI](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247488917&idx=1&sn=d32e80de35d287ae22ae03606c558fcc&chksm=fa663da4cd11b4b299f656ee1abd92693fc87f604d4ea398811c2e8833e2e7e53da1130cca6c&token=1039605624&lang=zh_CN#rd)
 
 [从DBA的角度聊聊UUID的利与弊](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489659&idx=1&sn=f5cbf3851cd457f1c8093132e97b35e2&chksm=fa66304acd11b95c2a1aad0cde2048e867eaf977e86dcbdea06ab6ffb84c3d04f326bcee90c8&token=1039605624&lang=zh_CN#rd)
-
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/486528dc-0cca-43ca-a2cb-6eca242435e6">
 
 ## 好文分享
 
