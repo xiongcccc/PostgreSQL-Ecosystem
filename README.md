@@ -1,5 +1,5 @@
 ## 🧑‍💻 About Me
-PostgreSQL expert, open-source enthusiast, and software engineer.
+PostgreSQL expert, open-source enthusiast, and software engineer. 🎉 https://xiongcc.cn
 
 - 🛠 Founder of [PostgreSQL-howto in chinese](https://postgres-howto.cn/#/) project
 - 📚 Translator of [PostgreSQL 14 Internals](https://postgrespro.com/community/books/internals)
@@ -10,23 +10,15 @@ Feel free to Connect with Me：
 - [GitHub](https://github.com/xiongcccc) | 微信公众号：PostgreSQL学徒
 - 📨 xiongcc\_1994@126.com / xiongcc\_1994@outlook.com
 
-大家好，各位可以喊我 CC，我是 PostgreSQL ACE/MVP，杰出新人，CSDN 社区之星，PostgreSQL 学徒公众号主理人，亲身保障过第七次人口普查等重大项目，精通 PostgreSQL 体系架构与运行原理，实战经验丰富。目前正在从事 PostgreSQL 与 Greenplum 相关工作。
+大家好，各位可以喊我 CC，我是 PostgreSQL ACE/MVP，杰出新人，CSDN 社区之星，PostgreSQL 学徒公众号主理人，平时喜欢捣鼓开源，亲身保障过第七次人口普查等重大项目，精通 PostgreSQL 与 Greenplum 体系架构与运行原理，实战经验丰富。
 
-PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用 PostgreSQL！这也是我目前正在做的事情，坚持布道与分享。以下是 PostgreSQL 学徒公众号文章的简单分类，希望各位都能从小工到专家，从 enthusiast 到 committer！
-
-<img width="1731" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/3999b893-03c0-423c-a2da-d2dc1161050e">
-
-另外我个人维护了四个 PostgreSQL 学徒交流群，感兴趣的都可以联系我，一起学习 PostgreSQL。
+PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能深、动能足，值得让越来越多的人知道并使用 PostgreSQL！这也是我目前正在做的事情，坚持布道与分享，希望各位都能从小工到专家，从 enthusiast 到 committer！
 
 觉得项目不错，不妨点个 ⭐️ 再走 ~
 
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=xiongcccc/PostgreSQL-ecosystem&type=Date)](https://star-history.com/#xiongcccc/PostgreSQL-ecosystem&Date)
-
-## 公众号历史文章分类
-
-历史文章正在逐步往 https://xiongcc.cn 网站上迁移中，阅读体验更加。
 
 ### 请尊重知识版权
 
