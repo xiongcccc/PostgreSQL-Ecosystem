@@ -479,10 +479,6 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [进击的PostgreSQL](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485403&idx=1&sn=ef1c8865a3e2be9262177e8ead38a0f5&chksm=fa662feacd11a6fc0e6546f1298883d0efb3aa4691bfc20a275cdc3b056aaaaa05f2087f468f&token=1039605624&lang=zh_CN#rd)
 
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/39393714-de7e-4fbd-8bd9-aa0ce96667f6">
-
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/b957f397-3a67-43f7-b6e0-d3519059ba1d">
-
 # 锁
 
 [还以为死锁只在单机模式下才有？那你OUT了！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492057&idx=1&sn=5d529c0503246ad552522ffc7a88ad70&chksm=fa65c9e8cd1240fef8f4ab82361194049e9c3d811efdceba9bef7c51a0010e7778699dd72f92&token=155232216&lang=zh_CN#rd)
@@ -582,8 +578,6 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [PITR是幂等的吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487276&idx=1&sn=3f371676c8bc3d6ce8b4af6625b6e2c1&chksm=fa66271dcd11ae0b6cc8e77114c71783aef3d24e975fec51e46603229485d7090c91c33caca7&token=1039605624&lang=zh_CN#rd)
 
 [为什么WAL日志归档这么慢？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247485950&idx=1&sn=7774190a709ced7a916f5a2319dc6baa&chksm=fa6621cfcd11a8d97d2ceda3fdcc63a52e7860ccc3cc27c383b9df11e640387f9ca9323e554f&token=49230727&lang=zh_CN#rd)
-
-<img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/f29e282c-b428-4649-a15f-6f35df1ad571">
 
 # FPI
 
