@@ -220,6 +220,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 ### 优化
 
+[SQL 优化之 OR 子句改写](https://mp.weixin.qq.com/s/huTvFwvVOczIpgI3A-dmSQ)
+
 [宝藏PEV，助力你成为SQL优化高手](https://mp.weixin.qq.com/s/_kzXB52EeyK7FrXGWO-FsQ)
 
 [为什么需要向量化执行引擎](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491830&idx=1&sn=22e20cf5a7dd086b191d060109b53cf2&chksm=fa65c8c7cd1241d1ea17519d56b4fe9c5f1c7bf754cfc94bc9f18eac539afa45106cf4e70a5e&token=1151403351&lang=zh_CN#rd)
@@ -561,6 +563,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 <img width="575" alt="image" src="https://github.com/xiongcccc/PostgreSQL-ecosystem/assets/118109523/ab3cb326-19a4-49b7-b5cb-9c5449259837">
 
 ### 个人感想
+
+[数据库证书有用吗？](https://mp.weixin.qq.com/s/kFC8eP5hS2ul41sQArT91w)
 
 [《技术人修炼之道》读后感](https://mp.weixin.qq.com/s/EmNDSp2QkVTK7xt6rBL5rw)
 
