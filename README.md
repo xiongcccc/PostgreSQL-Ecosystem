@@ -91,6 +91,13 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [PostgreSQL查询优化器详解（逻辑优化篇）](https://blog.csdn.net/shujiezhang/article/details/108729281?spm=1001.2014.3001.5502)
 
+# 数据库生态
+
+[PostgreSQL + 组播，有希望成为下一个被收购的 neon 吗？](https://mp.weixin.qq.com/s/cqEZypYUR8fLBSRyMuQZ_g)
+
+[数据库新格局：Databricks揽下Neon，Snowflake立马回应](https://mp.weixin.qq.com/s/ysmoL-MIkqaTqqLGpO0MkA)
+
+
 # 执行计划
 
 [深度剖析PostgreSQL中的执行计划](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487733&idx=1&sn=1db0eaa8519ed4849a52f63a9515b03a&chksm=fa6638c4cd11b1d2847a1b01424e6892e59c3f539347ade916fc0f5acba7ac9024a75b0bdce0&token=1039605624&lang=zh_CN#rd)
@@ -508,6 +515,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [再唠唠晕乎的权限体系](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489261&idx=1&sn=2bf28fcfeb7523b5cffea0cbdec3da94&chksm=fa663edccd11b7ca5e89544c9618d334c9e8e6c37d4b40b1fa55f2e5729e17cde8d2b8841327&token=1039605624&lang=zh_CN#rd)
 
 # 个人感想
+
+[我发现一个趋势...](https://mp.weixin.qq.com/s/5i5pLNm5UiAGpv5X16oJog)
 
 [数据库证书有用吗？](https://mp.weixin.qq.com/s/kFC8eP5hS2ul41sQArT91w)
 
