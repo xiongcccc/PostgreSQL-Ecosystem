@@ -468,6 +468,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 新特性解读
 
+[告别 SubPlan 循环！PostgreSQL 17 相关子查询性能直线飙升](https://mp.weixin.qq.com/s/KnS4cQmE2a4lkyr5Rjufkg)
+
 [PostgreSQL18新特性前瞻](https://mp.weixin.qq.com/s/ownmQ4jWugwCfFphXn6jJA)
 
 [惹眼新特性之COPY容错处理解读](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492403&idx=1&sn=57b44e412372ba6e8cf1b5d7a6a66efc&chksm=fa65cb02cd1242146dd0734d1e1787c5c497d42310f13fc3dc157b6cf81d7c41cb4a1a63c74b&token=1542668282&lang=zh_CN#rd)
