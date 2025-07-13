@@ -170,6 +170,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 个人活动记录
 
+[IvorySQL大会，俺来了！](https://mp.weixin.qq.com/s/55ILqcIQwhMax2bkzW6EYA)
+
 [以一个"外行人"视角，聊聊OB开发者大会](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491576&idx=1&sn=a6e4a5e7a6a2cf8263bb539f630c6af9&chksm=fa6637c9cd11bedf7014f0dffe200a4053250b0c10f1d14891b90a638d23fbe0ce90fdf00000&token=1301593874&lang=zh_CN#rd)
 
 [第十二届 PostgreSQL 大会有感](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489234&idx=1&sn=bc85d92efdf8aca4186492fb1f6ce18e&chksm=fa663ee3cd11b7f5a57e15b38f410e90a0dd8367d571e24fc4d453673167937303ff86f81bd0&token=1039605624&lang=zh_CN#rd)
