@@ -522,6 +522,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 个人感想
 
+[Logo很新，代码很旧：国产数据库为何老被喷"套壳换皮"](https://mp.weixin.qq.com/s/vTad4nWd-J8rK3wtM5sPxw)
+
 [我发现一个趋势...](https://mp.weixin.qq.com/s/5i5pLNm5UiAGpv5X16oJog)
 
 [数据库证书有用吗？](https://mp.weixin.qq.com/s/kFC8eP5hS2ul41sQArT91w)
