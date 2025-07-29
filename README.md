@@ -29,6 +29,10 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 数据库原理
 
+[性能退化？隐藏于Index‑Only Scan背后的实现细节](https://mp.weixin.qq.com/s/F6iI108Lrv1rhzkDmLhFww)
+
+[鸟笼逻辑，惯性思维不可取](https://mp.weixin.qq.com/s/TsAoeRWyvuNZrHtqxxYGmA)
+
 [命名不规范，事后泪两行](https://mp.weixin.qq.com/s/f2qxaWHEgXuy69Dq4UiQSQ)
 
 [nextgres项目夭折，国产新势力openHalo接棒再出发！](https://mp.weixin.qq.com/s/p-tbupDsu8BVRZA_4d3YhQ)
