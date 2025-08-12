@@ -40,8 +40,6 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [命名不规范，事后泪两行](https://mp.weixin.qq.com/s/f2qxaWHEgXuy69Dq4UiQSQ)
 
-[nextgres项目夭折，国产新势力openHalo接棒再出发！](https://mp.weixin.qq.com/s/p-tbupDsu8BVRZA_4d3YhQ)
-
 [唯一键冲突导致的种种危害，你都知道吗？](https://mp.weixin.qq.com/s/9wgv9bWiMXHGYxO5t5RXGg?token=884047593&lang=zh_CN)
 
 [庖丁解牛，深入浅出无日志表](https://mp.weixin.qq.com/s/wEYdNRmLrHRzY2Y87HIkmw?token=884047593&lang=zh_CN)
@@ -106,6 +104,7 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [数据库新格局：Databricks揽下Neon，Snowflake立马回应](https://mp.weixin.qq.com/s/ysmoL-MIkqaTqqLGpO0MkA)
 
+[nextgres项目夭折，国产新势力openHalo接棒再出发！](https://mp.weixin.qq.com/s/p-tbupDsu8BVRZA_4d3YhQ)
 
 # 执行计划
 
@@ -195,9 +194,13 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 培训认证
 
+[数据库证书有用吗？](https://mp.weixin.qq.com/s/kFC8eP5hS2ul41sQArT91w)
+
 [简单科普一下PostgreSQL的培训认证](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486497&idx=1&sn=d98724250b46c6b99a11b8e8c3feb460&chksm=fa662410cd11ad060c4566ec178ace7a7045d056b87daf46f30b15818951f764aa682f474baf&token=1039605624&lang=zh_CN#rd)
 
 # 精品大图
+
+[PostgreSQL DBA Daily 5.0 那些事儿](https://mp.weixin.qq.com/s/gD0Xu3zNmUaQPbP6bvbT5w)
 
 [PostgreSQL应急流程大图](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490041&idx=1&sn=ed74b872d0d7bb579d5da203bc18b2c4&chksm=fa6631c8cd11b8dec90a9dc0f66088b15993a5512cf77f1fc46687808e551427a2c0493c828b&token=1039605624&lang=zh_CN#rd)
 
@@ -534,8 +537,6 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [Logo很新，代码很旧：国产数据库为何老被喷"套壳换皮"](https://mp.weixin.qq.com/s/vTad4nWd-J8rK3wtM5sPxw)
 
 [我发现一个趋势...](https://mp.weixin.qq.com/s/5i5pLNm5UiAGpv5X16oJog)
-
-[数据库证书有用吗？](https://mp.weixin.qq.com/s/kFC8eP5hS2ul41sQArT91w)
 
 [《技术人修炼之道》读后感](https://mp.weixin.qq.com/s/EmNDSp2QkVTK7xt6rBL5rw)
 
