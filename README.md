@@ -34,6 +34,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 数据库原理
 
+[PostgreSQL性能洞察：扩展查询协议 vs 简单查询协议](https://mp.weixin.qq.com/s/Sulc6CB5OfT8j_zCNj1tIg)
+
 [性能退化？隐藏于Index‑Only Scan背后的实现细节](https://mp.weixin.qq.com/s/F6iI108Lrv1rhzkDmLhFww)
 
 [鸟笼逻辑，惯性思维不可取](https://mp.weixin.qq.com/s/TsAoeRWyvuNZrHtqxxYGmA)
@@ -523,6 +525,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [使用eBPF提升可观测性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489293&idx=1&sn=9ab72fa4f0e0367d90453486d8c6c457&chksm=fa663f3ccd11b62ad565311513a61734ad123c0f2ef858dea0a6eef3a82ec9ae1d8ca90800bc&token=1039605624&lang=zh_CN#rd)
 
 # 权限
+
+[从动态屏蔽到静态清洗](https://mp.weixin.qq.com/s/B8R6eeyczWEyo1cDagI1EA)
 
 [权限管控，还可以再简单点](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491653&idx=1&sn=ca48591c85342e07e7d84b836003a38d&chksm=fa65c874cd1241623743597a599cf69969102359e8856a196fc27b03521fd6f92a99442eda76&token=1478079183&lang=zh_CN#rd)
 
