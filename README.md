@@ -574,6 +574,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 备份恢复
 
+[又是一个悲伤的故事...](https://mp.weixin.qq.com/s/-kgi92poxUbG08TzcD_q1g)
+
 [数据被删了干着急？继walminer之后另一款国货之光！](https://mp.weixin.qq.com/s/8bP3YamkqPNCXXjZjnllWQ)
 
 [这种数据恢复方式，我敢打赌，99%的人没有见过！](https://mp.weixin.qq.com/s/-BLDMeH5ocb40I0uJ3dSCg?token=484293758&lang=zh_CN)
@@ -675,6 +677,12 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [序列的这些坑，你造吗？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247487128&idx=1&sn=92e80b386876ee4c5e62b4e9585c8ba1&chksm=fa6626a9cd11afbfb978f5095ed28a914e5264c3152a4dcb9411654f824db65b9f74e2d0df8b&token=1153899980&lang=zh_CN#rd)
 
 # 插件与工具
+
+[pgAdmin 4：从“灾难现场”到“贴心小助手”的逆袭之路](https://mp.weixin.qq.com/s/Y-_iZOOtjNBKO6UKlu73ow)
+
+[必备生产力工具 Tmux 与 Zellij](https://mp.weixin.qq.com/s/tDQ2PV6ampS9x6RkZVzdng)
+
+[PgSQL + pgvector — 不止存储，更懂智能](https://mp.weixin.qq.com/s/ljmO7E1Ng6IGsC4Vj4Dipw)
 
 [如何在 Postgres 中实现语义搜索以及与 GPT 聊天](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247492208&idx=1&sn=b47e1cd5aa9103a3be426f833f98c0fe&chksm=fa65ca41cd124357b4360ece198cac55316927e4cdd48afc946c50cf2439f6b1fe2c7a882708&token=1022057800&lang=zh_CN#rd)
 
