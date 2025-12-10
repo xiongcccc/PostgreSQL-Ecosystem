@@ -104,6 +104,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 数据库生态
 
+[OpenTeleDB 测评，XStore 是惊喜！](https://mp.weixin.qq.com/s/42s-Mn6DusAQSK_wizC7jw)
+
 [PostgreSQL + 组播，有希望成为下一个被收购的 neon 吗？](https://mp.weixin.qq.com/s/cqEZypYUR8fLBSRyMuQZ_g)
 
 [数据库新格局：Databricks揽下Neon，Snowflake立马回应](https://mp.weixin.qq.com/s/ysmoL-MIkqaTqqLGpO0MkA)
@@ -539,6 +541,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [再唠唠晕乎的权限体系](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489261&idx=1&sn=2bf28fcfeb7523b5cffea0cbdec3da94&chksm=fa663edccd11b7ca5e89544c9618d334c9e8e6c37d4b40b1fa55f2e5729e17cde8d2b8841327&token=1039605624&lang=zh_CN#rd)
 
 # 个人感想
+
+[立冬后的第一次关心居然来自于国外友人...](https://mp.weixin.qq.com/s/h7uN-c3ACgQHunpuk9AwFQ)
 
 [Logo很新，代码很旧：国产数据库为何老被喷"套壳换皮"](https://mp.weixin.qq.com/s/vTad4nWd-J8rK3wtM5sPxw)
 
