@@ -284,6 +284,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 日志配置
 
+[轻量、零配置、极速：pgweasel 带来的日志分析新体验](https://mp.weixin.qq.com/s/xkpp0FavAhOjZ_sOH_5aZQ)
+
 [PostgreSQL 日志最佳实践 (合订本)](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491927&idx=1&sn=890e24abd549a6008e05564a4e506bcf&chksm=fa65c966cd12407033c653f196035518adda359c4a721e9756aacd963e964f395903de708bd0&token=215916164&lang=zh_CN#rd)
 
 [还不知道如何配置日志？拿捏！](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491387&idx=1&sn=1cb8ba09c7b986da0a02edf931a378ef&chksm=fa66370acd11be1c3461ad21ecf8e75dbefa7041ce1fe307f6c22bad9c99f16a01ca65407054&token=580649785&lang=zh_CN#rd)
@@ -393,6 +395,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [聊一聊被众人误解许久的iowait](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489555&idx=1&sn=f80e9d56cbfc7a3e0f8e22d611dcd41c&chksm=fa663022cd11b93488a12e9f7bbbbf129d4449efd0c3aeabd7dccb2f8826b7d0434add991f7b&token=1039605624&lang=zh_CN#rd)
 
 # 网络
+
+[窥探 PGSQL 协议：没有加密时的数据有多裸奔](https://mp.weixin.qq.com/s/pXvWEhpC1ixEtIs7nr3yvA)
 
 [从一个案例聊聊DBA掌握网络的重要性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491869&idx=1&sn=5820f7d44c90392eff77caa21fc50e3c&chksm=fa65c92ccd12403a30da1c27e633427e141a9523044d79621b54715fe0b528ca5cf9f6cbd4d5&token=1225634768&lang=zh_CN#rd)
 
@@ -541,6 +545,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [再唠唠晕乎的权限体系](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489261&idx=1&sn=2bf28fcfeb7523b5cffea0cbdec3da94&chksm=fa663edccd11b7ca5e89544c9618d334c9e8e6c37d4b40b1fa55f2e5729e17cde8d2b8841327&token=1039605624&lang=zh_CN#rd)
 
 # 个人感想
+
+[干中学，永远是最快的路](https://mp.weixin.qq.com/s/ZM5-P_9OGPmg7eDBl-5PeQ)
 
 [立冬后的第一次关心居然来自于国外友人...](https://mp.weixin.qq.com/s/h7uN-c3ACgQHunpuk9AwFQ)
 
