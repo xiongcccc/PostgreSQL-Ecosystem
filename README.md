@@ -34,6 +34,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 数据库原理
 
+[小案例一则，PG 中的延迟创建](https://mp.weixin.qq.com/s/3VpI2LvvHxrkRSEVMR3_ew?poc_token=HGggOWmj0BpSO7Ng_kCoPa2J9yGm9W2Cd9UqxlZS)
+
 [PostgreSQL性能洞察：扩展查询协议 vs 简单查询协议](https://mp.weixin.qq.com/s/Sulc6CB5OfT8j_zCNj1tIg)
 
 [性能退化？隐藏于Index‑Only Scan背后的实现细节](https://mp.weixin.qq.com/s/F6iI108Lrv1rhzkDmLhFww)
@@ -735,6 +737,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [如何高效处理/索引 JSON](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486086&idx=1&sn=2edebd443df914ff5d290820a407a33f&chksm=fa6622b7cd11aba170d850f0b19c6f143a327851438d7813400d76510159882b6c7467478761#rd)
 
 # Greenplum
+
+[PG 家族的另一面：Greenplum 生态的裂变与传承](https://mp.weixin.qq.com/s/nfR82zwxmEEMSH2MVOE2wg)
 
 [APCC，从入门到放弃！](https://mp.weixin.qq.com/s/zBvAiHwI_NHrNHYVlbQFvg)
 
