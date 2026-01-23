@@ -72,6 +72,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [PostgreSQL优化器解析](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247486987&idx=1&sn=58b66693b0fbfd3f378377968be1085b&chksm=fa66263acd11af2c0b06cbddcad06ed18db3a414f02df733793d9d08979687cbd7a1e53b833a&token=1039605624&lang=zh_CN#rd)
 
+[Jovis 初探：优化器内幕的冰山一角](https://mp.weixin.qq.com/s/fJEdGglGCs_xa4PwYClj7A)
+
 [深入剖析PostgreSQL优化器](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490679&idx=1&sn=9d224e3ad1e85ebef02704e364350f93&chksm=fa663446cd11bd50594b3675371b28c24f13a2eade1c84bd01ddd8f5625fc9bbab31a023522c&token=923061450&lang=zh_CN#rd)
 
 [PG先写脏页还是先写WAL？](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490124&idx=1&sn=a19cc6f21059df420452b26d4f3e45a6&chksm=fa66327dcd11bb6bd6b2d239bf409c3f9e0327c9bd4e7504fa444a0a9a8646a600f76482acd8&token=1039605624&lang=zh_CN#rd)
