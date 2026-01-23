@@ -548,6 +548,10 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 个人感想
 
+[技术群不再“技术”了：我们正在经历一场集体沉默](https://mp.weixin.qq.com/s/_Z2Tbi89HSZ32_APYV7B9g)
+
+[一本国产数据库性能优化书，值得读吗？](https://mp.weixin.qq.com/s/kov-uHweTY6mYupbU7TV3A)
+
 [干中学，永远是最快的路](https://mp.weixin.qq.com/s/ZM5-P_9OGPmg7eDBl-5PeQ)
 
 [立冬后的第一次关心居然来自于国外友人...](https://mp.weixin.qq.com/s/h7uN-c3ACgQHunpuk9AwFQ)
@@ -568,7 +572,7 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [亦师亦友，一见如故](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491559&idx=1&sn=10ad171706b5c2e3de7cf0b2dc870579&chksm=fa6637d6cd11bec05f489fd2a50327a5c55eb606ca5834097c144562f05af8c5195a13d93c51&token=1301593874&lang=zh_CN#rd)
 
-[2025 年终总结](https://mp.weixin.qq.com/s/LDSLfM2fgfK5UXBBZQe7pA）
+[2025 年终总结](https://mp.weixin.qq.com/s/fJEdGglGCs_xa4PwYClj7A)
 
 [2024 年终总结](https://mp.weixin.qq.com/s/8dFydJ2gm9_j2DkNzcDy2A?token=1330242205&lang=zh_CN)
 
@@ -725,6 +729,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [1000+ PostgreSQL EXTENSIONs](https://gist.github.com/joelonsql/e5aa27f8cc9bd22b8999b7de8aee9d47)
 
 # 使用技巧
+
+[又邪又巧的 hack](https://mp.weixin.qq.com/s/oN-icdPmKSQ5zuHMocI1zA)
 
 [实用编译项：OPTIMIZER_DEBUG](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491213&idx=1&sn=b83b298f2af6f40a40cd7df097fab0e8&chksm=fa6636bccd11bfaa2f321546e2840cad2b94ab2ae1f8047a4726e57f6458fb77ad64cf00941f&token=1912159924&lang=zh_CN#rd)
 
