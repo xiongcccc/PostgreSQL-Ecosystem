@@ -566,6 +566,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 [亦师亦友，一见如故](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247491559&idx=1&sn=10ad171706b5c2e3de7cf0b2dc870579&chksm=fa6637d6cd11bec05f489fd2a50327a5c55eb606ca5834097c144562f05af8c5195a13d93c51&token=1301593874&lang=zh_CN#rd)
 
+[2025 年终总结](https://mp.weixin.qq.com/s/LDSLfM2fgfK5UXBBZQe7pA）
+
 [2024 年终总结](https://mp.weixin.qq.com/s/8dFydJ2gm9_j2DkNzcDy2A?token=1330242205&lang=zh_CN)
 
 [2023 年终总结](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490976&idx=1&sn=83f842553fbb06e28cf890d908a078da&chksm=fa663591cd11bc874d1fe5d55f97d8052f40787bc3cc93b184eda99bb27f986a3f0b27fa95ef&token=1263052848&lang=zh_CN#rd)
