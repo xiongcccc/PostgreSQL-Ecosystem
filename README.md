@@ -368,6 +368,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 内存
 
+[深入浅出 Shared Buffers](https://mp.weixin.qq.com/s/EIiPwNMwnm_fBpMxRX9yZA)
+
 [从pmap内核实现原理聊聊如何分析内存](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247490950&idx=1&sn=7af60fed924cf64892599d8be7be9f45&chksm=fa6635b7cd11bca1502f4eba3f5029f9859247e46182bdc2aaf3ddeecc1803432f3462d20ade&token=1263052848&lang=zh_CN#rd)
 
 [从DBA的角度系统学习一下内存管理](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489418&idx=1&sn=3817df7b8b91c1e2c76c7c2ea4702471&chksm=fa663fbbcd11b6ada63abad895d9ebc3752b9d36447e4caf57d31aaa4e184ded4c7a42bfe101&token=1039605624&lang=zh_CN#rd)
@@ -547,6 +549,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [再唠唠晕乎的权限体系](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489261&idx=1&sn=2bf28fcfeb7523b5cffea0cbdec3da94&chksm=fa663edccd11b7ca5e89544c9618d334c9e8e6c37d4b40b1fa55f2e5729e17cde8d2b8841327&token=1039605624&lang=zh_CN#rd)
 
 # 个人感想
+
+[盘点一下我做过的 PG 那些事儿](https://mp.weixin.qq.com/s/meJo1UYIGyMwPfnOGJfUaw)
 
 [技术群不再“技术”了：我们正在经历一场集体沉默](https://mp.weixin.qq.com/s/_Z2Tbi89HSZ32_APYV7B9g)
 
