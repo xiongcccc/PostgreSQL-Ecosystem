@@ -496,6 +496,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 新特性解读
 
+[PG 18 让 NUMA 可观测、可感知](https://mp.weixin.qq.com/s/TeWCaj7e8xRRjl1eIQ84wg)
+
 [三十年一梦，从 Post-Ingres 到 PostgreSQL 的蜕变之旅](https://mp.weixin.qq.com/s/PqDjtwZdnqtCBJWw_Ve-Aw)
 
 [告别 SubPlan 循环！PostgreSQL 17 相关子查询性能直线飙升](https://mp.weixin.qq.com/s/KnS4cQmE2a4lkyr5Rjufkg)
@@ -537,6 +539,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 [使用eBPF提升可观测性](https://mp.weixin.qq.com/s?__biz=MzUyOTAyMzMyNg==&mid=2247489293&idx=1&sn=9ab72fa4f0e0367d90453486d8c6c457&chksm=fa663f3ccd11b62ad565311513a61734ad123c0f2ef858dea0a6eef3a82ec9ae1d8ca90800bc&token=1039605624&lang=zh_CN#rd)
 
 # 权限
+
+[当便捷战胜安全 — Schema 误删的思考](https://mp.weixin.qq.com/s/2PJkitdp8Mz_bklROcjwBw)
 
 [从动态屏蔽到静态清洗](https://mp.weixin.qq.com/s/B8R6eeyczWEyo1cDagI1EA)
 
