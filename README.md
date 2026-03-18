@@ -706,6 +706,8 @@ PostgreSQL 是先进的开源数据库，其功能强大、一专多长，潜能
 
 # 插件与工具
 
+[为什么 pgvector 会将索引限制在 2000 维？](https://mp.weixin.qq.com/s/DOUY-lpLMcUsQhwCYQLDdQ)
+
 [pgAdmin 4：从“灾难现场”到“贴心小助手”的逆袭之路](https://mp.weixin.qq.com/s/Y-_iZOOtjNBKO6UKlu73ow)
 
 [必备生产力工具 Tmux 与 Zellij](https://mp.weixin.qq.com/s/tDQ2PV6ampS9x6RkZVzdng)
